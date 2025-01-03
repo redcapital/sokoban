@@ -84,6 +84,15 @@ export function useLevels() {
     setIndex(index + 1);
     localStorage.setItem(SOKOBAN_LEVEL_KEY, String(index + 1));
   }, [index]);
+  const loadByIndex = useCallback(
+    (idx: number) => {
+      if (idx >= 0 && idx < levels.length) {
+        setIndex(idx);
+        localStorage.setItem(SOKOBAN_LEVEL_KEY, String(idx));
+      }
+    },
+    [levels]
+  );
 
-  return { index, level, loadNext };
+  return { index, level, loadNext, levels, loadByIndex };
 }

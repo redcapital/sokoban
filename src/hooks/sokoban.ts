@@ -53,7 +53,7 @@ function getPlayerPosition<T extends Level>(level: T): Position {
 }
 
 export function useSokoban() {
-  const { index, level, loadNext } = useLevels();
+  const { index, level, loadNext, levels, loadByIndex } = useLevels();
   const [state, setState] = useState<State>(State.playing);
   const initboard = useCallback(
     () => [
@@ -139,6 +139,13 @@ export function useSokoban() {
       setBoard(initboard());
     }
   }, [state, initboard]);
+  const loadLevel = useCallback(
+    (idx: number) => {
+      loadByIndex(idx);
+      setState(State.playing);
+    },
+    [loadByIndex]
+  );
 
   useEffect(() => {
     if (board[0].name !== level.name) setBoard(initboard());
@@ -152,5 +159,7 @@ export function useSokoban() {
     next,
     undo,
     restart,
+    loadLevel,
+    levels,
   };
 }
