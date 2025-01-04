@@ -10,6 +10,7 @@ function HelpImpl() {
         <div>&darr;</div>
         <div>backspace</div>
         <div>escape</div>
+        <div>S</div>
       </div>
       <div className={style.instructions}>
         <div> Move</div>
@@ -17,6 +18,7 @@ function HelpImpl() {
         <div> Move</div>
         <div> Undo</div>
         <div> restart level</div>
+        <div>replay solution</div>
       </div>
     </div>
   );

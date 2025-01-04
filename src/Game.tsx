@@ -21,6 +21,7 @@ function Game() {
     levels,
     loadLevel,
     replaySolution,
+    moveCount,
   } = useSokoban();
   useKeyBoard(
     (event) => {
@@ -84,6 +85,7 @@ function Game() {
         </select>
         <button onClick={onLoadClick}>Load level</button>
       </div>
+      <p>Move count: {moveCount}</p>
 
       <div className={style.board}>
         {level.shape.map((row) => (
@@ -103,6 +105,17 @@ function Game() {
         ))}
       </div>
       <Help />
+      {level.solution && (
+        <div>
+          <p>
+            Solution:{" "}
+            <textarea rows={1} cols={24}>
+              {level.solution}
+            </textarea>
+          </p>
+          <p>Solution moves: {level.solution.length}</p>
+        </div>
+      )}
       {state === State.completed && (
         <div className={style.state}>
           <div className={style.levelState}>LEVEL completed </div>

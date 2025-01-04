@@ -55,6 +55,7 @@ function getPlayerPosition<T extends Level>(level: T): Position {
 export function useSokoban() {
   const { index, level, loadNext, levels, loadByIndex } = useLevels();
   const [state, setState] = useState<State>(State.playing);
+  const [moveCount, setMoveCount] = useState(0);
   const initboard = useCallback(
     () => [
       {
@@ -125,16 +126,18 @@ export function useSokoban() {
           if (!movingBlock) board.pop();
 
           setBoard([...board, next]);
+          setMoveCount(moveCount + 1);
         }
       }
     },
-    [board, state, isReplayStarted]
+    [board, state, isReplayStarted, moveCount]
   );
 
   const next = useCallback(() => {
     if (state === State.completed) {
       loadNext();
       setState(State.playing);
+      setMoveCount(0);
     }
   }, [state, loadNext]);
   const undo = useCallback(() => {
@@ -146,11 +149,14 @@ export function useSokoban() {
     if (state === State.playing) {
       setBoard(initboard());
     }
+    setReplayStarted(false);
+    setMoveCount(0);
   }, [state, initboard]);
   const loadLevel = useCallback(
     (idx: number) => {
       loadByIndex(idx);
       setState(State.playing);
+      setMoveCount(0);
     },
     [loadByIndex]
   );
@@ -189,6 +195,7 @@ export function useSokoban() {
     if (level.solution) {
       setBoard(initboard());
       setState(State.playing);
+      setMoveCount(0);
       setReplayMoveIndex(0);
       setReplayStarted(true);
     }
@@ -214,5 +221,6 @@ export function useSokoban() {
     loadLevel,
     levels,
     replaySolution,
+    moveCount,
   };
 }
