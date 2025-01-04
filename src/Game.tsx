@@ -10,8 +10,18 @@ import { styleFrom, styleDirection } from "./utils/block-styles";
 
 function Game() {
   const selectRef = useRef<HTMLSelectElement>(null);
-  const { index, level, state, move, next, undo, restart, levels, loadLevel } =
-    useSokoban();
+  const {
+    index,
+    level,
+    state,
+    move,
+    next,
+    undo,
+    restart,
+    levels,
+    loadLevel,
+    replaySolution,
+  } = useSokoban();
   useKeyBoard(
     (event) => {
       switch (event.code) {
@@ -36,6 +46,9 @@ function Game() {
         case "Escape":
           restart();
           break;
+        case "KeyS":
+          replaySolution();
+          break;
       }
       event.preventDefault();
     },
@@ -47,6 +60,7 @@ function Game() {
       "Enter",
       "Backspace",
       "Escape",
+      "KeyS",
     ]
   );
 
@@ -61,9 +75,9 @@ function Game() {
       <div className={style.state}>
         <div className={style.levelPrefix}>Level {index + 1} :</div>
         <div className={style.levelTitle}>{level.name}</div>
-        <select ref={selectRef}>
+        <select ref={selectRef} defaultValue={index}>
           {levels.map((level, idx) => (
-            <option value={idx} key={level.name} selected={index === idx}>
+            <option value={idx} key={level.name}>
               {level.name}
             </option>
           ))}

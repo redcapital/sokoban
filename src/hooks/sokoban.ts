@@ -66,8 +66,14 @@ export function useSokoban() {
     [level]
   );
   const [board, setBoard] = useState<Board>(initboard);
+  const [replayMoveIndex, setReplayMoveIndex] = useState(0);
+  const [isReplayStarted, setReplayStarted] = useState(false);
+
   const move = useCallback(
-    (direction: Direction) => {
+    (direction: Direction, isReplayMove = false) => {
+      if (isReplayStarted && !isReplayMove) {
+        return;
+      }
       if (state === State.playing) {
         const dir = directionToPosition(direction);
         const last = board[board.length - 1];
@@ -112,15 +118,17 @@ export function useSokoban() {
                 [Block.objective, Block.playerOnObjective].includes(block)
               )
             )
-          )
+          ) {
             setState(State.completed);
+            setReplayStarted(false);
+          }
           if (!movingBlock) board.pop();
 
           setBoard([...board, next]);
         }
       }
     },
-    [board, state]
+    [board, state, isReplayStarted]
   );
 
   const next = useCallback(() => {
@@ -151,6 +159,50 @@ export function useSokoban() {
     if (board[0].name !== level.name) setBoard(initboard());
   }, [board, state, level, loadNext, next, restart, initboard, move]);
 
+  const doReplayMove = useCallback(() => {
+    if (!level.solution || !level.solution[replayMoveIndex]) {
+      setReplayStarted(false);
+    } else {
+      switch (level.solution[replayMoveIndex]) {
+        case "l":
+        case "L":
+          move(Direction.Left, true);
+          break;
+        case "u":
+        case "U":
+          move(Direction.Top, true);
+          break;
+        case "r":
+        case "R":
+          move(Direction.Right, true);
+          break;
+        case "d":
+        case "D":
+          move(Direction.Bottom, true);
+          break;
+      }
+      setReplayMoveIndex(replayMoveIndex + 1);
+    }
+  }, [level, replayMoveIndex, move]);
+
+  const replaySolution = useCallback(() => {
+    if (level.solution) {
+      setBoard(initboard());
+      setState(State.playing);
+      setReplayMoveIndex(0);
+      setReplayStarted(true);
+    }
+  }, [level, initboard]);
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      if (isReplayStarted) {
+        doReplayMove();
+      }
+    }, 200);
+    return () => clearInterval(timer);
+  }, [isReplayStarted, doReplayMove]);
+
   return {
     index,
     level: board[board.length - 1],
@@ -161,5 +213,6 @@ export function useSokoban() {
     restart,
     loadLevel,
     levels,
+    replaySolution,
   };
 }

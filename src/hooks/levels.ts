@@ -6,6 +6,7 @@ export type Level = {
   shape: Block[][];
   width: number;
   height: number;
+  solution?: string;
 };
 
 export interface SokobanLevels {
@@ -61,6 +62,7 @@ function loadLevels() {
       ),
       width: Number(level.Width),
       height: Number(level.Height),
+      solution: level.solution,
     }))
   );
 }
