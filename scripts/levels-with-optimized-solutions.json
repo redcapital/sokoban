@@ -1,0 +1,1277 @@
+[
+  {
+    "title": "microban - level 001",
+    "definition": "####\n# .#\n#  ###\n#*@  #\n#  $ #\n#  ###\n####",
+    "solution": "dlurrrdlullddruluruuldrddrruldluu"
+  },
+  {
+    "title": "microban - level 002",
+    "definition": "######\n#    #\n# #@ #\n# $* #\n# .* #\n#    #\n######",
+    "solution": "rddlruulduullddr"
+  },
+  {
+    "title": "microban - level 003",
+    "definition": "  ####\n###  ####\n#     $ #\n# #  #$ #\n# . .#@ #\n#########",
+    "solution": "ruullluldrrrrddlurulllddllluurrdrdluuurdd"
+  },
+  {
+    "title": "microban - level 004",
+    "definition": "########\n#      #\n# .**$@#\n#      #\n#####  #\n    ####",
+    "solution": "ulldldruurrdllrrddlurul"
+  },
+  {
+    "title": "microban - level 005",
+    "definition": " #######\n #     #\n # .$. #\n## $@$ #\n#  .$. #\n#      #\n########",
+    "solution": "luurrdlrrddlulldruuullddrddllur"
+  },
+  {
+    "title": "microban - level 006",
+    "definition": "###### #####\n#    ###   #\n# $$     #@#\n# $ #...   #\n#   ########\n#####",
+    "solution": "ulldllllulllddrluurdrrrrrdrrruulldurrddllllulllllddrulurrrrrrdrrruulldurrddlllulllllddrulurrrrrdrrruulldurrddll"
+  },
+  {
+    "title": "microban - level 007",
+    "definition": "#######\n#     #\n# .$. #\n# $.$ #\n# .$. #\n# $.$ #\n#  @  #\n#######",
+    "solution": "rruuuullrrddluldrrddludlluluur"
+  },
+  {
+    "title": "microban - level 008",
+    "definition": "  ######\n  # ..@#\n  # $$ #\n  ## ###\n   # #\n   # #\n#### #\n#    ##\n# #   #\n#   # #\n###   #\n  #####",
+    "solution": "llddddddldddrruulrddlluuruuuuuuurrdlulddddddldddrruulrddllulluurrllddrrdrruuluuuuuulurddddddlllddrrudlluurrdruuuuuu"
+  },
+  {
+    "title": "microban - level 009",
+    "definition": "#####\n#.  ##\n#@$$ #\n##   #\n ##  #\n  ##.#\n   ###",
+    "solution": "urrdulldrdrluurdrddluruldlurul"
+  },
+  {
+    "title": "microban - level 010",
+    "definition": "      #####\n      #.  #\n      #.# #\n#######.# #\n# @ $ $ $ #\n# # # # ###\n#       #\n#########",
+    "solution": "rddrruullrrddrruullrruuurrdddllddlluurlddrruuuuddllddlluurrrlddrruuudllllddlluurrrrrlddrruu"
+  },
+  {
+    "title": "microban - level 011",
+    "definition": "  ######\n  #    #\n  # ##@##\n### # $ #\n# ..# $ #\n#       #\n#  ######\n####",
+    "solution": "ulllddddrrrrululdrdllluuuurrrdddldllullddrulurdrudrrurrdllllullddrurrruuruullldd"
+  },
+  {
+    "title": "microban - level 012",
+    "definition": "#####\n#   ##\n# $  #\n## $ ####\n ###@.  #\n  #  .# #\n  #     #\n  #######",
+    "solution": "uululldrdrluurdrddrddllurdruluuulldrurddrddllurdrrruul"
+  },
+  {
+    "title": "microban - level 013",
+    "definition": "####\n#. ##\n#.@ #\n#. $#\n##$ ###\n # $  #\n #    #\n #  ###\n ####",
+    "solution": "dddruluurdlddrddluuuuruldlurdddrdrrulldluuurulrddlddrruldluurul"
+  },
+  {
+    "title": "microban - level 014",
+    "definition": "#######\n#     #\n# # # #\n#. $*@#\n#   ###\n#####",
+    "solution": "uullllddrdrulluurrrrddllldlurrrruulldurrddlldllurruulld"
+  },
+  {
+    "title": "microban - level 015",
+    "definition": "     ###\n######@##\n#    .* #\n#   #   #\n#####$# #\n    #   #\n    #####",
+    "solution": "drdddlluuddrruuullllrrrrdluldulldllurrrrdrrddlluu"
+  },
+  {
+    "title": "microban - level 016",
+    "definition": " ####\n #  ####\n #     ##\n## ##   #\n#. .# @$##\n#   # $$ #\n#  .#    #\n##########",
+    "solution": "lddrudrrulldluuurullluldddldrdruluuurrrrdrdullddrdrrulldluuurullluldddlddrruldluruuurrrrdrdldluurulllulddddldr"
+  },
+  {
+    "title": "microban - level 017",
+    "definition": "#####\n# @ #\n#...#\n#$$$##\n#    #\n#    #\n######",
+    "solution": "rddulldrddrruluddluuddluu"
+  },
+  {
+    "title": "microban - level 018",
+    "definition": "#######\n#     #\n#. .  #\n# ## ##\n#  $ #\n###$ #\n  #@ #\n  #  #\n  ####",
+    "solution": "ruuuulllddrrdruudllluuurrrrdllrdddddluuruuuullldddrrdruudllluuurrdlurrrdl"
+  },
+  {
+    "title": "microban - level 019",
+    "definition": "########\n#   .. #\n#  @$$ #\n##### ##\n   #  #\n   #  #\n   #  #\n   ####",
+    "solution": "urrdddlddruuuurullldrurddduullllurrdrrddlddruuuu"
+  },
+  {
+    "title": "microban - level 020",
+    "definition": "#######\n#     ###\n#  @$$..#\n#### ## #\n  #     #\n  #  ####\n  #  #\n  ####",
+    "solution": "urdddrrruullllrddlddruuudrrruullulldrrrlulllldrrrr"
+  },
+  {
+    "title": "microban - level 021",
+    "definition": "####\n#  ####\n# . . #\n# $$#@#\n##    #\n ######",
+    "solution": "dlludluluurdrddlu"
+  },
+  {
+    "title": "microban - level 022",
+    "definition": "#####\n#   ###\n#. .  #\n#   # #\n## #  #\n #@$$ #\n #    #\n #  ###\n ####",
+    "solution": "drrruuldldluuulurrldddrrrdlldluuuuruldddrruruul"
+  },
+  {
+    "title": "microban - level 023",
+    "definition": "#######\n#  *  #\n#     #\n## # ##\n #$@.#\n #   #\n #####",
+    "solution": "ruullurdrddldluudrruululldrddrruurullrdddlluururddulllur"
+  },
+  {
+    "title": "microban - level 024",
+    "definition": "# #####\n  #   #\n###$$@#\n#   ###\n#     #\n# . . #\n#######",
+    "solution": "ullddlddrruluuurrdluldddullddrruuld"
+  },
+  {
+    "title": "microban - level 025",
+    "definition": " ####\n #  ###\n # $$ #\n##... #\n#  @$ #\n#   ###\n#####",
+    "solution": "uluurddrrulldlddrulururrddlruulldlddrurruulluld"
+  },
+  {
+    "title": "microban - level 026",
+    "definition": " #####\n # @ #\n #   #\n###$ #\n# ...#\n# $$ #\n###  #\n  ####",
+    "solution": "rdddlurdddluulldrurrddlurulruuulldrurdduld"
+  },
+  {
+    "title": "microban - level 027",
+    "definition": "######\n#   .#\n# ## ##\n#  $$@#\n# #   #\n#.  ###\n#####",
+    "solution": "dlldlluuuurrrddllrddlluurrrrdlulllddrruruuullldddurrdruu"
+  },
+  {
+    "title": "microban - level 028",
+    "definition": "#####\n#   #\n# @ #\n# $$###\n##. . #\n #    #\n ######",
+    "solution": "rdulldrdruddrrulldluuluurrddldruuuldd"
+  },
+  {
+    "title": "microban - level 029",
+    "definition": "     #####\n     #   ##\n     #    #\n ######   #\n##     #. #\n# $ $ @  ##\n# ######.#\n#        #\n##########",
+    "solution": "ullldrurrdrrddllllllluururrdrrrlulllldlddrrrrrrruuuuddllulllldrrrrrllllllddrrrrrrruuuruulddduuuulldrurdd"
+  },
+  {
+    "title": "microban - level 030",
+    "definition": "####\n#  ###\n# $$ #\n#... #\n# @$ #\n#   ##\n#####",
+    "solution": "uluurddrrulldlddrulururrddldlurruulluld"
+  },
+  {
+    "title": "microban - level 031",
+    "definition": "  ####\n ##  #\n##@$.##\n# $$  #\n# . . #\n###   #\n  #####",
+    "solution": "rldldrrdrruulluld"
+  },
+  {
+    "title": "microban - level 032",
+    "definition": " ####\n##  ###\n#     #\n#.**$@#\n#   ###\n##  #\n ####",
+    "solution": "ulldullddrururrdlllddruluruuldrrrdl"
+  },
+  {
+    "title": "microban - level 033",
+    "definition": "#######\n#. #  #\n#  $  #\n#. $#@#\n#  $  #\n#. #  #\n#######",
+    "solution": "dlllrrruullrrddllulluurdlddrrrruulllrddlluurrdl"
+  },
+  {
+    "title": "microban - level 034",
+    "definition": "  ####\n###  ####\n#       #\n#@$***. #\n#       #\n#########",
+    "solution": "drrrurldllluurrrddludllurrruuldrddrrruullrrddllllluururd"
+  },
+  {
+    "title": "microban - level 035",
+    "definition": " ####\n##  #\n#. $#\n#.$ #\n#.$ #\n#.$ #\n#. $##\n#   @#\n##   #\n #####",
+    "solution": "lluluurdrdululuurdrdldluuddddruuluurrdldlurrdldddrruldluuurulrddlddrruldluuruluuuurdddddlddrruldlurul"
+  },
+  {
+    "title": "microban - level 036",
+    "definition": "####\n#  ############\n# $ $ $ $ $ @ #\n# .....       #\n###############",
+    "solution": "ldlllllllllluurdldrrrrrrrrrrllllllullrrdrrullrrdrrullrrdrrulldlllllllluurdldrrrrrrrrllllullrrdrrullrrdrrulldlllllluurdldrrrrrrllulldlluurdldrrurrdrrulllldlluurdrrrdlurrrrrdllllurrrrrrdlllllurrrrrrrdllllll"
+  },
+  {
+    "title": "microban - level 037",
+    "definition": "      ###\n##### #.#\n#   ###.#\n#   $ #.#\n# $  $  #\n#####@# #\n    #   #\n    #####",
+    "solution": "drruullulldrrrlddrruuuuddllullullddrrrrrlddrruuudllulluldldrrrrrlddrruu"
+  },
+  {
+    "title": "microban - level 038",
+    "definition": "##########\n#        #\n# ##.### #\n# # $$ . #\n# . @$## #\n#####    #\n    ######",
+    "solution": "llluuurrrdduurrrrddlllrrrddlllullrurr"
+  },
+  {
+    "title": "microban - level 039",
+    "definition": "#####\n#   ####\n# # # .#\n#    $ ###\n### #$.  #\n#   #@   #\n# # ######\n#   #\n#####",
+    "solution": "ruullluullddrluurrdddduurrrddlurullluullddrrrrurdldrulllddllddrruuuulluurrdullddrrrrdruddrrul"
+  },
+  {
+    "title": "microban - level 040",
+    "definition": " #####\n #   #\n##   ##\n# $$$ #\n# .+. #\n#######",
+    "solution": "udrruluullddrluurrdduuldd"
+  },
+  {
+    "title": "microban - level 041",
+    "definition": "#######\n#     #\n#@$$$ ##\n#  #...#\n##    ##\n ######",
+    "solution": "urrrdulldurrdlrrddluruulldrurdldruulllldrrrurdlddllulurrurd"
+  },
+  {
+    "title": "microban - level 042",
+    "definition": "   ####\n   #  #\n   #@ #\n####$.#\n#   $.#\n# # $.#\n#    ##\n######",
+    "solution": "rddllrurddldllluurrruruuldddlllddrrruruuddldllluurrrurdlddludlluurrruuurd"
+  },
+  {
+    "title": "microban - level 043",
+    "definition": "     ####\n     # @#\n     #  #\n###### .#\n#   $  .#\n#  $$# .#\n#    ####\n###  #\n  ####",
+    "solution": "ldddlldldlluurrrrrdruuldlllddlulurrrrrurdlllldddruulurrruuurd"
+  },
+  {
+    "title": "microban - level 044",
+    "definition": "#####\n#@$.#\n#####",
+    "solution": "r"
+  },
+  {
+    "title": "microban - level 045",
+    "definition": "######\n#... #\n#  $ #\n# #$##\n#  $ #\n#  @ #\n######",
+    "solution": "ruldlluuuurrrdlullddddrruldluuuddrruuruldddlluurlddrruu"
+  },
+  {
+    "title": "microban - level 046",
+    "definition": " ######\n##    #\n#  ## #\n# # $ #\n#  * .#\n## #@##\n #   #\n #####",
+    "solution": "dlluururdrulldlddrrudlluururrdlddlluuluururrrdd"
+  },
+  {
+    "title": "microban - level 047",
+    "definition": "  #######\n###     #\n# $ $   #\n# ### #####\n# @ . .   #\n#   ###   #\n##### #####",
+    "solution": "rrruuulldrrddlllluurrrurddullllddrrrrrrlluuurrdluldllllddrrrrrrdrrulllllldlluuurrrrdulllldddrrurrlldllurr"
+  },
+  {
+    "title": "microban - level 048",
+    "definition": "######\n#  @ #\n#  # ##\n# .#  ##\n# .$$$ #\n# .#   #\n####   #\n   #####",
+    "solution": "rddrduldlruuulllddddruudrrrrddlurulllruuulllddrduluurdurrddrdddlurull"
+  },
+  {
+    "title": "microban - level 049",
+    "definition": "######\n# @  #\n# $# #\n# $  #\n# $ ##\n### ####\n #  #  #\n #...  #\n #     #\n #######",
+    "solution": "ldddrluuurrrddldddldrrluuullurluurddldruuurrddldddlddrrulrdrruldlluuuulluurdldrurddd"
+  },
+  {
+    "title": "microban - level 050",
+    "definition": "  ####\n###  #####\n#  $  @..#\n# $    # #\n### #### #\n  #      #\n  ########",
+    "solution": "llulddulldrrrurrrrdddllllluulurrrrdlllddrrrrruuulldllullldrurrdrrurrdddllllluururrrllldllurrrr"
+  },
+  {
+    "title": "microban - level 051",
+    "definition": "####\n#  ###\n#    ###\n#  $*@ #\n### .# #\n  #    #\n  ######",
+    "solution": "rddlluluruldlluurdrrdddrruulrddlluluurdullldrr"
+  },
+  {
+    "title": "microban - level 052",
+    "definition": "  ####\n### @#\n#  $ #\n#  *.#\n#  *.#\n#  $ #\n###  #\n  ####",
+    "solution": "dddlrddlulluuurrurdllddldrrdru"
+  },
+  {
+    "title": "microban - level 053",
+    "definition": " #####\n##. .##\n# * * #\n#  #  #\n# $ $ #\n## @ ##\n #####",
+    "solution": "ruruululldlddrdrruuudddlluuurldddrruldluu"
+  },
+  {
+    "title": "microban - level 054",
+    "definition": "      ######\n      #    #\n  ##### .  #\n###  ###.  #\n# $  $  . ##\n# @$$ # . #\n##    #####\n ######",
+    "solution": "drudrrulurrrrdruuldllllddllurrdrulurrrdruudlllluldrddllurdrulurrrrdrruuldurruulldurrdlddlllllldllurrrrrr"
+  },
+  {
+    "title": "microban - level 055",
+    "definition": "########\n# @ #  #\n#      #\n#####$ #\n    #  ###\n ## #$ ..#\n ## #  ###\n    ####",
+    "solution": "rdrrrddlurulllrrrddddluuruulllulldrrrrurdddldrrlulurulllulldrrrrurdddldr"
+  },
+  {
+    "title": "microban - level 056",
+    "definition": "#####\n#   ###\n#  $  #\n##* . #\n #   @#\n ######",
+    "solution": "uullulldrrddluruulldrurdldrdrruulluld"
+  },
+  {
+    "title": "microban - level 057",
+    "definition": "  ####\n  #  #\n  #@ #\n  #  #\n### ####\n#    * #\n#  $   #\n#####. #\n    ####",
+    "solution": "dddrdlrrrulldluuuddlldrrruluuruulddddldrurrrddlurullldrurdllllurrr"
+  },
+  {
+    "title": "microban - level 058",
+    "definition": "####\n#  ####\n#.*$  #\n# .$# #\n## @  #\n #   ##\n #####",
+    "solution": "luluurdrdulldrddrruruulllrrrddlludrruulldddlu"
+  },
+  {
+    "title": "microban - level 059",
+    "definition": "############\n#          #\n# ####### @##\n# #         #\n# #  $   #  #\n# $$ #####  #\n###  # # ...#\n  #### #    #\n       ######",
+    "solution": "ldllllldddlururrurrruullllllllddddrrdrullluuuurrrrrrrrddlllllldrurrrrruullllllllddddrrdruulurrrrrrurdddrddllurdruuluulllldlullddrulurrrrrrurdddrdluuurdduullldlllullddrulurrrrrrurddd"
+  },
+  {
+    "title": "microban - level 060",
+    "definition": " #########\n #       #\n##@##### #\n#  #   # #\n#  #   $.#\n#  ##$##.#\n##$##  #.#\n#   $  #.#\n#   #  ###\n########",
+    "solution": "urrrrrrdddllulldrrrllddrddluuuddlldllurrrlluuluuruurrrrrrddddduullulldrrrllddrddluuuddllluuluuruurrrrrrddddullulldrrrlldddllluuluuruurrrrrrddduuullllllddddduuuuurrrrrrdddllldddlldllurrrlluuuuuurrrrrrdddlllddrddluuuddllluuuuuurrrrrrdddllulldrrr"
+  },
+  {
+    "title": "microban - level 061",
+    "definition": "########\n#      #\n# #### #\n# #...@#\n# ###$###\n# #     #\n#  $$ $ #\n####   ##\n   #.###\n   ###",
+    "solution": "lddlddrrurullrddllurdruluuuruullllldddddrrrdruuuddlllluuuuurrrrrddllrdddrruldluuddlllluuuuurrrrrddldddllurdruu"
+  },
+  {
+    "title": "microban - level 062",
+    "definition": "   ##########\n####    ##  #\n#  $$$....$@#\n#      ###  #\n#   #### ####\n#####",
+    "solution": "llllulldrdlllrrurrrlullldlddlluurrrrrrllllddlulurrrrrldlldlulurrrr"
+  },
+  {
+    "title": "microban - level 063",
+    "definition": "#####   ####\n#   ##### .#\n#       $  ########\n###  #### .$    @ #\n  #  #  #  ####   #\n  ####  ####  #####",
+    "solution": "llllllulllllllulldrurdrrrrrrrddlurulllllllulldrrrrrrrrurdldrrrrrrlllllullllllddlurululldrrrrrrrrdrudrrrrrdrrullllll"
+  },
+  {
+    "title": "microban - level 064",
+    "definition": " ######\n##    #\n#   $ #\n#  $$ #\n### .#####\n  ##.# @ #\n   #.  $ #\n   #. ####\n   ####",
+    "solution": "ldlluululuurrrddllrruulldurrdlddddrrurrdllldluuuuruulddddduuuuulldrurdddduluruulldrurddduullldrrurd"
+  },
+  {
+    "title": "microban - level 065",
+    "definition": "  ######\n  #    #\n  #  $ #\n ####$ #\n## $ $ #\n#....# ##\n#     @ #\n##  #   #\n ########",
+    "solution": "uuuulrddddlluururddullddrdrrulllullddrulurlurrrurddulllddrrdrrulllrruulllldddrurrruuuuulddrdddlllluurrrurddullllddrulurrrllddrrdrrulllldlurulurrrurddulllddrrdrrulllrruuuuullldrrurdlddllldddrurrruuluurdddullllddrrrdrrulllldlu"
+  },
+  {
+    "title": "microban - level 066",
+    "definition": "   ###\n   #@#\n ###$###\n##  .  ##\n#  # #  #\n# #   # #\n# #   # #\n# #   # #\n#  # #  #\n## $ $ ##\n ##. .##\n  #   #\n  #   #\n  #####",
+    "solution": "dddduulldlddddrdrluluuuururrddrddldduuruuluurrdrddddldldlrururuuuulullddrddldddrddllurdruluuuuuuu"
+  },
+  {
+    "title": "microban - level 067",
+    "definition": "#####\n#   ##\n# #  #\n#@$*.##\n##  . #\n # $# #\n ##   #\n  #####",
+    "solution": "uurrdduullddrluurrdrddlrrddlludrruuluulullddrrdrrddlluluruuullddr"
+  },
+  {
+    "title": "microban - level 068",
+    "definition": " ####\n #  ######\n##    $  #\n# .# $   #\n# .#$#####\n# .@ #\n######",
+    "solution": "luuurrrrdrrulllllulddlddrrruuddllluururrrrdlullldlddrrruuddllluururrlldduurrdrrulllulddurrrrdrrullllluld"
+  },
+  {
+    "title": "microban - level 069",
+    "definition": "####  ####\n#  ####  #\n#  #  #  #\n#  #    $##\n#  . .#$  #\n#@ ## # $ #\n#   . #   #\n###########",
+    "solution": "urrrurrrdrrddlludrruuludrddlluurullluldrdllrrddllluuudrrurrrrdrdldluurullluldrdllrurrruurddlddrruldlurullldddllluluurdrrruuldrdddlllluurrrlluluurddldrdldrr"
+  },
+  {
+    "title": "microban - level 070",
+    "definition": "#####\n# @ ####\n#      #\n# $ $$ #\n##$##  #\n#   ####\n# ..  #\n##..  #\n ###  #\n   ####",
+    "solution": "rdrrrddlurullldrulullddrddldrurduluuluurddddduuuurrdluldddldruuuurrrrdlllulddd"
+  },
+  {
+    "title": "microban - level 071",
+    "definition": "###########\n#     #   ###\n# $@$ # .  .#\n# ## ### ## #\n# #       # #\n# #   #   # #\n# ######### #\n#           #\n#############",
+    "solution": "urdduulllddddddrrrrrrrrrruuuuulllddllldllurrrrdruudlllluuullldrrurddullldddddrrrrrrrrrruuuuullulldrrrllddllldllurrrrdruu"
+  },
+  {
+    "title": "microban - level 072",
+    "definition": "  ####\n ##  #####\n #  $  @ #\n #  $#   #\n#### #####\n#  #   #\n#    $ #\n# ..#  #\n#  .####\n#  ##\n####",
+    "solution": "llldddrrddlulldlluurddurruuullurrrrllddddrruldluuuluurddddrdlldlldruluurddurruuuurrdrrulllldllururddddrdlldlluurdldrlddru"
+  },
+  {
+    "title": "microban - level 073",
+    "definition": "####\n#  #####\n# $$ $ #\n#      #\n## ## ##\n#...#@#\n# ### ##\n#      #\n#  #   #\n########",
+    "solution": "uulllluurdddurrrddddlllluuruurruldlluurdldrurrdrrulllrrdddddlllluuruurrurdddduuulllddlddrrrdrrulllldluudrrrruuuulllluurddd"
+  },
+  {
+    "title": "microban - level 074",
+    "definition": " ####\n #  #######\n #$ @#   .#\n## #$$   .#\n#  $  ##..#\n#   # #####\n###   #\n  #####",
+    "solution": "luldddrrlluurrdrrrurrddluruldllllullddrddrruuddlluuluurrdrrrrurdlllurrlldllullddrrlddrruulurrrurdlllldllldrurrrddllulurrlddrruulurrrr"
+  },
+  {
+    "title": "microban - level 075",
+    "definition": " #######\n## ....##\n#   ######\n#   $ $ @#\n###  $ $ #\n  ###    #\n    ######",
+    "solution": "ddllulullrrrllldrrullulldrrdrruldluulurrrllddrrddrrruulllldluulurrlddrrddrrurulllldluulurddrrddrurullldluu"
+  },
+  {
+    "title": "microban - level 076",
+    "definition": " #####\n##   #\n#    #####\n#  #.#   #\n#@ #.# $ #\n#  #.#  ##\n#    #  #\n##  ##$$#\n ##     #\n  #  ####\n  ####",
+    "solution": "rddrddrrrruuldrdllldluuluuuuurrddddldluuuddrddrrruuuuurrdlulddddrdllldluuluuuluurrrddddldluluurulurlddddruuddrddrrruuruluurrdlulddddrdllldluuluuuluururrdddddldluluuuurrurddduulllddrulurrurddulllddddruuulurrurd"
+  },
+  {
+    "title": "microban - level 077",
+    "definition": "##########\n# @ .... #\n#   ####$##\n## #  $ $ #\n # $      #\n #   ######\n #####",
+    "solution": "ddddrruldluuuddrrrrrulrdrruldlllllluururrrrrddrdlllllrrurldlldlluuururrrrrddrdlllurruullllldldddrruurrrlllddlluuururrrrrdduullllldllurrrrrllllddddrruldluuulurrrrllldddrrurrdllldluuulurrrlldddrrurrrrrdlllllldluuulurr"
+  },
+  {
+    "title": "microban - level 078",
+    "definition": " #######\n##     ##\n#  $ $  #\n# $ $ $ #\n## ### ####\n #@  .....#\n ##     ###\n  #######",
+    "solution": "uurruurrddduuullddllddrrrrrrlluuuulldrurddduulldllddrrrrrluuulldrurddullllddrrrdrrullruuuulllldrrrurddduullllldrddrdrrurldllurlluurrrurdd"
+  },
+  {
+    "title": "microban - level 079",
+    "definition": " #########\n #    #  #\n## $#$#  #\n#  .$.@  #\n#  .#    #\n##########",
+    "solution": "llldllurrluurddrrrdrulllluurrdullddrrdrrulllrrrruuldrdll"
+  },
+  {
+    "title": "microban - level 080",
+    "definition": "####\n#  #######\n#  . ## .#\n# $#    .#\n## ## # .#\n #    #  #\n #### #  #\n  # @$ ###\n  # $$ #\n  #    #\n  ######",
+    "solution": "lddrudrruluuuudllluuluurdrrdrrrurddulllddddddllurdruuuuudllluuluurdrrdrrrdruldddruluulldddddllurdruuuudllluuluurdrrdrrrllddllluulur"
+  },
+  {
+    "title": "microban - level 081",
+    "definition": " #####\n #   #\n # . #\n## * #\n#  *##\n#  @##\n## $ #\n #   #\n #####",
+    "solution": "luuurrdldluddddrruluuuddddluruulldruurruulldurrddldduuruullddrddlddruuudllur"
+  },
+  {
+    "title": "microban - level 082",
+    "definition": "#####\n#   ###\n# .   ##\n##*#$  #\n# .# $ #\n# @## ##\n#     #\n#######",
+    "solution": "drrruuludrrulullulldrddlddrrrruuuulluldrrrddlurullrrddddlllu"
+  },
+  {
+    "title": "microban - level 083",
+    "definition": "######\n#    ##\n# $ $ ##\n## $$  #\n # #   #\n # ## ##\n #  . .#\n # @. .#\n #  ####\n ####",
+    "solution": "urruuuulullddddduuuuurrdlrrddlurulullddrrurddddllluuurruuldulldrdrrlldddrddluuuuurrdrddrdlluruuluurddduullldddrrdrrullruuuululdulldrdrrurddddrdluuuullldddrrrlllddruluuuurrrddddluruuuululdldrrurddddldruuuullldddrldr"
+  },
+  {
+    "title": "microban - level 084",
+    "definition": "########\n#  ... #\n#  ### ##\n#  # $  #\n## #@$  #\n # # $  #\n # ### #####\n #         #\n #   ###   #\n ##### #####",
+    "solution": "urlddrurrdlddlllluuuuuurrrrddddduuuuullllddddddrrrrrrdrrullllllldluuuuuluurrrrrdddlldrurdduuuuulllllddrddddrrrrrrdrrullllllrruuullurdrdddlldlluuuuuluurrrrrddddduuuuulllllddrdddddrrurrrrlllldlluuuuuulurrrlldddddddrruldluuuuuulurrlddddddrrrrrrdrrullllllldluuuuuulur"
+  },
+  {
+    "title": "microban - level 085",
+    "definition": "       ####\n #######  #\n # $      #\n #   $ $  #\n # ########\n## # .  #\n#  # #  #\n#  @ . ##\n## # # #\n #   . #\n #######",
+    "solution": "luuuurrurrdrullldrlllurdrrurrdllllulddddldrrlddrrrruuuulldddurrddlluulluuuurrrurrrrdllllllulddddldrrrrlddrruuurulddlllluuuuurrrrrdrruuldrdllllllulddddldrrrllddrr"
+  },
+  {
+    "title": "microban - level 086",
+    "definition": "    ####\n  ###  ##\n ## $   #\n## $  # #\n# @#$$  #\n# ..  ###\n# ..###\n#####",
+    "solution": "drrruuldrdlldlluurdldrurrurrruululddurrddlldllluurrdrdllruullddrrurrruulldurrddlluldrdllruulurdrdrruululddurrddlluldrdl"
+  },
+  {
+    "title": "microban - level 087",
+    "definition": "     ####\n######  #\n#       #\n#  ... .#\n##$######\n# $  #\n#   $###\n##  $  #\n ## @  #\n  ######",
+    "solution": "lurluurdllluruulurrrrdrruuldrdlllullddddrruldluuulurrrrdrruuldrdllullldddrdddrudrrulldluluurrdldluuuulurrrrdrruuldrdlulllldddrdddrruldluruldluuuulurrrrrurd"
+  },
+  {
+    "title": "microban - level 088",
+    "definition": "     ####\n # ###  #\n # #    #\n # #  # #\n # #$ #.#\n # #  # # #\n # #$ #.# #\n   #  # # #\n####$ #.# #\n# @     # #\n#   #  ## #\n########",
+    "solution": "rrruuldrdlldllurrruuruuldduuruuldduuurrrdddddddldluuuuuudddldrdlldllurrruuruuldduuuuurrrdddddddldluuuldrdlldllurrruuuuuuurrrdddddddldluluuuuurulurrurdddddduuuuullldddddruuuulurrurdddduuullldddddddruuuuuulurrurdd"
+  },
+  {
+    "title": "microban - level 089",
+    "definition": "##########\n#   ##   #\n# $  $@# #\n#### # $ #\n   #.#  ##\n # #.# $#\n # #.   #\n # #.   #\n   ######",
+    "solution": "ddddruluuuurrddlruullddddrdldlluuuuurldddddrruuuurruulldddduuulllulldrrrrldddddrrruuluurruulldurrddldlddldluudrruuudddruluurruullddddrdlldlurruruluuurrddlruullddddrdllrrdll"
+  },
+  {
+    "title": "microban - level 090",
+    "definition": " ########\n #  @   #\n # $  $ #\n### ## ###\n#  $..$  #\n#   ..   #\n##########",
+    "solution": "lldrddrdlrrrrulldlluuuurrrdduulllddddrrrruluuullldrrurdddrdluuulllddlldrr"
+  },
+  {
+    "title": "microban - level 091",
+    "definition": "###########\n#    .##  #\n# $$@..$$ #\n#   ##.   #\n###########",
+    "solution": "rrdrrruuldlllrrrrdllullullllddrrurrlldllurrrllurr"
+  },
+  {
+    "title": "microban - level 092",
+    "definition": "  ####\n  #  #    #####\n  #  #    #   #\n  #  ######.# #\n####  $    .  #\n#   $$# ###.# #\n#   #   # #   #\n######### #@ ##\n          #  #\n          ####",
+    "solution": "uuullllllrrddllullruudrrrrrrruurrddlruulldddduullllllldldllurrrurrrddllulurrrrrrruurrddlrddlluuddrddluurruullllllllluluurdddrdlldllurrrurrrddllulurrrrrr"
+  },
+  {
+    "title": "microban - level 093",
+    "definition": " #########\n##   #   ##\n#    #    #\n#  $ # $  #\n#   *.*   #\n####.@.####\n#   *.*   #\n#  $ # $  #\n#    #    #\n##   #   ##\n #########",
+    "solution": "urrllllrddduurrdduuuuurrrddllluurdrdlulddldrullurluulldrurddduullldrrrdrdlldlddrruuuurrddrdrruulldlullldllurrdrudddluulurrrrdrdrruullllrrddrurulllrdddluu"
+  },
+  {
+    "title": "microban - level 094",
+    "definition": "#########\n# @ #   #\n# $ $   #\n##$### ##\n#  ...  #\n#   #   #\n######  #\n     ####",
+    "solution": "rdrrurddduulllulldrrrrllldurrrurrdlddllldlluruurrrurrdlddrddlurullruulllulldrrrrurdddrddlurul"
+  },
+  {
+    "title": "microban - level 095",
+    "definition": "########\n#@     #\n# .$$. #\n# $..$ #\n# $..$ #\n# .$$. #\n#      #\n########",
+    "solution": "rrdrurrddldrddlluldlluuru"
+  },
+  {
+    "title": "microban - level 096",
+    "definition": "  ######\n  #    #\n  #    #\n#####  #\n#   #.#####\n#   $@$   #\n#####.#   #\n   ## ## ##\n   #   $.#\n   #   ###\n   #####",
+    "solution": "llrrrrdrrulllrrdddlldllurrluuuuuruldddllulldrrrrrrdrrulllrrdddlldlluruuuuudddddrrlluuuuuruuldddduuuulldrurdd"
+  },
+  {
+    "title": "microban - level 097",
+    "definition": "   ####\n   #  ########\n#### $ $.....#\n#   $   ######\n#@### ###\n#  $  #\n# $ # #\n## #  #\n #    #\n ######",
+    "solution": "drrlluurrrrddddldlluuluuurrruurddurrrrrrllllllldllldddrddrruruuuulurrrrrrllldlulldllldddrddrruruuuulurrrrrllllldllldddrrurldlddrruruuuulurrrrlllldlllddrrrlldddrruruuuulurrr"
+  },
+  {
+    "title": "microban - level 098",
+    "definition": "#####\n#   ## ####\n#  $ ### .#\n# $   $  .#\n## $#####.# ####\n# $  # # .###  #\n#    # # .#  @ #\n###  # #       #\n  #### ##     ##\n        #######",
+    "solution": "lldlluuuulllllululldrdrrrrrrurddddldrrrdrulurldlluuuullllllluurdldrrrrrrurddddldrrrdrullluuuullllllddrddluuuuluurdldrrrrrrurddddldrrrlluuuulllllldddllurdruuuluurdldrrrrrrurddddldruuuullllllddluruulldrrrrrrrurdddlddruuuudddddrruldluuuudddrrdrrullldluuuddrrrrruuldrdlllldluudrrurdrruuldrdlllldlu"
+  },
+  {
+    "title": "microban - level 099",
+    "definition": "               #####\n               #   #\n#######  ####### # #\n#     #  #  #      #\n#  @  ####  #     ####\n#  #    ....## ####  #\n#    ##### ## $$ $ $ #\n######   #           #\n         #  ##########\n         ####",
+    "solution": "rrdrrrrrddrrrruuulurrlddddrruldluuurrruruullddldllurrruurrddldlluldddrdlllldluuuruuldrdllllllulllddrrurulluldrrrdrrrrrddrrrrrrrrullldluuurrruruullddldllurrruurrddldlluldddrdlllldluuuruuldrdllllllullllddrrrurullrrdrrrrrddrrrrrrrrrrullllldluuurrruruullddldllurrruurrddldlluldddrdlllldluuuruuldrdlllllluulllldddrrrurrrrrrddrrruruurrruruullddrdlluldddrdlllldluuuruuldrdlllllluulldrurdulllldddrrrurrrrrrllllluulldrurdldrrrrrlllluulllldrrrurdldrrrrlllldllulurrrurdldrrr"
+  },
+  {
+    "title": "microban - level 100",
+    "definition": "#######\n# @#  #\n#.$   #\n#. # $##\n#.$#   #\n#. # $ #\n#  #   #\n########",
+    "solution": "lddrduluurdrrddrrdluluurddrddlluurrdluuullllddrulurrrurddduullllddddruuluurrrrddlurulllulddduurrrrddrddlluurrdluuullllddrulurrrurdddlurulllulddurrrrddrddlluuurullluldrrrrddrdldluuurulll"
+  },
+  {
+    "title": "microban - level 101",
+    "definition": "  #####\n  #   #\n  # # #######\n  #  *  #   #\n  ## ##   # #\n  #     #*  #\n### # # # ###\n#  *#$+   #\n# #   ## ##\n#   #  *  #\n####### # #\n      #   #\n      #####",
+    "solution": "ruullllddllddrrurruudrruuuulluullddrddrrlddrrrruurruulldllddullddddrrddrruuluul"
+  },
+  {
+    "title": "microban - level 102",
+    "definition": "###########\n#....#    #\n#  #   $$ #\n#  @  ##  #\n#     ##$ #\n######  $ #\n     #    #\n     ######",
+    "solution": "rurrurrrddddlruulduruuldllldllluurrdrdlldlurrurrrrrddlurulllldlllluurrrdrdlurrrrrddddluuurulllldlldlluuurrrdrddllululurddrdrruurrrddddllurdruuurulllldludldluuddluu"
+  },
+  {
+    "title": "microban - level 103",
+    "definition": "  #####\n  # . ##\n### $  #\n# . $#@#\n# #$ . #\n#  $ ###\n## . #\n #####",
+    "solution": "dlldlrurruullrrddllulllddrdrruurruululldurrdrddllulruddddllurdruurruulllddduuurdldr"
+  },
+  {
+    "title": "microban - level 104",
+    "definition": "    #####\n#####   #\n#    $  #\n#  $#$#@#\n### #   #\n  # ... #\n  ###  ##\n    #  #\n    ####",
+    "solution": "ullddduuulldllurrrrdddlluuddrruuullrrddrdddluruuluulldddrrdruruuululddduurrdddlluuulldllurrrrlldddrruuuurrdddlduruuulldddrdlddruluurruululddd"
+  },
+  {
+    "title": "microban - level 105",
+    "definition": " #### ####\n##  ###  ##\n#   # #   #\n#  *. .*  #\n###$   $###\n #   @   #\n###$   $###\n#  *. .*  #\n#   # #   #\n##  ###  ##\n #### ####",
+    "solution": "rddrdrrullluurdllldrllruuuululldrrrddlurrrulrrduurrdlldlddruullldddluddllurruruuldd"
+  },
+  {
+    "title": "microban - level 106",
+    "definition": " ########\n #      #\n #@   $ #\n## ###$ #\n# .....###\n# $ $ $  #\n###### # #\n     #   #\n     #####",
+    "solution": "ddrrrdrullldrullldruuuurrrrrdlllulldddrrrruruldddddrruulrddlluuuudlldrrulllldrrulluuurrdluldduurrrrrddldllldlluruuurrrrdllullddddrrurruruldddddrruulrddlluuuudlldrrllllurrlluuurrdluldduurrrrrddlddllllluruuurrrrdllullddddrrrruurululldluldurrrrdllrrdddddrruulrddlluuuuddllllurdrrruuruullllldduurrrrrddlddllllluruuurrdluldduurrrrdd"
+  },
+  {
+    "title": "microban - level 107",
+    "definition": "########\n#      #\n# $*** #\n# *  * #\n# *  * #\n# ***. #\n#     @#\n########",
+    "solution": "uuuuullldurrrddlduruuldulldrurrdddllludrrruuullddldruuulllddrrdrullluurd"
+  },
+  {
+    "title": "microban - level 108",
+    "definition": "####     #####\n#  ###   #   ##\n#    #   #$ $ #\n#..# ##### #  #\n#  @    # $ $ #\n#..#         ##\n##   #########\n #####",
+    "solution": "rrrrdrrurdrruruulullddduuurrdrddldlllllllulllddrrurullrddlluuulurddrrrrrdrruruuurrdlulddduurrrddldlllllllulllddrrurullrddlluurrrrrdrrrrrulrruulllddrdllllllulllddrrudlluurrrdrrrrurrrurulluldddrdllllllulllddrrudlluuudddrrurullrddlluluurdrrrdrrulllllulduuurdlddrrruulluld"
+  },
+  {
+    "title": "microban - level 109",
+    "definition": "  #######\n# #     #\n# # # # #\n  # @ $ #\n### ### #\n#   ### #\n# $  ##.#\n## $  #.#\n ## $  .#\n# ## $#.#\n## ## #.#\n### #   #\n### #####",
+    "solution": "ldddrdrdrrdddlluulululudrdrrdddrruuuuuuuuuulllldddddllurdrrdrddddrruuuuuuuullrrddddddddlluuurldddrruuuuuuuudddddllululldrdrdrddrruuuuuuuulluullddddlddrdrrrllluluurdrduluuuuurrddrrddddddullululldrdrrrllluuuuuuurrddrrdddddlllluurdldrrrlululuuuuurrrrddddduuuuullllddrrrluurrdddd"
+  },
+  {
+    "title": "microban - level 110",
+    "definition": "  ####\n  #  #\n  # $####\n###. .  #\n# $ # $ #\n#  . .###\n####$ #\n   # @#\n   ####",
+    "solution": "uuuurrdlulllddrrudlluurrlluurdldddrruulrddlluuddllurdrrruulldurrddllrrddluruuullddrluurrddurruldldlddrulululldrururuuld"
+  },
+  {
+    "title": "microban - level 111",
+    "definition": "######\n#    ####\n#    ...#\n#    ...#\n######  #\n  #  #  #\n  # $$ ##\n  # @$  #\n  # $$  #\n  ## $# #\n   #    #\n   ######",
+    "solution": "duluurdrllddrruruuuurullllrrrdddddldlluurrdruuuurullrddddlddlulurrdruuurullllrrrddddrdddlluuulurdruuuruulldrddddrdlrddlluuulurdruuuulurddddlddddluuulurrdruuuullluullddrrrrllurulldldrrr"
+  },
+  {
+    "title": "microban - level 112",
+    "definition": " #####\n##   ####\n#  $$$  #\n# #   $ #\n#   $## ##\n###  #.  #\n  #  #   #\n ##### ###\n #   # ##\n # @....#\n #      #\n #   #  #\n ########",
+    "solution": "rrruuuuruullldllluururrdulldrllddrrurrrurdddrdlulddddrdllldlururruuuuruulllldddruulurrrurdddrdlulddddrdlllurruuuuruulllldlluururrdulldlddrrurrrurdddrdlulddddrdlluruuuuruullluulldrurdldrrrurdddrdlulddddllulldddrrururrddluruluuuuruuulldlluurdldrrrurdddrdlulddddrddluuuuuddddlldlluuurrdrrllulldrrrlllddrulurrlddru"
+  },
+  {
+    "title": "microban - level 113",
+    "definition": "   #####\n  ##   #\n###  # #\n#    . #\n#  ## #####\n#  . . #  ##\n#  # @ $   ###\n#####. #  $  #\n    ####  $  #\n       ## $ ##\n        #  ##\n        #  #\n        ####",
+    "solution": "rrrdrdrluluurdlddrrdulluurrdullddrurulllldlurulllrruulllldddrurrrrdrrrdddrrurullullddrurulllldluuudlllluurrururrddlddrdrrrdddruruldlurulllldlurullrrdrrrdddddruuuruldlurullllulduuuruulldldrlllddrrrllluurdldr"
+  },
+  {
+    "title": "microban - level 114",
+    "definition": "######\n#    ###\n#  # $ #\n#  $ @ #\n## ## #####\n#  #......#\n# $ $ $ $ #\n##   ######\n #####",
+    "solution": "rulddddlurrrdlurrrdlullllddlluuuurrllluurrrdrdduululllddrrruulldldrddddrrulrurrrrlldllurrrrdllullddlluuuuluurrrdrdduululllddrrruulldldrddddrrulrurrrldlldlluuuuluurrrdrdduululllddrddddrruurrllddlluuuurrurddulllddddrruuruuululldldrrrurddullldddrdru"
+  },
+  {
+    "title": "microban - level 115",
+    "definition": "    #####\n#####   ####\n#     #    #\n#  #.....  #\n##  ## # ###\n #$$@$$$ #\n #     ###\n #######",
+    "solution": "drruuddlllluuulurrrdrrrrddlruullllullddddrrrrurruuurrdlulldlllullddddrrrrurruuluulldurrddrruldddlldlllluuuurrdrrrrddlludrruulllrdddllurdruudrruullddlldllurrrdruudllluluurrrurrdrrrdl"
+  },
+  {
+    "title": "microban - level 116",
+    "definition": "     #####\n   ###   #\n####.....#\n# @$$$$$ #\n#     # ##\n#####   #\n    #####",
+    "solution": "drrrdrruuruulldlldlrurrurrddlddlluuddrruuruulldrdddlluurllurdddrruulllldrurrrddlluulldllurrdru"
+  },
+  {
+    "title": "microban - level 117",
+    "definition": " #### ####\n #  ###  ##\n #      @ #\n##..###   #\n#      #  #\n#...#$  # #\n# ## $$ $ #\n#  $    ###\n####  ###\n   ####",
+    "solution": "llllllddldddrrrllluuurrrrrdduullllldddrrrururullldllurdruulurrrrrurdlllllddrrddlddruuurrdluullluurrrrrrddddllulullldllurdruulurrrrrlllllddldddrrrruurullluldrdluldurrrrrdrddlruulldlddruuurullluldldrurrrrdrdldluurullluldrrrddldllludrrrurrrrruuuulllllrrrrrddddllulullluluurdrrrrrrddlurulllllluld"
+  },
+  {
+    "title": "microban - level 118",
+    "definition": " #####\n##   ##\n#  $  ##\n# $ $  ##\n###$# . ##\n  # # .  #\n ## ##.  #\n # @  . ##\n #   #  #\n ########",
+    "solution": "rrruuuulululldrdrluurdrdulldddduuuurrdrddddlldllurrrrdruuluuulluldddduuurrrddlurulrddddlldllurrrlluuuuurrdrdddrddluuuluululdddduuurrddrddlldllurrrlluuuuulldrurdddduuurrddrdrruldddlulldllurrr"
+  },
+  {
+    "title": "microban - level 119",
+    "definition": "  ######\n  #    ##\n ## ##  #\n # $$ # #\n # @$ # #\n #    # #\n#### #  #\n#  ... ##\n#     ##\n#######",
+    "solution": "drddrruruuuululllddlddrrruuldddulluuruurrrdrddddldlllruuurulddllurdrddrruruuuulullldddurddduulldruuuurrrdrddddldldllurldllurdrruuuruulddd"
+  },
+  {
+    "title": "microban - level 120",
+    "definition": "      ####\n#######  #\n# $      ##\n# $#####  #\n#  @#  #  #\n## ##..   #\n#  # ..####\n# $  ###\n# $###\n#  #\n####",
+    "solution": "lluurrrrrrurdddrdlllrruuulllllllddrulurrrrrrurddullllllddddldrlddruuuuuluurrrrrrrdrddllldlldlrurruuldrrrruululllllllddrddlddrurrururrrruululllllllddrdddrrururrrruuldrdllluldrrruuulllllllddrulurrrrrrurddullllllddddldddruuuuuluurrrrrrrddrdlllrruuulllllllddrulurrrrrrurdddrdll"
+  },
+  {
+    "title": "microban - level 121",
+    "definition": " ######\n # .  #\n##$.# #\n#  *  #\n# ..###\n##$ # #####\n## ## #   #\n#  #### # #\n#   @ $ $ #\n##  #     #\n ##########",
+    "solution": "rrdrullllluuuruuldurrruullldurrrddlluddllurdrulddddldrrrrdrrulllldluuuuruulldrddddrrrrrdrrulllllldluuuuulurdddddrrrrrrruulldurrddlllllldluuuu"
+  },
+  {
+    "title": "microban - level 122",
+    "definition": "#####\n#   ###\n# #$  #\n# $   #\n# $ $ #\n# $#  #\n#  @###\n## ########\n#      ...#\n#         #\n########..#\n       ####",
+    "solution": "lluuuuurrdrrdddluruullulldddrddddldrrrrrrurrddlurullllldlluuuuuluuurrdrrddllrruullduullddrdddddldrrrrrrurrddlurullldlllluuuuuuluurrdrrddllrruullullddrdddddldrrrrrrurrddluruldlllllluuuuurrruuldrdllruuldldddddldrrrrrrrurdlllurrlldlllluuuuuurrdluldddddldrrrrrrurdllllurrrllldllurrrr"
+  },
+  {
+    "title": "microban - level 123",
+    "definition": "########\n#      #\n# $ $$ ########\n##### @##. .  #\n    #$  # .   #\n    #   #. . ##\n    #$# ## # #\n    #        #\n    #  ###  ##\n    #  # ####\n    ####",
+    "solution": "ddldduuruuldduuruuldulldrrurdddlurdrdddlluuudddrddlururuuulldrurddullddrrrrruurrddldluuulurrldddllluuuluuulldrurdddldrurddullddrrrrruurrddldluudrruululldrddllluuuluuullllldrrrrurdddldrurddullddrrrrruuuurrrdldddldluudrruuulluldrrrdddlluuddrruuuullldrrldddllluuulluruulldrurdddldrurddullddrrrrruuuurrrdldddlluuurldddrruuulldddllluullddrrrrruuurrdddldluuuurulrdrruldlldddllllddluuuuuuruulldrurdddldrurddullddrrrrruuurrdddldluuu"
+  },
+  {
+    "title": "microban - level 124",
+    "definition": "##############\n#      #     #\n# $@$$ # . ..#\n## ## ### ## #\n # #       # #\n # #   #   # #\n # ######### #\n #           #\n #############",
+    "solution": "urrdduulldrullldrdddddrrrrrrrrrruuuuulllddllldllurrrrdrruluurrrdddddlllllllllluuuuuurrdlurrrdlddrrrdruudlllluuulldrullldrdddddrrrrrrrrrruuuuuulllldrrurrddddddlllllllllluuuuuurrrdduulllddddddrrrrrrrrrruuuuuullldddllldllurrrrdruudlllluuullldrrurddullldddddrrrrrrrrrruuuuuulldrullldrrlddllldllurrrrdruu"
+  },
+  {
+    "title": "microban - level 125",
+    "definition": "      #####\n      #   ##\n      # $  #\n######## #@##\n# .  # $ $  #\n#        $# #\n#...#####   #\n#####   #####",
+    "solution": "dlruululldrddrrrddllulllllullddrurrrrrrdrruuluululddduurrddrddllulllllldlluurdrrulrdrrrruuurrddlruullddrdllllluldllurdrrrrurdrruruullddrdllllllluldrrrul"
+  },
+  {
+    "title": "microban - level 126",
+    "definition": " ###########\n##.......  #\n# $$$$$$$@ #\n#   # # # ##\n# # #     #\n#   #######\n#####",
+    "solution": "ddlllluuddrruuddlluurullldduurrrrrldulllldrrddrrrruurulllllrrdrullldddrrrruurulllrrdddlllluurrrlllddrrrruuruldlllllldllurrrrddrruulrddlluulllldddrruuu"
+  },
+  {
+    "title": "microban - level 127",
+    "definition": "## ####\n####  ####\n # $ $.  #\n## #  .$ #\n#   ##.###\n#  $  . #\n# @ #   #\n#  ######\n####",
+    "solution": "urrrdrrulllluldrrrruulluurdrdddllluluurrdrluurdrdduullllddrdrrdrrullllrrruuurrdlulllllddrdrrruuddllluluurrdrulllddldrrrrdrulllllddrulurrrr"
+  },
+  {
+    "title": "microban - level 128",
+    "definition": "  #########\n###   #   #\n# * $ . . #\n#   $ ## ##\n####*#   #\n #  @  ###\n #   ###\n #####",
+    "solution": "rrurruulllulldrrlldllurrurrddllrduruulddullldrurrrrrurrdlddlldlluuruulldldruurrdllrrrrurrdlddlldlluururrllulldrrlddddllurdru"
+  },
+  {
+    "title": "microban - level 129",
+    "definition": "  #########\n### @ #   #\n# * $ *.. #\n#   $ #   #\n####*#  ###\n #     ##\n #   ###\n #####",
+    "solution": "rdrrurdlllulldrrrrlllldllurrurrddldururrddldlluuruulldldruurrdllrrrrddldlluururrurrddlruulldlldlddrrurudldlluulurrlddddllurdru"
+  },
+  {
+    "title": "microban - level 130",
+    "definition": "#####  #####\n#   ####.. #\n# $$$      #\n#   $#  .. #\n### @#  ## #\n  #  ##    #\n  ##########",
+    "solution": "lulluurrdrrrrllldlurrrrdrruuldrdluldulllldddruulurrrrrurdrdllulllllulldrrrrrrrdrulllllllldrrdrulurrrrrdrruldlulldrrurrdddlllulur"
+  },
+  {
+    "title": "microban - level 131",
+    "definition": "#####\n#   #\n# . #\n#.@.###\n##.#  #\n#  $  #\n# $   #\n##$$  #\n #  ###\n #  #\n ####",
+    "solution": "ddrlldrdrudddluuuuuulururdlddddrrrdlldluuuuuluurrdluldrddddrrruuldldluuuddrrrdlldluu"
+  },
+  {
+    "title": "microban - level 132",
+    "definition": "####\n# @###\n#.*  #####\n#..#$$ $ #\n##       #\n # # ##  #\n #   #####\n #####",
+    "solution": "drrddlludrruulluldrrrddrruldllluurrdrdlrrrrulldlluullddrrrruldllluurrdullddrrrlllddrrudlluuuurrdrdllrddlluuudrruullrrdrrrrddlurullldllluurrdrdllrddlluuudrrurrrdllllrddlluu"
+  },
+  {
+    "title": "microban - level 133",
+    "definition": " #######\n #  . .###\n # . . . #\n### #### #\n#  @$  $ #\n#  $$  $ #\n####   ###\n   #####",
+    "solution": "uurrrrrdddllullrrddlluluuddrdrrurruuullulllldrrldddrdrruulldluudrrrdrruuullulldrrulllldrrlddrddrurulldluuulurrrlldddlldrrurrddluruldluuulurdddrrrdrrulllldluu"
+  },
+  {
+    "title": "microban - level 134",
+    "definition": "        ####\n#########  #\n#   ## $   #\n#  $   ##  #\n### #. .# ##\n  # #. .#$##\n  # #   #  #\n  # @ $    #\n  #  #######\n  ####",
+    "solution": "ruuuullrrrdrdddrruuuuddddllllrrrruuuuruuldddddrdllluuuluurrlldlllulldrrrrddddldluuuudddrrurrdlluuuullrrdrrdddrruuuuruuldddddrdlllrruuuuulllddduulllulldrrrrddddldluuuudddrruuuullrrdrrdddllrrrruuuuulllddulllulldrrrrddddldluuuudddrruuuullrrdrrdddrruuuuullldlllulldrrrrddddrruuulrdlrddllurdruuddrruuuuullldddrddllurdru"
+  },
+  {
+    "title": "microban - level 135",
+    "definition": "#######\n#     #####\n# $$#@##..#\n# #       #\n#  $ # #  #\n#### $  ..#\n   ########",
+    "solution": "dlddrruuluulllldddrrurrrddlludrruurrddlluuluulllldddrrurrrrrurddulllllddrruuluulldduulldddrrurrrddlludrruurrddlluuluullddrrrrlddrruullllddrrrlllullluururddullddrrurrrddllulurrrrrdru"
+  },
+  {
+    "title": "microban - level 136",
+    "definition": " #######\n #     #\n## ###$##\n#.$   @ #\n# .. #$ #\n#.##  $ #\n#    ####\n######",
+    "solution": "llldllurdrrurrrddllrruuldrdluulldlluuurrrrddlllrrruullllddldddrrruulurlluurrrrddrddllrruuluullllddldddrrrudllluuurrdlulduruurrrrddlllrrruullllddldrurrrrrddlurulllllrrrrddlludrruulllrrruulllldd"
+  },
+  {
+    "title": "microban - level 137",
+    "definition": "       ####\n      ##  ###\n####  #  $  #\n#  #### $ $ #\n#   ..# #$  #\n#  #   @  ###\n## #..# ###\n # ## # #\n #      #\n ########",
+    "solution": "uuurrlldddrruululddurrddlllldlurullrrdrrrrurrulllulddurrddlllrdddlluuluurddurruuururdlldddrrurullulddurrddlllrdddllllluuuluurdrrddrurruurrrruldlluurdrdllulddurrddllllrrdddllllluuuluurdrrdrrrdddlludllluuulurr"
+  },
+  {
+    "title": "microban - level 138",
+    "definition": "  ####\n###  #\n#    ###\n# # . .#\n# @ ...####\n# # # #   ##\n#   # $$   #\n#####  $ $ #\n    ##$ # ##\n     #    #\n     ######",
+    "solution": "rrrdddrrddrruurululldldluuurulldlurulrdrdddrrurrdllldluuurullulddrrddrrrrdddlluuddrruuullldluuurullrdddrrdddluuruldluuuruldlllluurrdullddrrrrulrdddrrrrdlldluruldluuulurldlllddrrudlluurrrllluurrduurdlllddrr"
+  },
+  {
+    "title": "microban - level 139",
+    "definition": " ####\n##  ####\n#   ...#\n#   ...#\n#   # ##\n#   #@ #### ####\n##### $   ###  #\n    #  ##$ $   #\n   ###     $$  #\n   # $  ##   ###\n   #    ######\n   ######",
+    "solution": "rdddrrrrurrllddrruldlulllluurrrdulllddrrrrlllddluuudrrruullldluuuurulldlluurddrrddrdrrrddrdrrullllldluudrrruullldluuuurulllulddrrrddrdrrrddrruldlllluurrrdrdllldluudrrruullldluuuurulldlluurdldrurrdddrdrrrdrrdrrruuldrdllllllldluudrrruullldluuuurullluldrdrrddrdrrrdrrrdrruuldrdllllllldluudrrruullldluuuulurdddrdddddllurdruuudrrruullldluuuulullldrrrlllddruulurrldddrulur"
+  },
+  {
+    "title": "microban - level 140",
+    "definition": "######## #####\n#  #   ###   #\n#      ## $  #\n#.# @ ## $  ##\n#.#   # $  ##\n#.#    $  ##\n#. ## #####\n##    #\n ######",
+    "solution": "rddrrururururrdldldldllllulldruuulllddddrdrrruuuuddrrrrururuuldldldururrdldldllllulldruuulllddddrdrrruuudrrrruruuldldurrdldlllluluuurrdluldlddrrudlldruluullddddrdrrruuudrrrruuldrdllllulluurduurrdluldlllddddrdrrruuuuddddllluluuuurrdddrluuullddddrdrrruuudlluuururrdlllluldddduuurrdddrruuddlluuururrdllllulddduurrddrdruudlluruurrdllllulddurrrddruluurrdlllluld"
+  },
+  {
+    "title": "microban - level 141",
+    "definition": "  ########\n  #  # . #\n  #   .*.#\n  #  # * #\n####$##.##\n#      $ #\n# $ ## $ #\n#   @#   #\n##########",
+    "solution": "luurrrddrruulllllrrrrrdlullluuluurddurrrdddrddluuuuudddllllddlluurrrrrlluuluurddurrrdddrddluuuuddllllddlulurrrrrlluuluurddurrdrddrddluuudddlurulllldllurrrrrdrullluulurr"
+  },
+  {
+    "title": "microban - level 142",
+    "definition": "  ####\n  #  #\n  #  ####\n###$.$  #\n#  .@.  #\n#  $.$###\n####  #\n   #  #\n   ####",
+    "solution": "rruldlddrululldrurrddluruurrdlulddlluurrluulddrrddluluurdrdrrullddllurrlurrrdlldlddruulluurdduuluurdldddllurdrrrddlu"
+  },
+  {
+    "title": "microban - level 143",
+    "definition": "####\n#  ####\n# $   #\n# .#  #\n# $# ##\n# .  #\n#### #\n   # #\n ### ###\n #  $  #\n## #$# ##\n# $ @ $ #\n# ..#.. #\n###   ###\n  #####",
+    "solution": "rdrruluullrrdddldlluurrluurrddrdlullldllurrrrluurrdduulluuuullluurduluurdrrdddddddduuuuuuuulldlddrrlluuurrrdddddddrrddlluuuuuuuurullrdddddddddldlluruurrddrruulrddlllruullddldruuurruuuullluurduluurdrrddddddddurrddlllruulldd"
+  },
+  {
+    "title": "microban - level 144",
+    "definition": "   ####\n ###  #####\n # $$ #   #\n # $ . .$$##\n # .. #. $ #\n### #** .  #\n#  . **# ###\n# $ .# .. #\n##$$.@. $ #\n #   # $$ #\n #####  ###\n     ####",
+    "solution": "rddruluurrrddlludrulllluullldrurrdddlluurldruuuururuuldrddllluurrduldrrrrdrdrruldlluuurrddlrulrdrdluulllllulldrrrrlluurdlldddddlddruuuuddllurdrdrrrrdrrullllrrddlu"
+  },
+  {
+    "title": "microban - level 145",
+    "definition": "   #####\n   # @ #\n  ##   ##\n###.$$$.###\n#  $...$  #\n#  $.#.$  #\n#  $...$  #\n###.$$$.###\n  ##   ##\n   #   #\n   #####",
+    "solution": "ddrddrdlldluulurddluurudllldrrdrrrdllddruuruuurddrrullrrullddldlddruullululldrruururuuldd"
+  },
+  {
+    "title": "microban - level 146",
+    "definition": " #######\n##  .  ##\n# .$$$. #\n# $. .$ #\n#.$ @ $.#\n# $. .$ #\n# .$$$. #\n##  .  ##\n #######",
+    "solution": "rdrddllllulurluuruurrrrdrddldlluurdldrurruululllldldddrddrrrruruudlddlllluuluuururrrrdrdldllddrllruullrruurll"
+  },
+  {
+    "title": "microban - level 147",
+    "definition": "       #####\n########   #\n#.   .  @#.#\n#  ###     #\n## $  #    #\n # $   #####\n # $#  #\n ## #  #\n  #   ##\n  #####",
+    "solution": "lllllldddrrurdulldluulurrrrrrdrrruulldldrullllllddrrrdrddldlluuuruldluulurrrrrrlllllddrrrdrddlurullldluuulurrrrrdrrdrruuulldllllllrrrrrddrudrrulldlurrruulldllrdrrdru"
+  },
+  {
+    "title": "microban - level 148",
+    "definition": "###########\n#  .  #   #\n# #.  @   #\n#  #..# #######\n##  ## $$ $ $ #\n ##           #\n  #############",
+    "solution": "lullllddrdrdrrrruudldlllululuurrrrdrrurrdlllldlurrrdddrruldluudldlllululuurrdrrullrrdrrurrdllllulldrurdrrddrrdrrullldluudldlllululuurrdrrullrrdrrurrdlllluldrrrddrrrrdrrullllldluudldlllululuurrdrrulrdrrurrdlllll"
+  },
+  {
+    "title": "microban - level 149",
+    "definition": " ####\n##  ###\n#@$   #\n### $ #\n #  ######\n #  $....#\n #  # ####\n ## # #\n # $# #\n #    #\n #  ###\n ####",
+    "solution": "rurdddlddrddldruuuluurdrrrrlllldddlddruuuulurrrrlddddlruuuulldddlddruuuulurrrlluuurrdlulddldrr"
+  },
+  {
+    "title": "microban - level 150",
+    "definition": "     ####\n #####  #\n #     $#######\n## ## ..#  ...#\n# $ $$#$  @   #\n#        ###  #\n#######  # ####\n      ####",
+    "solution": "lldllluurrdullddrrdrulurrrrurrddlurulldlllldllllurdrrruulldldrrrdrulurrrrurrddlullllldllllllurrrdrrruulldldrrrdrulurrrrrdrullllurldlluluurddlldllluurrrdrruuldldddrru"
+  },
+  {
+    "title": "microban - level 151",
+    "definition": "   ####\n   #  #\n ###  #\n##  $ #\n#   # #\n# #$$ ######\n# #   #   .#\n#  $  @   .#\n###  ####..#\n  ####  ####",
+    "solution": "lulludrruuulrdddllurdruuuddldddluruuruuluurdddddldrrrrurrddluruldlllllllluuururrurddddldrrrrrurdllllluulldurruullldldddrrrrrrrrlllluuuullddduulldddrrrrrrrlurrd"
+  },
+  {
+    "title": "microban - level 152",
+    "definition": "###### ####\n#     #    #\n#.##  #$##  #\n#   #     #  #\n#$  # ###  #  #\n# #      #  # #\n# # ####  # # #\n#. @    $ * . #\n###############",
+    "solution": "lluuurrdrrrrrdrdlllllluurruurrrrdrdrddllrrrruuulululullldurrrdrdrdrdddllllululllllddrrrrrrululllllulldddrruurruuuullllddrrddrrrrrdrdrruulululllrrrdrdrddllulullllluulluurrrrdddurrrrdrdrddllulullluuuullllddrrddddrrrrrrulullllruuuullllddrrddrrrrrddllllllluuuurrdddurrrrrddllllll"
+  },
+  {
+    "title": "microban - level 153",
+    "definition": "#############\n#.# @#  #   #\n#.#$$   # $ #\n#.#  # $#   #\n#.# $#  # $##\n#.#  # $#  #\n#.# $#  # $#\n#..  # $   #\n#..  #  #  #\n############",
+    "solution": "lddddddrdluuurduluurduluurdrrddruldddruldddrurruuuurruldlddruulddddruuluurruulldddduurruldlddruuruullddrruldddddlllluurdldrrrdruuuuuddddllluuluurdduuluurddlddddrrrruuldrdllldluuuuuddddrrruuruuldduurruullddrruldddddlllluurdldrrrdruuuuuddddllluuluurddlddrrrruuldrdllldluuuddrrruuruuldduurruullddrruldddddlllluurdldrrrdruuuuuddddllluuuuldduuruuldrdddddluruuuullllddrulurrrurddduullllddddruulddddruuldlldruruuuuurrrrddlurullluldddddrdlldluuuuuudddddrruuuuurrrrddddluuurullluldddddrdlldluuuuuddddrruuuuurrrddddddrurrruuldrdllldluuuuurullluldddddrdlldluuuudddrruuurulurrrurddlddddrrruuruuldddrdllldluuuuurullluldddddrdlldluuuddrruuuuurrrdddddrrruuuurruulldddddrdllldluuuuurullluldddddrdlldluudrruuuuurrrdddrdldrrrdruuuuluuurrdluldddddrdllldluuuuurullluldddddrdlldlurruuuuurrrrddddldrrrdruuluuuurrdldlddruuuruulldddddrdllldluuuuurullluldddddrdllrrdllururuuulurrrurdddddldrrrdruuuuluuurrdluldddddrdllldluuuuurullluldddddduuuuurrrrdddddrruuuuurrdlulddddrdllldluuuuurullluldddddrdlrdl"
+  },
+  {
+    "title": "microban - level 154",
+    "definition": " ############################\n #                          #\n # ######################## #\n # #                      # #\n # # #################### # #\n # # #                  # # #\n # # # ################ # # #\n # # # #              # # # #\n # # # # ############ # # # #\n # # # # #            # # # #\n # # # # # ############ # # #\n # # # # #              # # #\n # # # # ################ # #\n # # # #                  # #\n##$# # #################### #\n#. @ #                      #\n#############################",
+    "solution": "ruuuuuuuuuuuurrrrrrrrrrrrrrrrrrrrrddddddddddllllllllllllllllluuuuuurrrrrrrrrrrrrddlllllllllllddrrrrrrrrrrrrruuuuuulllllllllllllllllddddddddddrrrrrrrrrrrrrrrrrrrrruuuuuuuuuuuuuulllllllllllllllllllllllllddddddddddddduuuuuuuuuuuuurrrrrrrrrrrrrrrrrrrrrrrrrddddddddddddddllllllllllllllllllllluuuuuuuuuurrrrrrrrrrrrrrrrrddddddllllllllllllluurrrrrrrrrrruulllllllllllllddddddrrrrrrrrrrrrrrrrruuuuuuuuuulllllllllllllllllllllddddddddddddll"
+  },
+  {
+    "title": "microban - level 155",
+    "definition": "    ######               ####\n#####*#  #################  ##\n#   ###                      #\n#        ########  ####  ##  #\n### ####     #  ####  ####  ##\n#*# # .# # # #     #     #   #\n#*# #  #     # ##  # ##  ##  #\n###    ### ###  # ##  # ##  ##\n #   # #*#      #     # #    #\n #   # ###  #####  #### #    #\n #####   #####  ####### ######\n #   # # #**#               #\n## # #   #**#  #######  ##  #\n#    #########  #    ##### ###\n# #             # $        #*#\n#   #########  ### @#####  #*#\n#####       #### ####   ######",
+    "solution": "uulldrrrrrrrrdruuurulllllllllllluldddrdlllllllllllulllddrrudlluurrluurrddldrrrrrrrrrrdruuulurrrrrrrrrdruuuuuurullluldddrdllldluuurullluldddrdlllldluuuudrruulllrddlluuulurrrrrrrrrrrrrrrrrrrurddddddlddruuuuuurulllllllllllllllllllluldrdlllllulldrurdddddrddllurdrulurrurddddrrddlluuuuuu"
+  },
+  {
+    "title": "sasquatch - level 001",
+    "definition": "   ###\n  ## # ####\n ##  ###  #\n## $      #\n#   @$ #  #\n### $###  #\n  #  #..  #\n ## ##.# ##\n #      ##\n #     ##\n #######",
+    "solution": "llurrrrrlllldddddrrruurruuruuldlldlluldddduuuurrrrrrddldllddlldlluruuuuurrrrrdullllldddruulurrrrllllddddddrruruurrruuldrdllruuruuldddrdluuullllldddddrrdru"
+  },
+  {
+    "title": "sasquatch - level 002",
+    "definition": " ## #####\n## ## . #\n# ## $. #\n ## $   #\n## $@ ###\n# $  ##\n#.. ## ##\n#   # ##\n##### #",
+    "solution": "ruruuldldldldlddrruluurduurrllddrulurdrulururrddlullddrulurldldldddruluurrdluld"
+  },
+  {
+    "title": "sasquatch - level 003",
+    "definition": "           #####\n          ##   #\n          #    #\n    ####  # $ ##\n    #  ####$ $#\n    #     $ $ #\n   ## ## $ $ $#\n   #  .#  $ $ #\n   #  .#      #\n##### #########\n#.... @  #\n#....    #\n##  ######\n ####",
+    "solution": "luuuuurrrrdlddrrrrrululllrrrddlllluurulllulddddddrdllullddrulurrdruuuluruurrrdddrrudrruulllrddlluurullluldddldruuurrrrdrrulllllulddddddrdllullddrulurrrrluuuuurrrdddruurullllulddddddrdllullddrurullrrruuuuurrrrrrdrdlldluurullllulddddddrdlluruuuuurrrrrrurddlddrrullldluurullllulddddddrdlulllddrururrdllldlurrrrrrullluuuuurrrrrrururuuldddddlddrrullldluurullllulddddddrdllllrrruuuuuurrrrrruruulddrdllllllulddddddrdlllrruuuuuurrrrrrrruuluurrdluldddrdlllllllulddddddrdllruuuuuurrrrrrrddruuuuluurrdluldddrdlllllllulddddddrdl"
+  },
+  {
+    "title": "sasquatch - level 004",
+    "definition": "  ###########\n ##     #  @#\n### $ $$#   #\n# ##$    $$ #\n#  #  $ #   #\n###### ######\n#.. ..$ #*##\n# ..    ###\n#  ..#####\n#########",
+    "solution": "dddludlulllluurdldrrrrllluullldrurrddldlurrrdlddrdlllldlulurrrdrruuuulldrurdddrdlllldlurrrruuuuuulldrurdddddrdllluldldrullurdrrrruuulluruulldrrurdddddrdlllldlluurrldrrrruuuurrrdrrulllldlluurddddrdllllullddrurrrruuuurrrrruuldrdlllldlluurddddrdllllldlurrrrruuuuuurdldrrrdrrullllulddddrdllllrrruuuurrrruuldrdlllulddddrdlll"
+  },
+  {
+    "title": "sasquatch - level 005",
+    "definition": "  ###########\n ##    #    ##\n### $ $#$ $ ###\n# #$ $ # $ $# #\n# $  ..#..  $ #\n#  $...#...$  #\n# $ .. * .. $ #\n###### @ ######\n# $ ..   .. $ #\n#  $...#...$  #\n# $  ..#..  $ #\n# #$ $ # $ $# #\n### $ $#$ $ ###\n ##    #    ##\n  ###########",
+    "solution": "ruuuurdrrudlluuuldddrrrulldluruurdlddrruldlurdddrurrdlluluurdldrdrruullldlurrddruluuluurdddldrulllurdruldddlllrrurrrdrrulldluuldldrrrlllllulldrrrrrllluuuluurdddddddlddrulurrruulluuuuullldrrurddddddduuuulllurdddlulldrrruuulddllurruruuldddlddrluruuurrddulldrurrdddddlddruuuuudrrdddrrulllldllurdruuurrdddddruuullldddlddruuuulurrurddullldddddllurrdruuuulurrrllllddldrrdruluuulldllurrrrrurrdluldlldddluruulldrrddddluuuruulllddrrrllururrrrrdrrulllllrrrrdddluurulllrrrdddddluuuruuluuuruulddrdlddrddluuuuudddrdddddrrulldluuuurulrrdddlddrruldluururduluurdrrullldddruurulrrddlullddrurullddddruuuruldldlluuuuuuruuldddddduulldrurduuuurrruuullldddrrrddluuruuulldddrruullulddurrrdluldrrddrrulluldrrrddll"
+  },
+  {
+    "title": "sasquatch - level 006",
+    "definition": "  ###########\n###.  .$.  .###\n ## $  $  $ ##\n  ## ..$.. ##\n   ##$#$#$##\n    #.$ $.#\n    #  @  #\n    ### ###\n   ## $ $ ##\n   #.  $  .#\n   ### . ###\n     #####",
+    "solution": "rruuudddlllluuuludrruullddrdddrrrruuullrulrurdurrdldlrulddddlllluuuluurrrrrrldddddllddduuurruuuuulldrurrddldddlluuudddlluuuluurdurrddduulurrrrddldddlluuudddrruuuruulllldrdddddddllurdruuuuuudddrruuuruulllllldrurrrrrddldddlllluuuluurrrdddduuuulllddrdddrrdddrruldluuulluuuluurrrdddddddrdlllurruuuuuuurrrddldddlruuuruullldddddddldrrrulluuuuuuulldduurrdlullddrururrrdduulldrurrddluruldlllllurdrrddddrruuddllurldlluuddrrul"
+  },
+  {
+    "title": "sasquatch - level 007",
+    "definition": "           ######\n    ####  ##    #\n  ###  #  #  ## ###\n###    #### #   $ #\n#  $ @ ...*..  $  #\n# $ $  ## ###   ###\n### ###   # #####\n #      ###\n #   ####\n #####",
+    "solution": "ulldddurullldrurrrrrrrddlldllldlluruulurdrurrdllurrrrrddlldllldlluruurulrrrrrrrruururrrddlldllllllldlurrrrrrrrrdruudrrulldlllluururrrddrdllllllllllrrrrrrrurldlluururrrddrdlllurruullldlddllllldllurrrrrrllllllldllurrrrrrrrddlldllldluuulurrrrrrlluuldrddllurrrllllurdrruuldldrr"
+  },
+  {
+    "title": "sasquatch - level 008",
+    "definition": "    #######\n    #     ##\n##### ###  ##\n#       #  ##\n#@$***. ##$ #\n#  #    ## .#\n##  ##  # $ #\n ##  ####.$.#\n  ##        #\n   ######  ##\n        ####",
+    "solution": "drdrdrdrrrrrrruuulurddddlluurdrullddlllllulululuurrrruurrrrdrddddrddlruulldrddluruuuuuulullllddrddlluruuurrrrdrddddddllllllulululuurrrlllddrdrdrdrrrrrruuuuuulullllddrdlullllddrulurrrlldddrdrdrrrrrruuuuuulullllddrrdddlu"
+  },
+  {
+    "title": "sasquatch - level 009",
+    "definition": "#########\n#. .    #\n#.$. .  #\n## ###@ #\n #  $  ##\n # $$ ##\n #  $ #\n #  ###\n ####",
+    "solution": "uullllldrddrduluuurrrrdddllldluuulurrrrllldrrrllldddddruluurrrrurullrrullrdddllllddruluuurrrurrddldllldluudrrrruruulldllulldrrrllddrrrdlldluuudrrrruruullldllurldddrrrddlldluuuuurulrrlldddrrrruruuldllulldddrrrrurulull"
+  },
+  {
+    "title": "sasquatch - level 010",
+    "definition": "      ######\n      #    #\n      # @  ###\n####  #      #\n#  ####..#.#$#####\n# $ $ ##...      #\n#     .....#$$   #\n###### ##$## #####\n     #  $    #\n     #### ####\n       #  #\n       #  #####\n     ### $    #\n     #  $ $   #\n     # #$# ####\n     #     #\n     #######",
+    "solution": "dddrddddduurrruurulllldluuurrrrdullddldddrrruurullrdddllluuruuurrddrrrdllulllldddrrruurullllruulllurdrrddldluuuddrdddddlddruuuuuulurrrrrrlllllldllddrrlluurrrddddlddruuuuuulurrrrlllddddddddrruldluuuuuudllluurruuuluurrdullddrddrruulldddrddddddrdddlllluurrrlllddrrrruuruldluuuuuuuluuurrddlruullddrdddddddrdddlludlluurrrlddrruuruldluuuuuuuddrrruuullldddddddrrrrdllullldddrruuruldluuuuuudrrruuuuullluulldduurdduurrddrrdddrrullllrrrrdrrulllllrdddlllllluullllluurdldrrrrrlulldlluurdldrrrr"
+  },
+  {
+    "title": "sasquatch - level 011",
+    "definition": "  ####\n###  ####\n#   @   ##\n# #. .#.###\n# $$$ $$$ #\n###.#.#.# #\n ##       #\n  ####  ###\n     ####",
+    "solution": "rddddrruulrddrruullddlllluuurrdduulldddrrrdrurruulllrrrddlllllluuurrdulldrruululdllddrrudlluurrurdrddllurldddrrrrrruulllllrrrrrddlllllluuruulllddrrrrlludddrrrrrruulllllulduruuld"
+  },
+  {
+    "title": "sasquatch - level 012",
+    "definition": "              #####\n              #   #\n    #####     #   #######\n    #   ##### #   ..... #\n##### # ##  # #     # # #\n# $ $ $ $ $ # ##   ## $ #\n# # ##......#### ### $$ ###\n#      ## * #    # #  $$  #\n##########+$$   ## #      #\n         #.$ $# #  ########\n         #.##   #\n         ########",
+    "solution": "ulullurluullddrdrurdrdrrulruuldllrrrddludlurdddrurrllluuruuldddddurrrurrdlllldluuurdldrrrlluuuulddllurldllurlddllluurrllddrrrururldldllluurrrdrrrrduruuldrddllulurldllurllllddlluurrrlddrrrurrrdrrullllurdrrruuldrdlllurllllllddlluurrrrrrrdrrruuldrddllulurddrrullrruuldrdlullllluurrdullddrrrrrurdlddrddluurdrrurrdlllldlurrrrrddllullrrdrruullllrrurrruuuurrrrrdddrllddrrudlluuruuurrddldluudrruullllldlurrrrdddlddruuuudrruulllllldlluurdldrurrrrrdddddruuluuurrddldluudrruullllllrddlluurrrrrddrdddrrulldluuuudrruulllllrrrrrdddlddrrulldluuurruullllllrddllururrrrrrddlludrruulllldldllururrrrllllddrulurrrllldllurrrrlllluurrdullddrrrluuldldrr"
+  },
+  {
+    "title": "sasquatch - level 013",
+    "definition": "   #######\n ###     ##\n #   ###  #\n #      # #\n###$#@  # #\n#   ##### #\n#   #  *. #\n##$$#  *.##\n #     *..#\n #### #...##\n    # #$$$ #\n    #   $  #\n    #####  #\n        ####",
+    "solution": "uluurrrrdrddddllrddlruuldlldllluuruuddlddrrrurrrdrddrddluuuluulllddddrrrllluuuurrrddrdrddlulllluuuurrrddluruuruuuululllldlldrdddlddrrrurrurddldruullldrrllllluurdldrrrurrddrululldrrlllluuuuurrdrrullluldddddldrrrlluullurdrddrrurrurruuuululllldlddddlddrrruurrlldddddrrrudluuuulldrldddrruuuddrdrrulldludlluuullluurdldrrrr"
+  },
+  {
+    "title": "sasquatch - level 014",
+    "definition": " #######\n##     # #\n#  *.$.#\n#  *.#.###\n# #$@$$  #\n#   ## # #\n######   #\n     #####",
+    "solution": "uuurrddduuullllddrllddrrurudldlluuururrrrdddllulrdrruuulldrurdulllldrlldddrruuddlluurlddrrurrrudrrddlluu"
+  },
+  {
+    "title": "sasquatch - level 015",
+    "definition": "   ####\n   #@ #\n  ##  ##\n  # .$#####\n  #$. #   #\n###..$# # #\n#  ..$  $ #\n# $ $ # ###\n##### # #\n    #   #\n    ###.#\n      ###",
+    "solution": "dddddrdddrruuuuurrddlruulldddddlluuuluuruldddrudrrlllldrullldrrurrrrdddlluuddrruuulllldrurrrdddlluuddrruuulluluurdduuluurddlddlddruuuurdldddrddrruuulldlluururdllddruuruulldurrddlddrddrruuulldllllurdrrruuuuuuldrdddddlurrruurrddllll"
+  },
+  {
+    "title": "sasquatch - level 016",
+    "definition": "  ######\n ## #  ###\n## #   # ##\n# #   $.# #\n##  $ $.# #\n# #####. ##\n#     $. @#\n#     $. ####\n### # #*# # ###\n  #### .$     #\n    #  .$     #\n    ## .##### #\n    # #.$ $  ##\n    # #.$   # #\n    ## #   # ##\n     ###  # ##\n       ######",
+    "solution": "lldddrrrrlllllddrurrlluuuruulddddldruuuullllrrrrdllurruuululldrdrurddrdluuulllldrrrurdduulluurdldrdrdrddluuddllurdrulllldrrrurddduullllllurrrrrdrddlddruuudddddrdrrululdluuuudddrrdrrullldluudrrdddlurulululuurdduurrdluldurrrrdlllrrrrrulllll"
+  },
+  {
+    "title": "sasquatch - level 017",
+    "definition": "    ###########\n   ## . . . . ###\n   #  $$ $ $ $  #\n   #   ######## # #####\n #### ##  $     # #   #\n #    #  $ $ #  ### # #\n##  # #   ####     $  #\n#...  ##### $  #### ###\n#... @     $     #    #\n#...############ $  $ #\n#####          #####  #\n                   ####",
+    "solution": "rrrrrrurrdruudldlllllllllldluurrrdrrrrrrurrrurrrrrlllllddrrdrruruulllluuldddurrrrrddldllulllllllllllllluldurruuldrdlrrrdrrrrrrurrrurrrrruurrddllllllulddurrrrrddldllullllllllllllllrrrrrrrrrrrrrrdrrurrrddluruldluuulllllddrrdrruruurruulldurrddllllllulddurrrrrddldllullllllllllllldluuruurruuuurrrrrrrdrullldrullldrullllddrururrdlurrrdlurrrdlulllldllrurrrdlurrrdlulllldldllururrdlulddddllddrrdrrrrrrurrruuuruullrrddldddllldllllllulluurruuuurrrrrrlldllurrrrdllullllddddllddrrdrrrrrrurrruuuruullllullllllddrulurrrrdllullddrulurrllddddllddrrdrrrrrrurrruuuruullllllllullddrulddddduuuuurrrrrrrrrrddldddllldlllllllullddruurrdrrrrrrrrrrrdrrrurrddluruldluuurruulldurrddllllllulddurrrrrddldllulllllllllllllrrrrrrrrurrruuulllldldllururrrrrrdddllldlllllluuuuuurrrrrrrrrrdddldddrrdrruruullllulddurrrrrddldllullllllllllllulldurdrrrrrrrrurrruuullllllddrulurrrrrrdddllldlllllluuuuuurrrrrrrrrrdddldddrrdrruruullllulddurrrrrddldllulllllllllllllrrrrrrrrurrruuulldllullddrulurrrrrrdddllldlllllluuuuuurrrrrrrrrrdddldddrrdrruruullllulddurrrrrddldllulllllllllllluruullduld"
+  },
+  {
+    "title": "sasquatch - level 018",
+    "definition": "    ####\n#####  #\n#      #\n#$ $ $ #\n#.*.*.*#\n#*.*.*.#\n# $ $ $#\n#......#\n#.*.*.*#\n#$ $ $ #\n# $ $ $#\n#$ $ $ #\n#      #\n#@ #####\n####",
+    "solution": "urrruuruuulluuruulrdrulddlddrrdddlddllururrurduluulldrullldrddlduruuurrrdurduudllluuruululldurrdrdddldrdrruuldlluururdduuuruulddlddlddlurdrdluuurrdrddlruullluruulurdrruuldrdluldddldddruuruluuullldrrurddddlddruuurdrddluullddrullldrulurrdrullddddluurddrddldluuuurdrrrruuddlllddrrruuudlluuddlluuurrddldddrrulrruulrddlluuudluddluurrdrrdldluudddluuudddluuu"
+  },
+  {
+    "title": "sasquatch - level 019",
+    "definition": "#####\n#   #######\n#  $      ##\n## ######  ##\n # #    # # ########\n # # ##    $       ##\n # #.   #@###### $  ##\n # #.#  ###    ## $  ##\n # #.    #      ## $  ##\n # #.#   #  ##   ## $  ##\n## #.#  ##  ###   ## $  #\n#  #.#   #  #*##   ##   #\n#   .# # #  ##*##   #####\n######   #  ######\n     #####",
+    "solution": "urrrrrrrdrdrdrdrdrdrrulululululullllllllllruuullllllulldrddddddddddrruuuuuuuurrrdddlddrrulllruulldddduuuurrrurrrrrrrrrrrdrdrdrdrddlululululudrdrdrdrrululululullllllllllruuullllllulldrddddddddddrruuuurruulluurrrddddrdlulddduuuuururrrrrrrrrrrdrdrdrddlulululudrdrdrrulululullllllllllruuullllllulldrddddddddddrruuuurruulluurrrdddlddrrululdduuururrrrrrrrrrrdrdrddlululudrdrrululullllllllllruuullllllulldrddddddddddrruuuurruulluurrrddduurrrrrrrrrrrdrddluludrrulullllllllllruuullllllulldrddddddddddrruuuurruulluurrrddurrrrrrrrrrrddlurullllllllllruuullllllulldrddddddddddrruuuurruulldddduurrdrrulllruullddduuurrrdlddrrulllruulldduuuurrrdddlddrrulllrrdddluuuurullrruulllddrrrdddddrddlluuuuuurullrrurruuullllllulddddddddddldrr"
+  },
+  {
+    "title": "sasquatch - level 020",
+    "definition": "     ####\n     #  #\n######$.#\n#   $ $.#\n# $@$...#\n# $$$..##\n#  $ ..#\n########",
+    "solution": "ulldddrrrrlllluuurrdduulldddrrrlurrulrulrdrruldlluldrrrulrruuldrddllllurdddllluurrurdlllddrrurulrrrruuldrdlllurrdrulllldrddllluuurrrrrllllldrrrrrllddluruulldrrrllddlulurrr"
+  },
+  {
+    "title": "sasquatch - level 021",
+    "definition": "##### ########\n#   ### . $  #\n#   $ *.. #$ ##\n## $# ..* $  @#\n #  $ . ###   #\n ######## #####",
+    "solution": "luullldlldllullulldrddrrrurrurrdrrdrulllulldrrrrllllllurrllddllluurrrrlddllulurrrdrrrrrrdrrullllllrruurrrdulllddrrdrrulllllruurrdrdlll"
+  },
+  {
+    "title": "sasquatch - level 022",
+    "definition": "   ##### ####\n   #@ .###  ###\n####  $$ $    #\n#   # . . ##  #\n#  $ # . . ## #\n## .  $ $$  # #\n # #  ###.  # #\n # #### ##### #\n #       #    #\n ####### # ####\n       # .$ #\n     ####   #\n     ## #####\n      ###",
+    "solution": "rddrrrrdrddlurulullddrrlllllrruuluurdldrdrdrruulullrrdlrrdddrruldlulluuulduulldrdrrrrdullddrruulllluurdldrurdrrddlurulrdddrruldluuldllllululldrdrrrrrrurdllllllluurdlddddrrrrrrddrdrruluurrruuuuuullllllldlurrrdddlludrruuurdlddllurdrulldllullddddrrrrrrddrdrruluurrruuuuuulllllldulllur"
+  },
+  {
+    "title": "sasquatch - level 023",
+    "definition": "     #######\n######     ######\n#  . ..$#$.. .  #\n#  $ $  .  $ $  #\n###$####@####$###\n#  $ $  .  $ $  #\n#  . ..$#$.. .  #\n######     ######\n     #######",
+    "solution": "urrurrdlurrrdlulldlurrrdlullullllddrrddrrdrrulrdrruluulurllldllrrurrrddddllurruuullldllddrrrllllldllurrrrrllllldllurrdrrurruurruullllddrrllulldrrulllldrrlduurrrurrrrdrrrddddllldllllulluluuurrrdlllddrdrrurruulllururrrrddlllrddlldllurrllldllurrrluuulldrurdduurrdllurrrurrrrddlllllururrrdrdllrurrrrddddllldllllulluluuurrrurrrrdrrdlrrrrulldllulldllrrrrrrullrrrrdlullldlluullldllldddrdrrdrrrrurrruuurulldllluullldldrrrrrrrrlllluulldurrddllulllllldrurrrrrdrrrrrrdddllldllllulluluulurrrdllddrdrrdrrrrurrruuullllllllulllldrurrrdrrrrrrrrdddllldllllulluluulurrldddrdrrdrrrrurrruuullllllllllrrrrrrrrrrdddrruldlllldllllulluluurrrrrrrrrrddrdlllurruulllllddrrrdrrrruldlllullluurrrrrddrdllruuulllllddrrrrruullllllllllddrdrrurruullllullldrurrdrrrrddlldlluluurrrruuldrdrddlldlluluururrlldllurrrlldddrdrrurruullllrrrrddlldlluluulurrlddddllurdruudrdrrurruulllllddrdrrulllrrrddrulullluurrrrrddlllrrruurrrrrddlllllldllllllurdrrrrruruulllllddldrrrurrrllllrrrruulllllddldrrurrrruurrrrrddlllllllllrrrruulllllddrrrrrrrrrrdrruldllulllluurrrrrddllllllddrrudlluuruurrrrrddllllddlluulllluuulldrrrrrrrrrluulldurrddllllllddrrrrddrruurrrruulllluullddlllullldrurrdrrruurrddrrrrddllllddlluulllluurrrruurrddrrrurrrdlulldllluullddllllddrrrrddrruurrrruu"
+  },
+  {
+    "title": "sasquatch - level 024",
+    "definition": "        ######\n        #   ##\n  ####### $  #\n  # $ $ $ #$ #\n  #   #. $   #\n ####.#.# $###\n #   ..... #\n #  $ ..##$#\n### ## ..  #\n#  $.#$ # $#\n#   $   #  #\n##@  #  ####\n ##  ####\n  ####",
+    "solution": "urrrruruuulllldddduuuurrrruurrllddlldluldddrdrruurullrddddruluuuuruurruuurrdrddlllddlluuurldddrruululddduurrrrruululldduurrdrddlllddruldlllddrrrrudllluluruuurrdluldddlddrrrruuddlddruulllluuruuurruurrdrddlllddruluulldddlddrrrruuluuullddddldruuuuurrdddlruuulldddlddddruluuullldrrurddduuurrruululddurrddlllllrrruuurruurrdrddllllulddurrddruldllldllurrrrllluuurrdrrdrdllllruurruuurrdrddllrruulullddddullurdrrrruululldddulllldllurrrrdddldlurrrrlluurrrdddduullllluuddldllurrdrurdddrddluuuulurrlllldddlddrdruudluuuddrrruuuulllldrrrurruurrrddllllruurrdrdlllrrrddlddruuuuuluuuurrdrddllrruulullddddrdllruullurdrrrruulullddddrdluuulllldllurrrrrdrrrruululldddduuuurrddrdlllluldrrrruululddurrddlll"
+  },
+  {
+    "title": "sasquatch - level 025",
+    "definition": "         #####\n     #####  #####\n     #  .#$   $ #\n     # #. $$$ @ ##\n     #  .#$   $  #\n     ###.#  $ $  #\n       #.  ##$ ###\n #######*###.$ #\n # $    ....####\n## #$#$$....#\n#  $ $   #..#\n#     $  #..#\n#  ##########\n#####",
+    "solution": "ldlldldllddldrrurddullddluruullllddrrlluurrdrrrrurddulllddluruulldrrrurdullllllddrrurrddlulurrrrurdllllldllldllurrrrrurrddluulurrrrllllllddlluurrrrrrrlllddldllullddrulurrrrrurrddlulurrrrlllddllllullddrulurrrrrrdrulurruluurrururrdrlulldruruulldllrrurrddluddlldlluulluurrddddddrdlluruuuuurrruuldrdllrrrddlldlluulluurrddddddlddrurulllllrrrruuuuurrrrrulluldrdllrrrddlldlluulluurrddddddlddrurulllrruurrururulllrrddldlluulluurrddddddllddrdllllurrruurruurruurullrdddllddrdllulddrdlllurruurruuuulluurrddddddrdllulddrdluuurruuuuurrrrrrrdlllldlurullrdddlluulluurrddddddrdluldduuruuuuurrrrrrrulllluldrdllrdddlluulluurrddddddrdlluruurruurrrrdlllrrrddluuululllldddrruurullrdddlluulluurrddddddlddruluruurruurrrrulllllrdddlluulluurrddddddldruuurruurrrrrrdlldluurulllllrdddlluuudddddlddllluurrrdruuuuuddddlddludlluurrrdruuuudddllllddlluurrrrrdruuuddllllllddlddrulurrrdlullddrulurrdruudlluurrrrrdruudllddlruullllddrdruudlluurrrrrdrulldddlllullddrulurrdruudlluurrrrrdrddlllllullddrulurrrrrrdru"
+  },
+  {
+    "title": "sasquatch - level 026",
+    "definition": "           ####\n ###########  #\n #  $ $ $ $   ##\n #  # # # # #$##\n ##. . . . . .#\n  #$# # # # #$####\n###. . . . . .   #\n###$# # # # # @  #\n  #   $ $ $ $  ###\n  #  ###########\n  ####",
+    "solution": "ullluurrdullddrrrluulluurrddlllluurrrlllddlluurrllddlluurrllddlluurrddddlluurrddddlluurruullulurddrrrrddddllldlurruurrrrddlluurrrrddlluurrrrddlluuuurrdduulluururdddlllluurrrlllddlluurrllddlluurrllddlluurrddddlluurrddddlluurrrrrrrrddrrurullrddlluulluurrrrdullllddrrddrrurulllrruullllllddddlluurrrrddlluuuurrrrrrddllddllrruulrddlluurrrruulluururdddlllluurrllddlluurrllddlluurrllddllulurrrddddlluuulurddrrddddldluuurrrrddlluurrrrddlluuuurrrrrrdullllllddrrrrddrrurullllllrddlluurrrrrruulluururdddlllluurrllddlluurrllddlluurrllddlluurrddddlluurrrrrrrrrrdullllllllddddldluuurrrrddllldlurrrrrrrrrrurullllllllrddlluurrrrrrrruulluururdddddlluuddddrrurullruulldduulluurrrurddddullddlluuddddrrrrurullllruulldduulluurrrrrurddddullllddlluuddddrrrrrrurullllllruulldduulluurrrrrrrurdddllllllllllulurrrrrrrrrrlllllllddrrddlluurrrrrrrrdullllllllddddrrrrrrrrurullllllllruulldduulluurrdduurrdduurrdduurrdduururdddddrddluuudlludlludlludlludlludrrrrrrrrrrddlludlludlludlludlludrrrrrrrrrrurrrull"
+  },
+  {
+    "title": "sasquatch - level 027",
+    "definition": "      ########\n ######      ##########\n## $     ###          ##\n# $ $ ## #  #########  #\n#  $  #              # #\n# $ $ # #  ######### # #\n#  $  #  # #. . . .  # #\n# $ $ # #    . . . .## #\n#  $  # # # . . . . #  #\n##$ $## #  #### # #   ##\n #   #@ #       #  ####\n ######  #####  #  #\n      ##     #  #  #\n       #####  ##  ##\n           ##    ##\n            ######",
+    "solution": "ruuuuuuruulllddddddlululluurrurldllddrrdrruuuulurrrurdduurrrrdrrrrrrrrrdrdddddldllulldddddldlllululllluluuuuuuurrdrddrrurrrrrrrruulllllllllulddduurrrrrrrrrrddlllllddddllllluluurrrrrurdddduuullllluuulluulllldldrlllddrrdrruuuulurrrurdduurrrrdrrrrrrrrrdrdddddldllulldddddldlllululllluluuuuuuurrdrddrrurrrrrrrruulllllllllulddduurrrrrrrrrrddlllllddddllllluluurrrrrrrurdddduuullllllluuulluulllldldllurrrdrulurrrurdduurrrrdrrrrrrrrrdrdddddldllullddrddldldlllululllluluuuuuuurrdrddrrurrrrrrrruulllllllllulddduurrrrrrrrrrddlllllddddllllluluurrrdrulurrrrrllllldlluuulluulllldllurrrrrurdduurrrrdrrrrrrrrrdrdddddldllullddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrrrrrdrulllllluuulluulllllldldddruulurrrdrulurrrurdduurrrrdrrrrrrrrrdrdddddldllullddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrrrdrulllluuulluullllllddddruuulurrrrrurdduurrrrdrrrrrrrrrdrdddddldllullddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrrurdldrrrrrullllllluuulluulllllddddrdruuuulurrrurdduurrrrdrrrrrrrrrdrdddddldlluulldddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrdrruuldldrrrrullllluuulluulllddddluuulurrrrurdduurrrrdrrrrrrrrrdrdddddldlluulldddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrrurdrdlurrullrrdrrullrrddllurrrrdllurrulldllllllluuulluulllllldldddddruuuulurrrdrulurrrurdduurrrrdrrrrrrrrrdrdddddldllullddrddldldlllululllluluuuuuuurrdrddrrrrrrrurrruulllllllllulddduurrrrrrrrrrddllldlldddllllluluurrrrrrrrdrulllllllluuulluullllddddddlddruuuuuuulurrrrurdduurrrrdrrrrrrrrrdrdddddldllullddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrrrrrrrurdlllllllluuurrrrrrrrrrddlruulllllllllllluulllllldldddddrrdruuuuuulurrrrurdduurrrrdrrrrrrrrrdrdddddldlluulldddrddldldlllululllluluuuuuuurrdrddrrrrrrrrruruulllllllllulddduurrrrrrrrrrddldlllldddllllluluurrrrrrrrllllllluuulluulllllddddddddluuuuuulurrrdrulurrrurdduurrrrdrrrrrrrrrdrdddddldlluuuruulllllllllldddrrrrrrrdddrddldldlllululllluluuuuuuurrluuurrrrdrrrrrrrrrdrdddddldlluuuruullllllllluldllldddddddrdrrrrdrdrrrururuuluuurldddrddldldlllululllluluuuuuuurrrrrrrrrrrrrddlduruulllllllllldduurrrrrrrrrrddldlllldddllllluluurrrlllddrdrrrrddruuuuddllllluluuruuurrrrrrrrrrddldlldddrddluuuudddddldlllululllluluuuuuuuruuurrrrdrrrrrrrrrdrdddddldllu"
+  },
+  {
+    "title": "sasquatch - level 028",
+    "definition": "       ######\n       #    ###\n   ##### $ $  #\n####   #.#    ##\n#  $ #$#.##$#####\n# $$. .#.$      ##\n#  $.#.#.#####  ####\n##  ....... @#     #\n ####$ #.### #$###$##\n  ## $  .  #  $ $ $ #\n   # $ ###          #\n   #   # ############\n   #####",
+    "solution": "llllllddddlluurruuldrdddllurdruuulurrrddlruulllddurduuuulluurrddddlllluluurrllddrdrruurruullddulldrruurrddddllludrrruuuulldddldrrrlluurlulldrlldrrdrrddruuddrruulllddlddrruurrrrdrrrrruluudddllllulluuuuuuuurrdrulllddddddddrrdrrrruuuruulllluuddllrruuluulldddddddulllddldruuurrruurrrrrrrddldddllllullllrruullldduurrrrluuuuuurrdluldddddurrrrrrrddldddllllullllluurrruuuuuurrrddullldddddddllulurlddlddruuudddruuudrruuuuuuurrrdrrulllullddddrrruuddrrrrddlurullllllrruuluullddddddduuurrrrrrdddddllurdruuuurullllllrruuluulldddddduurrrrrrddddrdrrulldluuuurullllllrruuluulldddddurrrrrrddddrrrdrrulllldluuuurullllllrruuluullddddrrrrrrrddrrrdullllddrrrdrrulllldluuuurullllllrruulululddurrdrrullluld"
+  },
+  {
+    "title": "sasquatch - level 029",
+    "definition": "####\n#  #              ####\n#  ######## #######  #\n#         ###  ##  $ #\n##.###### ...     #. #\n #.#      # .#   # $ #\n #$$$$#$$$ #.#   ##. #\n #.# $   $ #..      ##\n #.#  $  $   # #   ##\n #  #   $$ #   #####\n #.  ##$  ######\n #.   #  $.  #\n##. @ ###.#$ #\n#     # #    #\n#    ## ######\n######",
+    "solution": "uululuuuuuurrrrrrrddllddrdrrrllluluurrurrrrrdddddlluuuulurrurddullllldllddldrrrrrllluluurrurrrdddrrddlluuuulurrrdduulldddrruuullllldlddldrrrrllluuururrrrrdddddlluuuulurrurdllddddllldulldrddluuruulldrrrrrllluuururrrdddrrrrdrruldlulllluuurrdduulldddrrrrllddlluuuulurrurdllddddlldlldluruulldrrrrrllluuururrrdddrrddlluuuddlllldddruuddddrrruullrrddllluuddrrurulddlluuluurdduulurrrllluuururrrrrdrddlddlluudllllllldrrrdrulurrrllluuururrrrrdrddlddlludrruuruurulllllrrrrdddluurulllrrrdddrdrrullllrruuddrrruruulduruuldlldllllrdddddllulllluuulllldlrurrrrruullllllldddddddddrddllurrdruuluuuluuurrurrrddldllurdrruuulldllrurrrrruullllllldddddddddrddllurrdruluuuuluuurrddrudrrulldlurrruulldllrurrrrruullllllldddddddddrddllurdruuuluuuuurrddrruldlurullrurrrrruullllllldddddddddrddlluruuuurdduuluuurrrdrrrdrrullllldlurullrurrrrruulllllllddddddrddluuuudddddddrruluudddllurdrrurulddllurdrulluuuuuuudddddrduluurdduuluuurrurrrrrdrdlllllulllddddddddrruluuddrrullddllurruulduuuuuurrurrrrruulllllllddddddddrdddruruldldlluruuuuuuddddddrluurduluurdrdullddruldddruluurrrddllrruuldrdlululuurdldrurdululuuurrurrrrruullllllldddddduuurrrddluruurrrruullllllldddrrlldddrdrdrddldludllurdrruruulllurrdrddlluddllurdrruruululldduurrdrddldludlluruuuuuuurrurrrrruulllllllddddddddduuuuuuuuuluurdldrddddddrdrdrddldlluuuuuuuuuuudddrrurdurrddllullluuuluurdddddddddduuuuurrurrrrruullllllrrrrrrddllllldlluuuddddddrdrdrddldlluuuuuudrdrdrddllrruullrrddlluddllurdrruruululldduuuuuurrurrrrruullllllldddddddduuuuurrrddlurullrurrrrruulllllllddddddrdrdrddlululuuuuurrurrrrruulllllllluurddrrrrrrrddllllldlldddddrdrddludlluruuuuuddddddrruldluuuuurdrdlrrddllluuddrrurullrdl"
+  },
+  {
+    "title": "sasquatch - level 030",
+    "definition": "     #####\n     #   #\n     #   #        ######\n   ###  ## #####  #    ###\n   #    #        ## #$$  #\n  ##$   ########## $  $  #\n###  ## ..........$  #$$@#\n#    # $$# ####### $     #\n#   $  #...#     ###  ####\n#   #   $ ### ##   ####\n########    #\n       #    #\n       #    #\n       ######",
+    "solution": "dllllullllllllllddlldurruullrrddlluddlluuruuuuddddlddrrurruullrrddlldlluuruuudddldlllrrruruuulllddduuurruuurrdluldddrdlurudddrrrddlludrruulldluulullddlddrrdrrrrddluruuluululullddddrdrrrurdldruululldldrrrurddldruuuruurrrrrrrrrrdrrrruullrrddluuddllluurrdullddrrllulluruurrrddllrruulllddrdlllllllllllldlldllldluruuruurrdlulddurrruluuurrdluldddrdluruldllddlddrrruruulullddduuurrdrddldlllrrrururrrrrrrrrrruruurrdrdllruullddrdlllllllllllldlldlluuuurrdrdrdddlluururdddduuuurrrrrrrrrrrrdrrurruullduuldrdllruullddrdlllllllllllldlldlluuuurrdrdrdddlluururddullddrrdrulurluurrrrrrrrrrurrrurrrdllllruullddrdlllllllllllldlldlluuuurrdlulddurrruluuurrdluldddrdluruldllddlddrrruruudrrrrrrrrrrrrrdrrurulllruullddrdlllllllllllldlldllluuruurrdrdrdddlluururddrdluuurrrrrrrrrrdruurrrddldluudrruullruullddrdlllllllllllldlldllluuruurrdrdulullddlddrrrururdduurrrrrrrrrrurrrrrrddllldluudrruullruullddrdllllllllllllddrddluuulldllluuruurrdrdrrrrrrrrrlllllllllulullddlddrrrururddrddluuulurrrrrrrrlllllllddrddddluuuuulurrrrrrrllllllldlddrluurrdrddluuulurrrrrrlllllluluurdddrdddlluurlddrruulurrrrrllllluuuluurdddddrdddlluurlddrruulurrrrlllluullldrrurddrdddlluurlddrruulurrrlllulllddldrrdrrruulldldrrluurrdrddluuulurrlldldllldllurrrrdrrruulldldrrluurrdrddluuulurldldlllllurrurdldrrdrrruulldldrrluurrdrddluuudrddddrrulldluuurddrruldluu"
+  },
+  {
+    "title": "sasquatch - level 031",
+    "definition": "   #####\n   #   #####\n   # $$#   ######\n ###.  . $ #    #\n #  .##.####### #\n # $.  . #    # #\n##.##$$$$#$$$ ######\n #...    .    #    #\n #..##.####.### ##@#\n ## # $ $ $ # $ $  #\n  # #       #     ###\n  # #.##.#.######  #\n  #  $ # $.     $  #\n  #    ###.## ###$##\n  ###### #        #\n         ##########",
+    "solution": "dldddllllddllluuuuruuulllllddrdrrullrrdrrullrdddddrrruullrrddllluuuuruuulllllllldddddrdrruldlluuuuuurrrruuddrrrrrruullldurrrddlllllllllrrrrrruurdldrdddllurdruuuddlldlddrrddrrruullrrddllluuudrrrrrrruullllurdrrruruulllddldrrluuurrrddlddrdlllllllluululdddrrddrrruullrrddllluulluurrrulruulllluulllullddddrdddddrruuurulddddlluuuuuluuuurrdrrrddrrrrddldllurdrruuulllluulllullddddrdddddrruuuurrllddddlluuuuuluuuurrdrrrddrrrrdddllllrddrrudlluulullddddlluuuuuluuuurrdrrrddrrrrdddllullrrdrddrrrrrrruuulrruulllddldrrurddrdllllllrddllluulluurrddddrrruullrrddllluulluurrddrrrddrrrruuuululuurrrddllrruulllddldrrurddrdlllllllluullddrluurrruuulllluulllullddddrdddddrruuurrrrurdlllurdrrruldllurlldlldddlluuuuuluuuurrdrrrddrrruurrrddlruulllddllluulllullddddrdddddrruuuurrllddddlluuuuuluuuurrdrrrddlduruulllullddddrdddddrruuurrrruldllldddlluuuuuluuuurrdrrrddrrrrlllllddrluullldlurrrrrrrruurrrddllllllllrddrdrrrruuddlllluluurrrrrlllllddldrruluurrrrrdddlluldlllddldluuuudddrruuuruuruulllullddduuurrdrrrddllllrrrruulldurrddlllruulluldurrurrrdduullluurdldddrrruullulddurrrrurrdlllllulduurrdldrrrurrdlllllrrddllddrruuudlldrdruuddrrruurrrddllllllllrrrrruurrdrdllllllrrrrdddllllluuuuddddrrulrrdrruuulllllddrdluldurrrrrdrullllluuururdldrrruurrddllllluldulurdrrdrruurdrdll"
+  },
+  {
+    "title": "sasquatch - level 032",
+    "definition": "                   #####\n                   #   #\n           ######### $ #\n    ###### #   #   #   #\n    #    # # $     $ #@#\n  ### ## #### ### ## ###\n  #   $  $     #   #   #\n  #  $  $ # #$ # $$ $$ #\n ######  $  #  #   #   #\n##    ## ###############\n#  .#   $ #    #\n#..    #  ######\n#...####  #\n#....# ####\n#....#\n######",
+    "solution": "ulldddrrddlluuuuudllrrddddruluuullulldrddlddrurrruuullulldrddrdrruuulluldlllulldrddllddlluluuulllddrdluuurrrddlruullldddrrurrdllrrdrruulldlldrddrddlurullldllluurrdrdllruulldddldruurrurrruuururrddlluldddrddlurullldllluurrdrdllruullddddldruuurrurrruuuluruulllddrrlluurrrddddddrddlurullldllluurrdrdllluldddldruuurrrurrruuuullldrrurddddrddlurullldllluurrdrdlllulddduurrrurrruuuullllldrrrrurddddrddlurullldllluurrdrdllllulddduurrrrurrruurrruulldllulluurrrddddddrddlurullldllluurrdrdlllulddldruurrrurrruuuurrrrrrddlurullllldllulluurrrddddddrddlurullldllluurrdrdlllulddurrrurrruuuurrrrruurrrurrdlllluldddrddlurullllldllulluurrrddddddrddlurullldllluurrdrdllllulddurrrrurrruuuurrrrruurrrrrrrdddlluludrdrruuulllllluldddrddlurullllldllulluurrrddddddrddlurullldllluurrdrdllruullldddrurrurrruuuurrrrruurrrrddrddluuudrdrruuulllllluldddrddlurullllldllulluurrrddddddrddlurullldlllluurrrdrdllldlluurdldrurrrurrruuuurrrrruurrrrrrrddddrrulllldluuudrdrruuulllllluldddrddlurullllldllulluurrrddddddrddlurullldlllluurrrdrdlllrruulllddrrrurrruuuurrrrruurrrrrrrdddrruldllluluurrrddrdllldluuudrdrruuulllllluldddrddlurullllldllulluurrrddddddrddlurullldlllluurrrdrdlllluldrrrrurrruuuurrrrruurrrrrrrurruulldddddrdllldluuudrdrruuulllllluldddrddlurullllldllulluurrrddddddrddlurullldlllluurrrdrdllllrrrurrruuuurrrrruurrrrrrrurrululdddddrdllldluuudrdrruuulllllluldddrddlurullllldllulluurrrddddddrddlurullldlllluurrrdrdlll"
+  },
+  {
+    "title": "sasquatch - level 033",
+    "definition": "   #######\n  ##     ##\n  #  ###  #\n  # ## $  ####\n  # # .#   $.####\n  # # * *###.$  #\n  # # *#   ### #####\n  # # @ * *  # #   #\n  # #  ### #*#  *  #\n  # ## #  * *.# # #######\n  # #  #     ....$  $   #\n  # # ## $# $####$      #\n###*   *     #    #######\n#   ########## ####\n#              #\n##  ############\n ####",
+    "solution": "rruuuruululllldlddddddddddrrrrruurrrrrrrrrlllllllllddllllldlddrurrrrrrrrrrruurrruudrrurrlldllurrlllluururrdlddlllllllllddllllldlddrurrrrrrrrrrruurrrudlllddllllllllllluurrrrruurrrrrrrrrlluuluuulrdddrddlllllllddllluuruuurruuurrrllldddllluurlddrudrrurrdlllruuuruulddduuuulllldlddddddddddrrrrruurrrddrulurrrrlllllllddllluuruuluuuururldlddruldddrudddlddlluuuuuuuuuururrrrdrddldlrduuruuldduuulllldlddddddddddrrrrruurrrurldllurrludrdddlllruulurdrrrrrruururrdlddlllrrrdrrullllrrrrdrrulllllrrrrrdrrullllllddlllddlllllllllllu"
+  },
+  {
+    "title": "sasquatch - level 034",
+    "definition": "            #####\n            # ..########\n            # ......#  #\n            #.. ##$$  $#\n         #####.##   $  #\n         #  ....# $  $$#\n##### ## #  .. .#$  $  #\n#   #    # ##.###  $$ $###\n#   ###  # ## #  $  #    #\n# @   #### #  # # ###$ # #\n#             #  $    $  #\n#   ####      ### ####$$##\n#  ##  ####     #       #\n#  #      ##    ######  #\n####       ##     # # $ #\n            ##    # #   #\n             ###### #####",
+    "solution": "rrrdrrrrruuuuurrrruuurrrrrddllddrddldduuruuluururullllulddddrdlllluldddduuurrrdddldllllllllullddruurrdrrrrruuuuurrrruuurrrrddlddruuurullllulddddrdlllluldddduuurrrdddldllllllllldluurrrdrrrrruuuuurrrruuurrrrddddrururullrddlluurullllulddddrdlllluldddduuurrrdddldllllllllldlurrrrrrrruuuuurrrruuurrrrrdrdldluurullllulddddrdlllluldddduuurrrdddldlllllllulldllurluurddddurruldlurrdrrrrdrrullllllldlurrrrrrrruuuuurrrruuurrrrddddddruuuuruldlurullllulddddrdlllluldddduuurrrdddldlllllllllrrrrrrruuuuurrrruuurrrrrdrrdddllrrrddrrddlllrrruulllurulullddluuuurullllulddddrdlllluldddddldrrrurddldrrurdldruulluuuuuuuruuurrrrrdrrdddrddrrddllluuddrdduuluuruullullddruuuruldlurullllulddddrdluldddddddldrrdrdrruldlluuuluuuuuuuruuurrrrrdrrdddrddlurullullddruuuruldlurullllulddddrdlulddddddduuuuuuuruuurrrrrdrrddddlullddruuuuruldlurullllulddddrdlllluldddduuurrrdddldllllllrrrruuuuurrrruuurrrrrdrrdddddddrudrruulldluurullldluuuurullllulddddrdluldddddlddrrddluruldluluurrdlllrrddrruldluruluuruuuuruuurrrrrdrrdddrddddddruluuurrddldluudrruulldluurullldluuuurullllulddddrdlulddddddlddrruldluruuuuuuuruuurrrrddddddlddrrrruurrrddldluudrruulldluurullldluuuurullllulddddrdlulddddddduuuuuuuruuurrrrrdrrdrdddlddrdrruulldluuuurullldluurullllulddddrdllllurrruuurrrrddddddlddlluurrddrrrruuuulllldddullddrrrrrruurrrddldluudrruulldluuuurullldluurullllulddddrdlllrdddldduuruuuuruuurrrrrddddddlulddullddrrrrrruurrrddldluudrruulldluuuurullldluurullllulddddrdluldddduuuuruuurrrrrdrrdrddddddrdddddllurdruuuuluuurrddldluudrruulldluuuurullldluurulllluldddduuurrrrrdrrurdddddlddrdrruulldluuuuurullldlurulllldlddldruuurululdrrrrrrdrrrdddddddrddddluuuuudrruulldluuuuurullldlurullllrrrrdrrrdddddddddllllluulluurrdullddrrrrrruurrrddldluudrruulldluuuuurulldlululllulldrrrrllldddlddddlddruuuuulurdruuuruulldrrrlldddldddddddrddluuuuuuuulurdruuuruulldrrldddlddddldlldrdrdruuuuuuulurdruuuruulldrdddlddddldldrdruuuuuulurdruuuulurddddlddddldlllldrrrrdruuuuuulurdruuuudddlllldddddldrrrdruuuuuulurdruuuddlldluldddddldrrrdruuuuuulurdruudldddddddrdddrruldluluurrdldluuuuuuuulurrldddddddrdddrruldluruldluuuuuuuulurdrulllldddddlllllulldrrrrrrrrrdruuuuddldlluuuuurrrrdllulldddddllllllldllurrrrrrrrrrrdruuuuurullrddddldllllllllllluuurrdduulldddrrrrrrrrrrrdruuuuulurddddldllllllllllldddruulurrrrrrrrrrrdruuuuudddldllllllllllluurdldrrrrrrrrrrrdruuuuddldlllllllullluurddldrrrrrrrrrrdruuudldlluuuurlur"
+  },
+  {
+    "title": "sasquatch - level 035",
+    "definition": " #####\n #   #\n## # #####\n#    ##  #######\n# #     $      ####\n#   #### $  $$ #  #\n#####  # $$$ $ #$ #\n       # $  $ $ $ ######\n     ###$   #$ $  $    #\n     # $ $$      ### @ ##\n     #  $ $$$$####...   #\n     #  $     $ #. .#...#\n     ### $$$$   ......  #\n       #      ##..#.....#\n       ###### ##.....####\n            #   .....#   #\n            ##########",
+    "solution": "ldlldldllllulllluluurrururrudlluddldllddrddldrrrurrrrrdrulllllldrurrrrdddllluulurrrrrrurddrdllldludllluullllurrrrrrrrrurddrdlldluldllluuulllululuurrrdrddrddllurrrrrrrrrrurdrdllluldrdllldlllluuuuluurddldrrrrrrurddrdllruulllluldlluurdldrrrrrrurddrdluullllulluulluuurrddddduurrrulldllluuurrdddurrrrrrrdrrullllllldllldddrrrrrrrrdruuuluullllldllddldrrrrrrrrdruudlllllllllllurrurdldrrrrrrrrrdruuudldllllllulluullddldrrrrrrrrurdddrdlllrruuullllullllllurrurddldrrrrrrrurdddrdllruuullllullullllldllurrrrrurddldrrrrrrrurdddrdluuullllulluulluldddldrrrrrrrrrurddduulllllllllldluruulldrrrrrurdldrrrrrrrdrruldlullllulluullulldddldrrrrrrrrrrrrrurdrdlluldduulllllulluuuuullulddddddldrrrrrrrrrrrrurdrdllluldullllulluuuululdddddldrrrrrrrrrrdrruuldrdluldulllllullulllllllurrrurdddldrrrrrrrrrrrrurdrdlllulllllulluuuuullulullllllrrrrddddddldrrrurdldrrrrrrrrrrrurdrdllullllllulluullullluurdddddldrrrrrrrrrrrrrurulllrrdddruurullluulllllldllluurrddddldrrrrrrrrrdruurullddllllllulluuuuullulddddddldrrrrrrrrrrrrdruuruldldllllllulluuuuullululdddddddldrrrrrrrrrrrrrurdrdlulllllllulluuuuuullluldddddddldrrrrrrrrrrrrrurdlllllllulluuurrullluldddddldrrrrrrrrrrrrurdllllllllulluuurrrrrrrrrddrddlluruuulldrurddulduullllllulluurdddrdluldddldrrrrrrrrlllllulluuurrrrullllluldddddldrrrrrrrrrllllulluuuurrrruulddrdlllulddddldrrrrrrlllulluuuuuulllullllllulllddrrudlluurrluurrddldrrrrurddddddldrrrrurddldrrrrrrllulluuuuuulullllllllulllddrrudlluurrluurrddldrrrrurdddddddldrrrrurdldrrrrrlulluuuuuurullllllllllulllddrrudlluurrluurrddldrrrrurdddddddldrrrrurdldrrrr"
+  },
+  {
+    "title": "sasquatch - level 036",
+    "definition": "               #####\n   ####        #   ######\n   #  #        # $    $ #\n   #  ####     #  $##$  ###\n   #     #########  # $ $ #\n   #      ..........#   $ #\n ###### ##....@###  # $$  #\n #    # #####.## # ##   $ #\n #            #  #$  $$ $ #\n#### #  ##### #  #  $  #  #\n#    # #      #  ###   ####\n#      #  #   #    #####\n#   #     #####\n#####     #\n    #######",
+    "solution": "urrrruulluurrdddrdlllllllllllulddduurrrrrrdddllllllllulddduurrdddllldlururuurrruuurrrrrrrrrrruullururdddrdlllllllllllulddduurrrrrrdddllllllllulddduurrdddllluruurrruuurrrrrrrrrrruuurrrdrrddlldddlldluuurulllllllllllulddduurrrrrrdddlllllllluldddldrrluuurrdddldrrrdruulurrrdrruuuuuurrrrrdddrrrurrdlllldluuurulllllllllllulddduurrrrrrdddlllllllluldddldrrluuurrdddldrrrdruluurrrdrruuuuuurrrrrdddrrrrddlurullldluuurulllllllllllulddduurrrrrrdddlllllllluldddldrrluuurrdddldrrluuuuruuurrrrrrrrrrrdddrrrddlurulldluuurulllllllllllulddduurrrrrrdddlllllllluldddldrrluuurrdddldruuuuruuurrrrrrrrrrrdddrrruuurddrdlllldluuurulllllllllllulddduurrrrrrdddlllllllluldddldrrluuurrddduuuruuurrrrrrrrrrruuurrrdrrdddrrddlllllldluuurulllllllllllulddduurrrrrrdddlllllllllrrruuurrrrrrrrrrrdddrrruurrrdlluldrdllldluuurulllllllllllulddduurrrrrrdddllllllllrruuurrrrrrrrrrruuurrrdrrulllllulldrurdddrdlllllllllllrrrrrdddlllllluuurulldlurrrdrrrrrrrrrrdddrrrurrrrdlllllldluuurulllllllllllrrrrrdddlllllluuurrrrrrrrrrruuurrrrdddddrdlllldluuurulllllllllllllrrrrrrrrrrrrdddrrruuuuurullllulldrurdddrdllllldllullllllulldrrrrrrllulrdrrdrrulllluldllurdrrrrrrdrrullllllllrrrrrrrrrrrrdddrrruurrrrullluldddrdllldluuurulllllllrrrrrruuurrrrrdddrrullldluurullllulldrurdddrdllllldllurrrrrrlllllldllurrrrrrrllllddddddllurdruuuuulurrrrllllllllllulldrrrrrrrrrrrlllllllullrrdrrrrrdddlllllluuddrrrrrruuulllllulldrrrrrrrrllllllldddldddlddrrrruulurrrrdruuuudlllllluuurrrrrrrdlllulllldddlluldulldrrrrrrrrrrlllllldddlddrrrruuurrrruuudlllllluuurrrrrrrdllullllldddldddlluuddrruuululldrrrrrrrrrlllllldddlddrrrruuurrrruuudlllllluuurrrrrrrdlulllllllllurrdrdddldddlddruuuuddlluuurrdruuuddrrrrrruuulllllllrdddldddddrrudllurrlluuuurrrrrrrddllllldurrrrruulllllllddddrdrruulurrrrdruuuuuddlllllluuurrrrrrlllllldddlddddrrdruulurrrrdruuuuuddlllllllllddlddllurrrrluuurrdddldrrrdruulurrrrdruuuudlllllllllddldllurrdruuddrruuululldrrrrrrrrrllllllddddrruurrrrruulllllluuululldrrrrrrrlllllulluurddldrrrrrrllulldlluurdldrrrrr"
+  },
+  {
+    "title": "sasquatch - level 037",
+    "definition": "  #####       #########\n  #   #       #       #\n### #$### ##### # # # #####\n# $. .  # #    . . . .    #\n# # # #$### # # # # # # #$#\n#  . . . .  $ $ $ $  . .  #\n###$# # #$###########$# #$#\n  #  . .  ##        #  .  #\n  ###$# #$####### # #$# #$###\n    #  . .$ $ $ #   #  . .  #\n    #$# # # # # #####$# # # #\n    #  . . . . .  $  . . .  #\n    ### # # # # # # # # # # #\n      # $ $. . .$ $ $ $ $ $ #\n      ##### # # #############\n          #  @  #\n          #######",
+    "solution": "uuuurrrrrrrrrruuuulluuudrruullllllrrrrrrddddddlluuuuudrruullllrrrrddddddddlluuuuuuudrruullddddddddllllddlllluurrrrrrddlllluulllllluulluurrdduulluurrdduulllluurrdduulllluurrdullddrrddddlluulluurrdullddrrddrrrrudrruullrrrruurrddllllddlllluullrrddrrddlluurrddddlluurrddrrrrrrddrruullllddrruullllddrruullllddrrrluurrrrddddlluuudddrruuuulllllrddlluulluurrrrddlludrruulluurrdduulllllluurrdullddrrrrddddlluuuulluurrdullddrrddddrrrrrruullrrddddlludrruullrrddrlddrruuudddrruuuullllrrrrddlluurrrrddlluurrrrrrddlllllruullllddddrruuudrruullllrrrrrrrrrrddlllllllruullllddddrruuudrruullrrrrrruurrrrddddlllllllluurrrrrrrrllllllllllddddlluuuurrrrrrrrllllllllddddlluulllluulluuuuuulluullddrrddrrddddrrddrrrrddrruurlddrruuudlluurrrrrrllddllrrrrrruuuurrrrrrddddllllllllllrrrruullrruurrddlluurrrrrrddlllluuuurrdddullddrruuuulluurrdddddduuuuuulluurrdddddullddddddrrrruuuulluuuuuulllluullllddddrrrrrluurrdddddduuuuuulluullllllddddrrrrrrrluurrdddullddrruulllllllluullddrrrrrrrrrrllllllllllllllddddrrddddlllluuuuuuuurrrrrrrrrrrrrluuuurrdddddduullllllllllllllddddddddrruuuuuuudddddddlluuuuuuuurrrrrrrrrrrrrluuuurrddrrddddlluurrddddllddddlllluulllluulllrddddlluuuuuuudddrrrrddrruulllllrrrrrddrrddrrrruuuurruuuullllllllllllllddddrrddddlllluulluuuuuuuulrddddddddrruuuuuuuulrddddddddlluuuuuulrddddddrruuuuuulrddddddddrrrruuuulluuuulrddddrrddddlluuuuuuudddddddlluuuuuulrddddddrruuuuuulrddddddlluuuurlddlluurlddrrddrruulrddrruulruurrddlrddlruurrddlruurrddlrrruulllllrrrrrddrruulllllrrrrrddrruullllrruurruullddddrrddlludrruulluuuuuurruullduuullllddlruurrddlruurrddlrrrddddlluuudrruurrddlrddlrddddlllluurrrlllddrrudddrrrruulllrrrddlludlllllluurlddrruuuuuuudddddllddlluurrr"
+  },
+  {
+    "title": "sasquatch - level 038",
+    "definition": "                      ####\n  ####         ########  #\n###@ ##        #      #  #\n#     #        # ### $ $ #\n# ....##########   #  #..#\n# . #  ## $   $ $# #  #..#\n### #     $  $$$ # # $ $ #\n  # ...# $  $$   # #  #  #\n  #  ..# $   $ $ # # ##  #\n  ##...#  $ $$ $ #$# #####\n   #   ## $  $ $   # #\n   ### ######  ### # ###\n   # .   ## #### .   . #\n  ##   . #     # #.#.# #\n  #  .   # # # #   #   #\n  # . ####     #########\n  #  ##\n  ####",
+    "solution": "rdrddrdrrdrlddrurrrurrdddrruuuuuurrddddddddllddrrudlluurrrruuuuuuuuuulllldddddlldddlrrrrllluuurruuurrddddddddllddrrudlluurrrluulllluuurrdduulldddrrrluuuuuurrddddddduuuuuuulluurrrrddddddddddlluullllurluurrddldrrluuuuuurrdddddddduullullullululllllulddddldrurdddldruuuuuuurrddrrurulllllulddddldrurddddldruuuuuuuurrddrurullllulddddldrurdddrrddlllulduurrrdlldllddrulurdruruulldurrddlulurrldddllurdrururrdlllruulldduurduruuuuuurrrrrdrdllullddruurullllulddddldrurdddldrdrruulldlldrruurrdlldlluurrldldlddrururulddllurdruruuuuuuuurrrrrdrdrrurrdlllllluulllldddddddrruldluuuudddlldrrurrddlruulluuuluurdddddlddrlulduurrrrddlurullrddlruuldllurruuuuuurrdddruurullllulddddldrurddduuuuuurrrrrdrdrrddlurullllullddruurulllluldrdlldluuuulurdrrdrdrrrrrdrdrrullllldlurullluldrdlldluuuddrruuulluldrrrdrdrrrrrdddrurrddluurullllldlurullluldrdlldluuuddrruuulluurdrddrdrrrdddrrrurrddluurullllldlurullluldrdlldluuuddrrurrrrrrddddrurrddluuurullllldlurullldluurdrrrrrurddrdlllldluurullluldrdlurrrrrrurrddrdllllldluurullluldddllurrldddruluruurrrrrrrrdrrruuldllllllllluldddlddrruldluuruurrrrrrrrrrrdllllllldlurullluldddlddrrulrdddllddlddrururuuuuddllddrrurrdlluulldrrdrruulluuluuuurrrrrrrrrruruuurrrrdddddrurruuruuldrddlddruuuuldddllluuurldddrrruuuuurdddlddllluuurrrdddlluuddrruuuurdldddlluulurrldddrruuuruulddlldddrrrddluulllddddddlluullullllllldrrrurrddluuuurullllllllulddduurrrrrrurrrrdrddddrruuuuuullddddduuuuurrddddddlllldluuuurullllllllulddurrrrurrrrrrdrddddrruuuuuullddddduuuuurrddddddlllldluuuurulllllllluld"
+  },
+  {
+    "title": "sasquatch - level 039",
+    "definition": "   ####           #####\n   #  #######  ####   #\n   # @  $   ####   $  #\n   #  ###.#    #  $$  #\n ###.## $ #$ #    #  ##\n #  ..# $ ...# ###  ##\n # $ ...$##.##     ##\n ##.###$ $..   $$ ##\n  #.  #. .### $ $ #\n  #  $...## ## #  #\n ## ######   #   ##\n##   ##      #####\n# $$  #\n#   $ #\n### $ #\n  #  ##\n  ####",
+    "solution": "rrrrdddrrddrrrurrrdddldlluurudlluruuurruurrrurrddldluddldldddldlluuullluulluuullllldddrdrrdrrrrrrdruuddddrruruuururuurruulldlllddlldddduuuurruurrrurrddldldldlddlruuldurrurururuulldlllddlldddllllllddlllulluulurrlddddddrdrddluluuuuuudrrdrrruuluurrldldrrrrrrdruudllllllullllulldrrrrrurdllllldddddddrddluuuuuuuudrrdrrruululllulldrrrlldddddddrruldluuuuuudrrdrrruuluurruuullllldddlldrrlddrrdluldddrddluuuuuuulurddddddddllurdruuuuurrdrrruuldrdlllluldddrddluuuurrrruurrrruuruulullllllulddurrrrrdddldlddrrululddrdluuuuurdddrrruullrrddllluluurdddduuurrrruuldrdlllluldddduuurrrruurrrdrruurrrurrddldldldlldllllllldlurrruuuuullddldrrluuurrdddllllddrulurrrruurrrddduurruurrrurrddldldldlldllllllldluulurrrllddrrrrrrrrurruruulluldrdllrurrrddldlldlllllllluuuruurrdrrrddduurrurrrddldlldllllllldluulurruuurrdrrrdrrurrrrruuldrdlllluldrdllrurrrddldlldlllllllluuuruurrdrrrddduurrurrrddldlldllllllldluuuruuurrdrrrdrrurrrruuldrdllluldrdllrurrrddldlldlllllllluuruuurrdrrrddduurrurrrddldlldllllllldlluuuurdruldddldrurrrrrrrrulrrruruullldllddrdllllllldluurdrrrrrrrrrddlurulllllllllulduruuldrddrrrrrrdrurrddlurullllllrrrrrdddlluurulll"
+  },
+  {
+    "title": "sasquatch - level 040",
+    "definition": "     #######\n#### #     #\n#  ### $$$ #\n#  ....$  #####\n#  ..# $  #  @#\n###$##$#### # ######\n #.*....$  $  ###  #####\n # ..#####  ##   $ $   #\n #....*.... #  $$  # $ #\n ########## #$$ ## #   #\n    # $.###        $  ##\n    #       $###$# #  #\n    #####   $    $ ####\n        ####    ####\n           ######",
+    "solution": "llddlddlllllluurrrrrrrllllllldllurrluuruldddrddrrrrrrrddddrdrrullluurrrrrrrrrdrullllllllllddrulurldlldrrruuluuluurddddduuullllllluurrrrllllddrrrrrruuruurrddlruullddlddlllllluurrrrrrrlllllllluulluurdldrrurrrrrlldduullldddrrruuurrdlulduuurrdlurrrdlulldddrrudllulllldddrrruurulllldddrddrrrrrruullllllrruuulllddduullurrrrlldddldrurrruurulllldddlddrrrrrrllllluurrrrrrrruurrddlllllllllrrrrrrddruullllluuullldddlddrrrrrrrllllllluurdldrrrrrrllllluurrrrrrrrrruulldurrddlllllllllrruuulllddddldrrrrrlllluurrrrrrrrddddrddluurrrrrrrllluuldrdllldluuuuurruulldurrddlllllllllrruuulllddddldrrrrllluurrrrrrrrddddrrruuldrdlldluuuuurruulldurrddlllllllllrruuulllddddldrrrlluurrrrrrrrddddrrrrrrruullrruuldrdddllluluurrdlulddrdllldluuuuullllllldldruurrrrrrrrruulldurrddlllllllllrruuulllddddrdluurrrrrrrrddddrrrrrrruullulddurrrddlllllldluuuuurruulldurrddlllllllllrruuullldddldrurdurrrrrrrddddrruurrrrruuldrdlllulddrdllldluuuuurruulldurrddlllllllllrruuullldddldrurrrrrrrrddddrrrrrrrrruuulluldrdlllulddrdllldluuuuurruulldurrddlllllllllrruuulllddddurrrrrrrrddddrruururrrrrrrrddlurulllluldrdlllulddrdllldluuuuurruulldurrddlllllllllrruuullldddrrrrrrrrddddrrrrrrrrruurullluldrdlllulddrdllldluuuuurruulldurrddllllllllllrrrrrrrrddddrrrrrrrrrdruuurulllluldrdlllulddrdllldluuuuurruulldurrddlllllllllrruuullldlluurdldrurrrrruuldrdlllrrrdrrullllruurrdlddrrullluurrrrdllluldrddlddrrrrrddddrdddrrurrudlldlluuuruurrrrrddlllllldluuuuurruulldurrddllllllllrrrrrrddddrdddrruldluudrrrruulllldluuuuurruulldurrddlllllllrrrrrdddddllllllurdrrrdrruurrrrrddllldluudrrrruulllldluuuuurruulldurrddllllllrrrrddddrrrrrrrddllllldluudrrrruulllldluuuuurruulldurrddlllll"
+  },
+  {
+    "title": "sasquatch - level 041",
+    "definition": "   #####\n   #   #\n ###   ########\n##  ***    # # #\n #  * *    ## # #####\n##  ***   ## # ##   ##\n ###   #### # # #   #\n   #   # # # ####$ $###\n  ##   ## # ##  $...$ ##\n   ##### # ##    .@.  #\n        # # #   $...$ ##\n         ########$ $###\n                #   #\n                #####",
+    "solution": "uruldllrddluururrddrrdlllddruluurrruldllddruruldlulldrrulllldrrurrddrurulllldlluurlddrrulrruurdldrlllurddrurdrrulluurdldllrrdrddlludrruululldrruuulduruurdduullddrdddlddruuudlluulldldrrrrluuldldrr"
+  },
+  {
+    "title": "sasquatch - level 042",
+    "definition": "####\n#  ######\n#       ####\n# $ $   #  #####\n##### ###    $ #\n #  #   $  #   #\n #      ##$######\n # $###  # ...# #\n ## #@#$ ##.#.# #\n #    #   #...# #\n # $ ##$ $#...#####\n ### ##   #...    #\n  #  #  $ $ $ # # #\n  # $### ###### # #\n  #             # #\n  #############   #\n              #####",
+    "solution": "dldddlddrrrrrrrrrrrruuulluuuullluulllddrddddduuuuuluurrrddrdddddllrrurrdllurrrrdddlllllllllllluurdldrrrrrrrrrrrlllllllllluuuuulldrurddduuuluuluurdddduuurrrrurrrddrrrddddrrrrddddlluuudddrruuuullllldluuuudrrddrrdddlllllllllllluuruuuluuurrrrurrrddrluulllddrddddrdrrllulldrduuuuuuluurrrddrdddddllrrurrdlluuuuuluulllddrddddduuuuululllldddrdddlddrrrrrrrrrrrllllllllllluuruuuluuurrrrurrrddrddrrddrrrrddddlluuudddrruuuullllulldrdruuuudlluuluulllddrdddddduuuuuululllldddrdddlddrrrrrrrrrrrlllllluuuuuuuluurrrddrddrrddrrrrddddlluuudddrruuuullllulldrdruuulluuluullldlllldddrddddldrrrrrrrrrrrlllllluuuuuuuluurrrddrddrrddrrrrddddlluuudddrruuuulllldluuluuuluullldllurluuulldrurdddrdllrrrdrdddddddrrrrrrruuullulluuuluulllddrdddddddlllluuuuulldrurddddldrrrrrrrrrrrlllllluuuuuuuluurrrddrdddrrdrrrrddddlluuudddrruuuullllulldrdruudrrdddllllllllllluuuuuluuluurddddldrurddddldrrrrrrrrrrrlllllluuuuuuuluurrrddrdddrrdrrrrddddlluuudddrruuuulllldluluuuuluullldlluuuulllldrrrurdddrdllrrrdrdddddddrrrrrrruuulllluuuuluulllddrdddddddlllluuuuuluuluurddddldrurddddldrrrrrrrrrrrlllllluuuuuuuluurrrddrddddrrrrrrddddlluuudddrruuuulllldllurdrulluuuuluulllldluuurullldlluurdldrrrurdddrdllrrrdrdddddddlllluuuuuluuluurddddldrurddduuuluuurrurrrruurddurrdrrulllluldrdlllldluuurullldlluurdldrrrurdddrdllrrrdrdddddddllllluuruuuluuluurdddduuurrrrdrddluuudrdddddddrrrrrrruuulllluuuuluulllldluuurullrdddrrddrddddluuuuudrdddddddrrrrrrruuulllluuuuluulllrrrddrdddddlluldduuuuuululllldddrdddlddrrrrrrrrrrrlllllluurrrurrrrrrddddlluuudddrruuuullllldluuuuddddlluluurddldddrrrrrrruuulllldlluldduuuuuululllldddrdddlddrrrrrrrrrrrlllllluurrrurrrrrrddddlluuudddrruuuullllldluuudddlllddllllluurdldrrrrrrrrrrrlllllluurrrurrrrrrddddlluuudddrruuuullllldluuddlllddlllluuuuulldrurddddldrrrrrrrrrrrlllllluurrrurrrrrrddddlluuudddrruuuullllldludlluuuluuluuldluuululrdrrulldllluurdldrrrurdddrdllrrrdrdddddddlllluuuuuluuluurddddldrurddddldrrrrrrrrrrrlllllluurrrurrrrrrddddlluuudddrruuuullllldllluuuluuluulluuulldlluurdldrrrurdddrdllrrrdrdddddddlllluuuuuluuluurddddldrurddddldrrrrrrrrrrrlllllluurrrrurrrrrddddlluuudddrruuuulllldlllluuuluuluurrurrrdrrulllluldrdlllldluuurullldlluurdldrrrurdddrdllrrrdrdddddddlllluuuuuluuluurddddldrurddddldrrrrrrrrrrrlllllluurrrrrurrrrddddlluuudddrruuuulll"
+  },
+  {
+    "title": "sasquatch - level 043",
+    "definition": "   ####\n  ##  #############\n ##    .......... #\n##    #  ####$### ##\n#      # #      #  ##\n#     #  # $$$  # # #####\n#####  # . .# ### . . . ##\n    #   $. .#  # $$ $ $ @#\n   ####### ### #   #######\n   # $   $   # ## ###\n   #    $  $ #  # ## # ####\n   # $### ####  # # # ##  ####\n   #  $ $$$  # ## #  ##      #\n   ##        # ## #### $$$   #\n    ## ####### .....     #####\n    #  $         ######  #\n    #   ######  ##    ####\n    #####    ####",
+    "solution": "lulllllluuuulllllllllddddrrddddllulldllddrdrddrrrrrrrruuuuuuuuluuddrddddddddlllllllluululuurrurrdrruuuuuurrrdddrdddddddrrrrrrrrrrurrululdldrdlllllllldlluuuuuuuuluuulllddlluuuurrrrrrrrrddddddddddduuuuuuurrdlurrrdllurrrrdllulllluuuulllllllllddddrruurrrdddrddddddddrruruuuuuurudllururrrrlldlurrrdllulluuuulllllllllddddrruurrrdddrddddddddrruruuuuuurudllururrllddruldddddddldlluuuuuuuuluuuuddddrddddddddrruruuuuuuuuuuuullllllllllllulddrdlluurrrrrrrrrrdddrruldluuddddrddddddddrruruuuuuuuuuuuulllllllllllluldrdlurrrrddddrrrulurrllddlluuuurrrrrrrrrddddddddddddldlluuuuuuuuluuuuddddrddddddddrruruuuuuuuuuuuullllllllllllrrrddddrrddddllurdruuulurdruulurrrllldddddlllldllurrrrrdruuuddlllllldddruulurrrrlllddddrruldluuururrdrruuuruuurrdddrddddddddllllllldluuuruldlurdddrrrrrrrrrrulrruuuuuuuuuuuulllldddddrdddddddrdlllllllldluuuddrrrrrrrrurrrrrrrrurrdlllllllllrruuuuuuuuuuuulllldddddrdddddddrdllllllllrrrrrrrurrrrrrrrururrrdlluldrdlllllllllrrrrrrrururrrrrdlllluldrdlllllllldllurrrrlllldllllllldllurrrrrrrrrdrulurrruuuuuuuuuuuulllldddddrddddddduuuuuuuluuulldddldddllulldllddrdrddrrrrrrrruuuuuuuuluuuuullllllllulddurrrrrrrrrdddrruldluuddddrdddddddrrruuuuuuuuuuuullllllllllllrrrddddrrdruulurrrlllddddddllurdruuuddlllldllddrdrrrruuuddrldllurldllurlluurrurrdrddrdlllruruululldllddrrddurruruuruuuruuurrdddrdddddddddrulurrlldllllllldllurrrrrrrrrdrulurldlllllllluuurrlllluurrurrdrddrdllluldduurrruuruuuruuurrdddrddddddddllllllldllurrrrrrrrrdruluuuuuuuuluurruldluudlldddlluluuuurrrrrrrlllllllddddrrdruulurrrdrruldluudlllddlluuuurrrrrrlllllllllddddrdrrruruurrrdddrddddddddlllllllluuurrruuruuulurdruulurrrdrruldluudlllddlluuuurrrrrdddlullddrulurrdruudlllddddddllurdruuurulldluuuulurrrrlllddddrrdddrrdllulllldllddrrrrruulurdruuurulldluuuulurrrllddddrrdddlllldllurrrrrdruuulurdrulurrrlllddddldddrdrrulldluuulurdruuulurdrulurlddddlllldrrllllddrrrrruulurdruuuddldddlllluulurrrrrdruudldddllldddrrrrrrrruuuuuuuuluuullddlrdluuurrrdluldduurrrrdllluldlddlluuuuullldddllllurururrrrrrlllllldrllddrrruulurrrrllldddluulurrrrllldddlulurrdrulurrlddddrdrr"
+  },
+  {
+    "title": "sasquatch - level 044",
+    "definition": " #############\n##       #   ###\n#  $ $$$$$     #\n### $   $  ### #\n  # $ $ $### # #\n  ##   $ ##  # ###\n   ####   ####   #\n     ###       # ###\n   ####   ####     #\n   #@ $   ###  #.# #####\n   # $ $ ## #  ....    #\n   # $$ ##  ####.....  #\n  ## $  #     #..#.##  #\n  # $ $ ##    #......  #\n  #  $ $ #    # . ..# ##\n  ##  $  #    ## ##.# #\n   #    ##     #      #\n   ######      ########",
+    "solution": "rrrdulllddddrrlluuuurrrurrdluldururrrrrruuuuulllldlllrddddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrrrluurrdddddldrurduluuuuullllulllllldldllldddddruruuudddlluuuurrrllldrurdururrdldllurdrulurdrulurrrrrlllluluuurrurrrrdddddddldrrluurrddddurrddlldluruuuuullulllllldldlllddddrruruulurdrulurdrulurrrrrlllluluuurrurrrrdddddddldrrluurrddddurrddldllurrluurrddldruuuuuullllulllllullulluuluurrrrddddddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrluurrddddurrddldllurrrrrlllldddrrrrruuullluuuuullllulllllulullluurrllluurrrrddddddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrluurrddddurrddldllurrruuuuullllullllluluuulldrurddddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrluurrddddurrddldllurrdruudlluurrruluullllullllluluullldrrurdddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrluurrddddurrddlldddrrrrruuullluuurrrddrdllruuulldrurddrdluuullluullllullllluluuuuuldddldrurdddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrrrluurrddldrrrurdullluullllulllllldlddddluudddlluuuurrrdrulurdrulurrrrrlllluluuurrurrrrdddddddldrrrrluurrddldrrrulluullllullllluluuuuulldddldrrurdddrddllurdrulurrrrrlllluluuurrurrrrdddddddldrrrrluurrddrdluuulluulluuuullllldlluurddddddrddllurdrulurrrrrlllluluuuurrrrrrdddddddldrrrrruullllulllllldldlllddrrdruulurdrulurdrulurrrrrlllluluuuurrrrrrdddddddldruurrrrdddrrullrrrrdllrrddlurulullluullddrluurrddddduuuuullllddrluurrddddduuuuullulllllldldllldrrdrulurdrulurdrulurrrrrlllluluuuurrrrrrdddddddurrrrddrrrddddddllllluuuuuuuulldldrrluurrddddduuuuullulllllldldlddddluuulurrrdrulurdrulurrrrrlllluluuuurrrrrrdddddddldrrrrluurrdddduuuullllulllllldldlldddddddluulurdruuuulurrrdrulurdrulurrrrrlllluluuuurrrrrrdddddddldrrrrluurrddduuullllulllllldldlldddddddrruluuuuulurrdrulurdrulurrrrrlllluluuuurrrrrrdddddddldrrrrluurrdduullllulllllldldlddddddrruluuuulurdrulurdrulurrrrrlllluluuuurrrrrrdddddddldrrluurrdddduuuullulllllulullllururuulddrddllurrrurddddrddllurdrulurrrrrlllluluuuurrrrrrdddddddldrrluurrddduuulluuuuuullllllulllllldrrrrrurddddddrddllurdrulurrrrrlllluluuuurrrrrrdddddddldrrluurrdduullullllluluulllluruulldrrrrurddddddrddllurdrulurrrrrlllluluuuurrrrrrdddddddldrrrrluullullllluluullllluruulldrrrrrurddddddrddllurdrulurrrrrlllluluuuurrrrrrdddddddldrrruullulllllldldddddddluuuuulurrdrulurdrulurrrrrlllluluuuurrrrrrdddddddldrrluuulllllldldldddddddluuuuuulurrrdrulurdrulurrrrrlllluluuuurrrrrrdddddddldruuuurrdd"
+  },
+  {
+    "title": "sasquatch - level 045",
+    "definition": "  ####      ########\n  #  ##### ##   #  #\n  #    $ ### $  $  #\n  #  $ # ##    $   ####\n  ###  #    # ###$##  #\n#####  ###  ####   $  #\n#   # $  $$## .. ##$  #\n#  $$   # $          ##\n##  # $##  #### # ####\n### #  ##$ ###..#..#\n#   ###..  #  .....###\n#   #  *.### #  #..  #\n##$$#  *.##@ #  #    #\n #     *. ####  ###  #\n ######   #  #       #\n      #####  ##    ###\n              #  ###\n              ####",
+    "solution": "ruurruruullllldddllddlrddlullllluurdldrrrrrdrullluurdldrrluurllddlluuuuuluurdddddlddrrruurrurrruuldrdllruururrrurrruruuruuldllulldldldldduulluullldrddlddrrurrdddrdluuuulldllllddddlddrrrrruddrruldlullllluurdldrrrrrlllluuuuuuulldrurddddddldrrrrllluuuuuurrrrurrdrrrrrurdddddddldrrluuuuuuuururrrdrdlllluldddddduuuuurrrrurruuldrdluldrdlllluldddduuullllllulldlluuruuurrddrrrurururrdrrdduullulldldldldddrrrurrrurrrdrruuldrdluldrdlllluldddldrrrurddldrurdulullllddruluuruurrdddlluldduuruullllllddrulurrrrrurddduurrdddlldludduurrrrdrrdddlldlluluuluuruuulllllullldllurrrrllluuuurrddrrddldrrrrrurddduurrddrddrrdddlldlluluuluurrrurdldruuluulllllllullllldddruulurrrrllluuuurrddrrddldrrrrrurddduurrddrdddrrddlldlluluuluurdddduuuuuuurrdddlruuullddduuulllllullllldllddddllurdruuulurrrdrulurrrrllluuuurrddrrddldrrrrrurddduurrddrdddrrddlldlluluuluurrluuurrdddlldduurrrddluruuluulldddrruuuluuruuullulldrdrrurddulllulldldldddrrrurrrurrrdrruuldrdluldrdllllrdddlluuurulrdrddddruluuuluuruulllurrdrruulddduullllldldldddrrrrrururrrdrruuldrdluldrdllllulddddlddrulurrluuurrdddrddluurddrrddlldlluluuluurrrrddrrullrrdddluuruldddldlluluuulurrrlluuullllluuururrrrrurddulllllldldddrrrrrururrrdrruuldrdluldrdllllulddddlddrulurrluuulllllulllluuuldddrdlllulldrrrrdrulurrrrllluuuurrddrrddldrrrrrrururrrddlllulddddlddruluruuulllllulllluuullluurdldrrurdddldrrrrllluuuurrddrrddldrrrrrrururrrddlllulddddlddruuuuudddddddluuurdddrddluuuuuuddddrdrrulldluuuu"
+  },
+  {
+    "title": "sasquatch - level 046",
+    "definition": "      #### ###################\n  #####  ###            .$   #\n###  $.       #####$####   # #\n#    $.  #### #     .   ### .#\n#  $ $.### ## # #### #  $.# $#\n###  $.## # # # #  #  # $ #  #\n  ###### # ## #$ $ ##   #. # #\n        ##### #.#.  #  ### # #\n #####  #   # ### ###   #    #\n ##*##  #     .#  #   #$$*  ##\n #*### ### ## ## ## #  .#. ##\n ###*# #  .$ .# $.$.## ### #\n ##*## # #.####     # $.   ##\n #*### # $$   ### ###   ##  ##\n ###*# # #   . $@$  #######. #\n ##### # ### ####.#        $ #\n       #     #  ###########  #\n       #######            ####",
+    "solution": "lllulldrllurrdddlllluuurrrdrrllullluurrdulldddddrrrruululuuuurrrddlllddrdrddlllluuurldddrrrruulluuuudrrruullulldrrrrlllddddlluurlddrruuddrdrrulldlulluurrrrruullldurrruuuuuuullllllldddlruulrulrdddlulluurrrldullddrrlldrruuurrrlllddlulurrrllldlldrrdruulurrdrrruuldrdlurrrrrurddddddddduuuuuuuuurrrrrrrrrrrdrrurrddlddrdddlluuluulrddrddldrdddllldlluruuluuuurrururdlldlluluurrdrrlullllllllddduuurrrrrddrdrddrdrrurrruuuluuruulldllullllldurrrrrdrrulrrrddlddruddddllldllulldlldddlldduuurldlluruuruuruuldlluuurrrrrddrdrruuullrrdddlddrdrrurrdlddddrdrddlullllllllulllll"
+  },
+  {
+    "title": "sasquatch - level 047",
+    "definition": "#########\n#       #    ######\n#   $   ######    ###\n# #$#$ $ $  # $     #\n# $   $@$  $ $ $ $$ #\n# $ $# $ #     $$$  #\n#  $ $ #######   #####\n##    ###....##### ..#\n ###$$# $$$$ #...* ..#\n  #         ##   #.. #\n  #  #  #$###....##*##\n  #   ##..$. ....    #\n  ### .*   .#....#   #\n    ##################",
+    "solution": "uluullllldddddrdrrddlddrrdrrrurrrrrrurrdrrruuruuldrdlddllldluurulurrrurddduullldddrrdrrulllldluulldllllldlllulluurrrrrrdullllllddrrdrrrurrrrrrrdruullldlllluuudrrudllururlddrulldllurrdrullldllllddrulurrrrrurddulllllddrdrrrurrrrrurdrdlullllluullllluurdldrrrrurddulllllddrdrrrurrrrrurrddluruldllllluulllluululuurdddddlddrulurrrrrurddulllllddrdrrrurrrrrrurdrdlulllllluulllluuluuururuullllldddddrrurddddlddrulurrrrrurddulllllddrdrrrurrrrrrurdlllllluulllluululllurrurdddddlddrulurrrrrurddulllllddrdrrrurrrrrrrurdrrruuullllldurdurdurrrdddlllllllllluulllluuluullluuurrddddldrurdddlddrulurrrrrurddulllllddrdrrrurrrrrrrrrrdruuurulllllrrrrdddlllllllllluulllluuluulllurluurrddddldrurdddlddrulurrrrrurddulllllddrdrrrurrrrrrrrrrdruuurullllrrrdddlllllllllluulllluuluuururuuldluldddddldrurdddlddrulurrrrrurddulllllddrdrrrurrrrrrrrrrdruuurulllrrdddlllllllllluulllluuluuururulluldddddldrurdddlddrulurrrrrurddulllllddrdrrrurrrrrrrrrrdruuurullrdddlllllllllluulllluuluuururrdlllruullddddldrurdddlddrulurrrrrurddulllllddrdrrrurrrrrrrrrrdruuuruulldrdddlllllllllluulllluuluuurrddlruullddldrurddldrrrrurddulllllddrdrrrurrrrrrrrrrdruuuulurddddlllllllllluulllluuuruuurrrdlllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrrrrrrdruuuudddlllllllllluulllluuuruurrrrdrrullllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrrrrrrdruuuddlllllllllluulllluuuruurrrrrrdrrullllllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrrrrrrdruudlllllllllluulllluuuruurrrrrrrururrddllllllllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrrrrrrdrulllllllllluulllluuuruurrrrrrrrrrurrrddlullllllllllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrrrlllllluulllluuuruurrrrrrrrddruluuurrddllllllllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrrllllluulllluuuruurrrrrrrrrddrululuurrrddlllllllllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrrlllluulllluuuruurrrrrrrururdrdllllllllllllruullddddldrrurddldrrrrurddulllllddrdrrrurrrrlllldrruluulllluuuruurrdlulllddrrurulllruullddddldrrurddldrrrrurddulllllddrdrrrurrluulllluuuruurrrrrrrrrrrrdllldlurulllllllllllruullddddldrrurddldrrrrurddulllllddrdrrrrruluulllluuuruurrrrrrrrrrrrrulllluldrdlllllllllllruullddddldrrurddldrrrrurdddrdlllrruuulllluuuruurrrrrullllluldrdllruullddddldrrurddldrrrrurdddrdllruuulllluuuruuuuurddrdllllruullddddldrrurddldrrrrurdd"
+  },
+  {
+    "title": "sasquatch - level 048",
+    "definition": "   #### ####\n  ##  # #  #  #######\n###   ###$ ## #     ###\n#  $      $ ###       #\n# $ $ ###$   #  #     #\n### ### #    #   #    #\n#  $ #  ## ###    # ###\n#    $   # #@        ##\n# $# # ### ###   #   #\n#  $ # # $ $ #  #  # #\n##   #    $  # #.    #\n ##  # #   ## #..  ###\n  ## # #  ## #... ##\n ### # #### #....##\n #          $.*.##\n ############..##\n            ####",
+    "solution": "rrrrrrddldldldldlddrulurdrulurdrulurdrulurdruuuruuuuullllddrdrdrdruuuurulllrrddddlddldldldldldllllllluuuuuuulldddddddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullulldrrrdruuuurulddddlddldldldldldllllllllluuuulluluurrrulrddddddddrruuuurrrdruuuuuuruullllllullddddrddddddddrruuuurrrrrruldlllllddddlluuuuuuuuluuuurrdrrrrrrddlddddrdldlluurrdluldrrrrulluuuuruuldddddduuuuuulllllullddddrddddddddrruuuurrrruuuuuuuuuldrddddddddllllddddlluuuuuuuuluuuurrdrrrrurddduulllllulldrrrrrrurdrddluullllllldddrddddddddrruuuurrrruuuuuruulllllllllldrurrrrrrrrrddldddddllllddddlluuuuuuuuluulurdddrdluuuurrlldddrddddlluluuurldddrdrruuuluuulururrdlldddrddddddddrruuuurrrruuuuuruullllllullddddlldrlddruururdlldddrruldluluurrrddlddrdddrruuuuuuullrrdddrrrddlurullrrruuuuuruullllllullddddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullulldrrrdruuulurdruldddlddldldldldldllllllluuuurrrrurrdlllllrrruuuuuruullllllullddddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullulldrrrdruuulurdddlddldldldldldllllllluuuurrurldlluuulluluuuurrdrrrrrrddlddddrdllllrurruuuuruullllllullddddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullulldrrrdruuuddlddldldldldldllllllluuuurrurruuuuruulddddddrdllllrurruuuuuulllllullddddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullldluuurdrdrddldldldldldllllllluuuurrurruuuuuuluurddddddddrdllllrurruuuuuulllllullddddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullluldrrrddldldldldldllllllluuuurrurruuuulurdddddlldlluuulluluuuurrdrrrrurdddddddrdllllrurruuuuuulllllullddddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuurullulululdddddruuurrdluldrrrddldldldldldllllllluuuuuuulluluuurrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurruuulullluurdrdrdrruululuullddldddrrrrddldldldldldllllllluuuuuuulluluullurrrrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulurdruuuruuululuullddldddrrrrlllluuuruurrddrdrddlddldldldldldllllllluuuuuuulluluuurrdlurrrrrrddddddlldlluuulluluulurrrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurdrulurdrulldldldllllllllluuuluulluuurldddrrruuluuulurrrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuullddlddrdddrrrrrrrrrdrulurdrulurldldllllllllluuuluulluurlddruulurdddrruuluuulurrrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuullddlddrdddrrrrrrrrrurrdluldllllllllluuuluuluulurdruuulurrrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuullddlddrdddrrrrrrrrrurdlllllllllluuuuuuddddddrruuuuuuulllullddrulurdruuulurrrrrrrurdddddddrdllllrurruuuuuullllllldddrdrrdddddduuuuuulldddddddrrrrrrrrrurrdluururrdluldrdluldururrruuldrdluldrdluldduurururuurrdddlluldrdluldrdluldrdllurururrrruululddurrddlluldrdluldrdluldrdluurururuuruululuurrdddddrdlulddurrddlluldrdluldrdluldurururuuruuullururdddddrdlulddurrddlluldrdluldduururuuruurruldlluurddddrdlulddurrddlluldrdluldrdllurururuuruuurruldlluurdddddrdlulddurrddlluldrdluldrdluururuullllddrulurrrrlllluuuruurrrrdddddrdlulddurrddlluldrdluldururuullllurluurddldrrrrllluuuuurrrrdddddrdlulddurrddlluldrdllururuulululdldrrrrlululuuurrrrdddddrdlulddurrddlluldrdluuruulululuurrrurdddddrdlulddurrddlll"
+  },
+  {
+    "title": "sasquatch - level 049",
+    "definition": " #########################\n #  #  #  #  #  #  #  #  #\n # $#$ # $#$ # $#$ # $#$ #\n #  #  #  #  #  #  #  #  #\n ## # ### # ### # ### # ##\n #  #  #  #  #  #  #  #  #\n #     #     #     #     #\n## ### # ### # ### # ### ##\n#   #  #  #  #  #  #  #   #\n#   #     #  @  #     #   #\n##  # ### # ### # ### #  ##\n #  .  . . .   . . .  .  #\n #########################",
+    "solution": "rrddrruurrruuurrruuuruulddddrdddldddlluuuluurrrurdddrdluuullluuuluurddddldddrdddrruruuuullluldddrdddlllluurrrurdllluuuuluuruulddddrdddldddlluuuluurrrurdddldddrrrrrruruuuulllldddllulduruullluuuluurddddldddrdddrrrrrrrruruuuulllldddlluuullluldddrdddlllluurrrurdllluuuuluuruulddddrdddldddlluuuluurrrurdddldddrrrrrrrrrrrruruuuulllldddlluuulllldddllulduruullluuuluurddddldddrdddrrrrrrrrrrrrrruruuuulllldddlluuulllldddlluuullluldddrdddlllluurrrurdllluuuuluuruulddddrdddldddlluuuluurrrurdddldddrrrrrrrrrrrrrrrrrruruuuulllldddlluuulllldddlluuulllldddllulduruullluuuluurddddldddrdddrrrrrrrrrrrrrrrrrrrruruuuulllldddlluuulllldddlluuulllldddlluuulllulddduurrrrdddrruuurrrrdddrruuurrrrdddrrrduuluurrrrddddldlllrrruruulddrdluuuruulllldddlllduuruullllddrddullllduuruullllddrddullllduuruullllddrdddrrrllluuulldrurddldr"
+  },
+  {
+    "title": "sasquatch - level 050",
+    "definition": "  # # # # # # # # # # # #\n # # # # # # # # # # # # #\n#   .$    . $.  . $   .$  #\n # $# #$# # # #$# # # #  #\n#  .  .    $.  .  .$ .  . #\n # #$# # # # #$#$ $# #$# #\n# .     .$ .$    . $.  .  #\n # $# # # # #@# # # # #$ #\n#  .  .$ .    $. $.     . #\n # #$# #$ $#$# # # # #$# #\n# .  . $.  .  .$    .  .  #\n #  # # # #$# # # #$# #$ #\n#  $.   $ .  .$ .    $.   #\n # # # # # # # # # # # # #\n  # # # # # # # # # # # #",
+    "solution": "urrrruurruurrddrrurulddllllrddrrudlluurrrlddrrddlurdddlludlluurrrlddrrddlurulluullddrrlllllddrrrruullllluuluurruurrrlllddrrddrddrddlludlluurrluuruulluurruullddddruldllddrruuuuldrdddlluurlllddrddlddrrrrlllluuruulldulllddrrdulluurrrrrddllrddrrrruurrddlluullddlluuluulllddddrrrllluuuurruuruullrrrrrrddlludrruullllddlddlllllddlddrrrruuuurruulllrddddruluuurrddlruullllllrrrrruullrrddrruuruurrdullddrddlllluullddrruuruurlllddlddlluulllluurrrrrrrddlllddrddlddllllddruurrddrrrruullllruurrdullddlllrrruuruuruuruullllllldddddddduurrrldullddrrlddlururuulluurdurrrrllllluurrdurrddlllruuruurrrrddlllluulllddrulurddrddrruullruurrdurrddll"
+  },
+  {
+    "title": "sasquatch3 - level 001",
+    "definition": " #######\n #  *  #\n #  @  #\n ##$#.##\n #  #  #\n # $#. #\n #  #  #\n## ## ##\n#  * * #\n#   *  #\n###   ##\n  #####",
+    "solution": "lurdrddddddllddrruuuuddlldlluruuuurudldddddrdrruuuuruuluululldrddldddddrdrruuuuruuluurullrdddrddlddddllulurddrruuuuruulddddlldlluruuuuruururddduulllurrdrddrddlddlldluuuruuudddlddrrruuruuluululldrddddlddrrruuruuluurullrdddrddlddllluuruuuururdlllurdddddlddrddrruldluluuuruulddddldrr"
+  },
+  {
+    "title": "sasquatch3 - level 002",
+    "definition": "      ####\n#######  #\n#     * .##\n# $$#  *  ##\n# $@ #* *  ##\n## $ # * *  #\n ### #. * * #\n #   .  #  .#\n #   #  #####\n ########",
+    "solution": "rdddrruuruurrdrdrddllullrrruuldrdluuullddrruuluulddllurrllllllddrulurrrrdrrrrddllldrdlllrruurrruulldduuuurdldllurrdddlddlluuululurrrllllddrdrurdulluurdlddrruluurrdrrullllrrrrdddrrurdrdululullddlddrulurrluuulldrdduuurdlddrruldddllldllurrrrdruuururullullllddrdduuluurrrrdrddlddlllrrruuruulduuurddullldrullldllurrrrrrlllldddluulurrrrllddrddddllurr"
+  },
+  {
+    "title": "sasquatch3 - level 003",
+    "definition": "        ####\n#########  #\n#          #\n# #*### #  #\n#  $   # # #\n#*#*##  #  #\n#  $  #  # #\n#  *#  # # #\n#  $ # # # ##\n###$. . . . #\n  #@####### #\n  #         #\n  ###########",
+    "solution": "drrrrrrrruuluuuuuuulllllllllddrrudlluurrrrrrrrdrddddddlllluululluulluurrrrrrrrurddulllllllllddrrudlluurrrrrrrrllllllddddrrdrddrruuululullrrdrdrdddlluululluuddrrdrddlluluurrdrddrrrrrddlllllllluuurdrrrruuululullllluurrrrrrrrdrddddduuuuuluurddulllllllllddrrudlluurrrrrrrrllllllddrrrdrdrdddlluululluuddrrdrddlllddrrrrrrrruullluuululullllluurrrrrrrrdrddddduuuuuluurddulllllllllddrrudlluurrrrrrrrllllllddddrrdrddlluluuuurrrdrdrdddlluululldddddrrrrrrrruullluuululullllluurrrrrrrrdrddddduuuuulullllllllddrrdddddddrrrrrrrruulrddlllllllluuuulldrururrdrddlruululluurrrdrdrdddlruuulululllllddrdrulluuuurrrrrrrrdrddddddlrrddlllllllluuuluuluuuurrrrrrrrurddddddduuuuuulllllllllddddrddluu"
+  },
+  {
+    "title": "sasquatch3 - level 004",
+    "definition": "   #############\n  ##           #\n ##  #########@###\n##  #         *  #\n#  ## ########*# #\n# #  $ $ $ $   # #\n# #$.. . . ..$#  #\n# # .#######. # ##\n#  $.#######.$# #\n### . . . . . # #\n  # $ $ $ $ $ # #\n  ######### ##  #\n          # $ $ #\n          #     #\n          #######",
+    "solution": "ulllllllllldldldlddddrruruuldrrrulrdrrulrdrrulrdrruldlllllllldurruuurrrrrrrrrllllllllldddrrrrrrrdddllllllllludrrrrrrrrruuuurruuddllddddlddddrrrruuuuuuuruuullddllddruldddlddddrrrruuuuuuuruuullddldldddruluullllllluuurrrrrrrrrllllllllldddllurdrrrrrrrrruruullllllllldduurrrrrrrrrddldllllllllrrulrdrrulrdrrulrdrruldddruluurruulllllllllddrdrrrrrrdddlddddrrrruuuuuuuruuullddllddddlllllllllulluuuururururrrrrrrrrrddrrdddldddddddlllluuuurrdlulllllllllulluuuururururrrrrrrrrrddrrdddldddddddlllluuudddrrrruuuuuuuruuulluulllllllllldldldlddddrrdrrrrrrrrdrullldrullldrullldrullldrululluuuururururrrrrrrrrrddrrdddldddddddlllluuurullrddddrrrruuuuuuuruuulluulllllllllldldldlddddrrdrrrrrdrrllulldrrulllldrrulllulluuuururururrrrrrrrrrddrrdddldddddddlllluuulullllrrrrdrrulllldrrrdddrrrruuuuuuuruuulluulllllllllldldldlddddrrdrdrrrrurrrrrdlulllldllllululluuuururururrrrrrrrrrddrrdddldddddddlllluuurullrddddrrrruuuuuuuruuulluulllllllllldldldlddddrrdrdrrrrrrllllllululluuuururururrrrrrrrrrddrrdddldddddddlllluuururuulullllllulllddrduluurdurrdrrrrrrurruuddlldlllllluluurrrrrrrrrlllllllllddldrruluurrrrrrrrrddlldllllullrrdrrrrurruulllllllllddrdrrulllldrruluurrrrrrrrrddlldllullllrrrrdrrurruulllllllllddrrrdrrulllldrrulllldrruluurrrrrrrrrddllllllllrrrrrrrruulllllllllddrrrrrrrddrululldrullldrullldrulluurrrrrrrrrddlddlduruuldurruulllllllllddrrrrdrrlullldrrullllldrrrulluurrrrrrrrrddllllllllrrrrrrrruulllllllllddrrrrrrrrdddddlllllllllluurudlddrudrrrrrrrrruuuuulllldlurrrdlurrrdlrddluurddddluuudddllurdruudlddddrruldluuulurdruldddrrdrrullldluuulurldllurldllurldllurdrrrrrrrruuuuuruulllllllllddllddrduluurdurrdluuurrrrrrrrrddllllllllrrrrrrrruulllllllllddrrrrrrrrdddddlllllllllluulluuuururururrrrrrrrrrddlllllllllddlldduurruurrrrrrrrruulllllllllldldldlddddrrddrrrrrrrrddrrruruuuuuruuul"
+  },
+  {
+    "title": "sasquatch3 - level 005",
+    "definition": " ###########\n##         #\n#  #######$##\n# #       $ ###\n# #...***.*.@ #\n# #       $ # #\n#  #######$#  #\n##        $  ##\n ########   ##\n        #####",
+    "solution": "lullllllddrrullrrdrrullrulrrrrdllrrrrddldldllullllllluluuuururrrrrrrrddlddlururrdlldlluurlddlluurlddlluurlddrrulrdrrulrdrrulurlddlluurlddlluurlddrrulrdrrulrrrrrrddldldllullllllluluuuururrrrrrrrddrdlldlluurlddlluurlddrrulrdrrulrrrdlurrrddldldlluruuulldrurdurrrddldldllullllllluluuuururrrrrrrrddrdldlluurlddlluurlddrrulrdrrulrrrrddldldllullllllluluuuururrrrrrrrddlddlluurlddrrulurddrrullrrrrddldldllullllllluluuuururrrrrrrrddldrruluulllllllldlddddrdrrrrrrrdrruluuruluuulllllllldlddddrdrrrrrrrdruuuddrruruul"
+  },
+  {
+    "title": "sasquatch3 - level 006",
+    "definition": "             ####\n     #########  ###\n     #  . .   . . #\n     # $$.$# #$.$ #\n     ## . .# #. . #\n      # $ $#  $ $ #\n      # $  #* #####\n     ##### # ##\n     #   @   #\n    ## # #####\n##### *#  $ #\n# $ $  #$ $ #\n# . .# #. . ##\n# $.$# #$.$$ #\n# . .   . .  #\n###  #########\n  ####",
+    "solution": "lddrddldrdllllllrrrrruuruuluullddddduuuuurrddddrddlllllrrrrruurruullddddllluuuuuurrddrddddrruullddllllluluurrurddduulllddrdrrrrrllllluulurrurddduullldllurrrrlddddluurulurruruurrddrddddllllruuulllddddruudrrrrruurrddllllllrrrruuuuluullddldllllddrluurrrruruurrddrddddllluuudddrrruuuurrdddrdlulullduruurdullduuurruuluurulurrrrrrllllllddddrddrruuuuudddddlluuluuuurrrlllddddruulllddrruuuurrrddddddlluuluuuulldduurrrrrrrdrddlldluuuddrrruululllllrrrrrddrdlldluuuddrrurrrdllllruuuurddldrldldlddlluuluuuurrrrldddrruuruulddulllllddlluurrrrrrldddrrrrruulrddllllluuulllddruldddruldludluuulurdr"
+  },
+  {
+    "title": "sasquatch3 - level 007",
+    "definition": "  #####\n  #   #####\n### #     ##\n#  * ####  #\n#  * ##  # #\n#  *  ** # #\n#   #    # #\n#@#** * ## #\n###  #$  # #\n # .$ .* # #\n #   #  #  #\n ##  #    ##\n  #########",
+    "solution": "uuurruldddrurrdrrdddllluluuddrdrrruuullulldlluuurrrdlddddrdrrddrrruruuuuuuulullllulldurrdrrrrdrdddddddldllluuruuulldrululuuluurrdrrrrdrdddddddldllluuudddruluurrdlddrruruuuuuuulullllullddrddrdrrdduullululddllurlurlur"
+  },
+  {
+    "title": "sasquatch3 - level 008",
+    "definition": "       ####\n########@ #\n#   ...#$ #\n# $ $ $ * #\n#####   . #\n   ##$#$. #\n ###. # .##\n #  .$#$ #\n #  .$   #\n ###.$#  #\n   #  ####\n   ####",
+    "solution": "rdddlddddllllrrrruuuululrdrddddlllluurdldrrrdruuuuruuldllurldlddlddrrrruuldururullduululddrrulullldrurrddlurulrdrddrruulldlurddrddlurdddlullluuruuurrrrddldlurdddludllluurdldrrrlllddruluuuruuurrrrddlddldlldluulldrurrddlurulrdrrdruuldlluuuuurrrrddllddrdllluldllurdrruuuuurrddddrdllluuuuurrrduruulddlllllulldrrrrrr"
+  },
+  {
+    "title": "sasquatch3 - level 009",
+    "definition": "        #\n ###########\n #   #  #  #\n # $ #$ $  #\n #$.*.*.#* #\n # .    $. #\n #$.$#.  .$#\n## .$   #* ##\n#  .#.*##.  #\n# $ $   $   #\n### # # #####\n  ##@   #\n   ######",
+    "solution": "ruuuururrrurduuuldrddlllldlddrrrruruullllddldrrluuuulllddrrdrulllddrluurrrddrddlluuudllulldrrrruruuruldddldlluurrdrulddddrruulrddlluuudlluuuuldddldrrrrurullrddlluluurduurdlldddrrruulrrruullldlluurdrruldddrrurulllddrddddrruulrddlluuuruuullddrdruurulrdrrrddldlllrddlluurrrrurrdlllruruulduruulddllurllddlluurrrlddddluruuullddrdrururrrdddllllrddlluuruururrruuluurdddddduullluuurldddrrruulduruuldllddrlulrdddludlluurrddddluruuullddrdrulluurrururrrdddddrdllllddlluuuurrurullrddludlddllluurrrddddrruurrruuuuuullldddlduruuldrddllddddrruulrddlluuudrrrrruuuuuulllddddllluurruruuldrrrrddddddllllluurruullluuulldrurdlldddddldrrrrddrruulrddlluu"
+  },
+  {
+    "title": "sasquatch3 - level 010",
+    "definition": "           #\n    #     # #\n   # #  ##   ##\n  # . # # .$. #\n # $.$ # .$ $. #\n#   *  @ $ * $  #\n # $.$ # .$ $. #\n  # . # # .$. #\n   # #  ##   ##\n    #     # #\n           #",
+    "solution": "rdrdrrurldlluluurdrduluururrdldlddrruurrdlulllddrrudlluurrlldlldrrulllldldlluluurdrrrrrllllduudrruldllldrurrrrrdrrulllllrrrrrurrddll"
+  },
+  {
+    "title": "sasquatch3 - level 011",
+    "definition": "       #\n      # #\n    ##   ##\n    #  .  #     #\n  ## $.$.$ ##  # #\n  # $.$.$.$ # # . #\n #  .$.$.$.  # $.$ #\n#  .$.$@$.$.    *   #\n #  .$.$.$.  # $.$ #\n  # $.$.$.$ # # . #\n  ## $.$.$ ##  # #\n    #  .  #     #\n    ##   ##\n      # #\n       #",
+    "solution": "rdrrudlluldlddrluuruuruulrddldlulldurrrrddrrullrrrrrrdrdrruruuldlllllllrrrrrrduurrddlulllurldlllldllurrrrrrrlllllllulldrruuuldrddllulurddrruldldddruluurrdrdluulldrlddrdrrurururuulululululldldldldlddrdrdrdrdrrururururuululdlrrrddldldldldllururururudldldldlluluurllluurururururrdldldldldururururrdrdrdrddldldldldllululululuurururur"
+  },
+  {
+    "title": "sasquatch3 - level 012",
+    "definition": "########\n#  . . #\n# $.$. #\n##$#$# ##\n # . .  #\n #$#$# @#\n # . .  #\n##$#$# ##\n#  . . #\n# $#$# ###\n##   . . #\n ###$#$# #\n   # .   #\n   #$# ###\n   #   #\n   #####",
+    "solution": "uluuullldrrurddduuullllldrrrurrdddlllludrrrruuullllldrddrrrrrddllllluuddrrrrddlllluurrrrddddlllluurrrruuruuldddduuuuuuulldrurddduuulllldrrurrdddlllludrrrruuullllldrddrrrrrddllllluuddrrrrddlllluuddddrrudlluuuurrrrddlllrddlluurrddrrrrddlllluuddrrddlluurrrruulldurrddlluulllluurrrrdullllddrrrrddddlluuudddrruuuuuullllddrrlluurrrruuruuldddduuuuuuulldrurddduuulllldrrurrdddlllludrrrruuullllldrddrrrrrddllllluuddrrrrddlllluuddddrrudlluuuurrrrddlllrddlluurrrruullddllddrrudlluurruulldurrddddlluluruurrrrruuldrdlllddddddddrruuuuuuuuruuldrdluuuuulldrurddduuulllldrrurrdddlllludrrrruuullllldrddrrrrrddlddddddddlluuuulluuuuuurrrrrddlurulllrruuulldrurddduulllrrrddlludrruuullldrullldrurrrrdddrddlddddddddlluuuulluuuuuuuulurrrdddlrrrrddlddddddddlluuuulluuuuuuuulurdddddddddrruuuuudddddddddrruuuuuuuuruulllrrrddlurul"
+  },
+  {
+    "title": "sasquatch3 - level 013",
+    "definition": "       ####\n########  #\n#@ $ $ $$ ###\n#  ....*.*  #\n## ### ..*# #\n #$$  # .*  #\n # # $ #.*# #\n #   $ #..  #\n ##  $    ###\n  ### #$#.#\n   # $ $  #\n   #     ##\n   #######",
+    "solution": "rdrrrrdrrurlddrldddlllruuldllluuddrrrrdrruuurduluurduuuldrddllluurrllddrudrruldddruldddruluuullullulrdrrulrddrruuldldrdrddrrruuuulllddduullururddduurrrddlludrruulldlluururddluldllurrlldllurrlldllurrdrrrrrrrrddddlldlllulllluuuurrrurldllurldllurdrrrrrrruulddllurldllurrlldllurrlldddddrrruullrrddllluuudrrrdrddrrrurruuuulllllllullldrurrdrrrrruuldrdllllrurdrruuldrdlllrrrrrddddlldllluulullluuurrrrrdrruuldrdllrrrrddddlldddldllurldlluruurrrrurruulluululllllldddddrrurulrdrddlullluuuuurrrrrrurdllllllldddddrrrrdrrrurruuuulllrrrddddlluuudrruulldddddlllldddrruuddlluuurrddldlurruululllluuuuurrrrrrrddddddddlluurllulllluuuuurrrrrrrddddddlllulluulrddlluuuulurrrrrrrurddddduuuullllllldddrrddrruldlurullrddlluuuulurrrrrrrurdddduuullllllldddrrrdrddrdddlluuuuruldlurullrddlluuuulurrrrrrrurddduullllllldddrrrdrddrddldluuuuruldlurullrddlluuuulurrrrrrrurddullllllldddddrdrurrdrddlluuuruldlurullrddlluuuulurrrrrrrurd"
+  },
+  {
+    "title": "sasquatch3 - level 014",
+    "definition": "          #####\n  #########   #\n### $ $ $ $.  #\n#  .$.$ $.$.# #\n# #.*..@..*.# #\n# #.$.$ $.$.  #\n#  .$ $ $ $ ###\n#   #########\n#####",
+    "solution": "rruurrllddllllddllrruurrddlluurrrrddlluurruurrddddllrrurruuululddurrdddllldluulluurrllddrrdrrrruuulldduurrdddlldlluulluurrrrllllddllullrrdrrrulurrllddddruurdrrldlurruuuurrddddlldlluulluurrdullddrdrdrruuulrdddllululuurrrlllddlluurrrllldllurrlldddddlluuuurrlldddrdruudlluuurrurrddddllrruurrddllrrurrdllrrrrulrrruuuulldduurrddddllludrrruuuulldddlddlluuluurddlddrrruuruullrrddlddllluurrllddrrrrurruuuulldlldurrdduuurrdlulddulldllurrrrdlururrdluldllllddlluurrrrrlllddddrulullurullldrlllddddrruuudddlluuuurrlldddrdruudlluuurrurrrddlddllrruurrddlluruuulllddrrlluurdurrdduurdullldrdddruluullllddddrruuudddlluuuurrurrddddlruuuulldllddddrruurlddlluuuurrdulldddrluuurrurrddlrulurrrdlldlddrruuddrruldludlluuruurrdduullddlddrurdrrullruululld"
+  },
+  {
+    "title": "sasquatch3 - level 015",
+    "definition": "           #####\n############   #######\n#     # # ## # # #   #\n# # #$  $  # .$  $ # ##\n#  ..*.** *@* **.*..  #\n## # $  $. #  $  $# # #\n #   # # # ## # #     #\n #######   ############\n       #####",
+    "solution": "rdrrrurrrllldlllullullldllllrrrdlulluurrddrrulrrrrddlurullldrurdrrrdrudrrulllllrrrrrrrrrddllulllulluuurrdduulldddrrdrrullrrdrdrruulllurdrrddrruulllrddllullluurrddrdrruullrrruulldurrddlddlluurldllluurrrdddrrrruuluulldlllluullddddrrrrlluurrrrurrddrddllllulllllurdruudllllulldrrrrurrddlullldddlluuddrruuuullldrrrrrllllllllluurrdrrrlllullddrrrurrdrrulllldrrllllluullddrrrrrurrrrdluldduulldrrllllllddrrudlluurrrrllluurrdrdllrrdluuullllddrrrluurrdrrrddllrululullddrrrllllddrrudlluuruurrddlrrdluuullllddrddrrurrrrulrullrrrrdlldlllldlluuluurrrrdrrrrrddddlluuddrruuurrdrrulllruuurrddlruullddrddrrrrdrrrruuluulldllll"
+  },
+  {
+    "title": "sasquatch3 - level 016",
+    "definition": " #########\n##   *   ##\n#  # # #  #\n# #.$.$.# #\n#  $.$.$  #\n#*#.$@$.#*#\n#  $.$.$  #\n# #.$.$.# #\n#  # # #  #\n##   *   ##\n #########",
+    "solution": "druruddulluldlduuddrurrrulrddrrddldlluuululldrduurrlldrurdduullullluururrdddlddrrulrrulrrrruululldddlddrudrrrddldlluuddrruruulllulldrllllddrdrruu"
+  },
+  {
+    "title": "sasquatch3 - level 017",
+    "definition": "         #\n    #  #####\n  #####    ####\n  #   ..$$ #  #\n  # $ $ .#@#$ ##\n #### # *##   #\n #   #  *  #$.#\n## $##  .    . #\n # $.**.#.**.$ #\n # .    .  ##$ ##\n  #.$#  *  #   #\n  #   ##* # ####\n ## $# #. $ $ #\n  #  # $$..   #\n  ####    #####\n     #####  #\n       #",
+    "solution": "uullldddddrrrrrruuldrdllllrdurrdlurrrdluuuuulddrddrdddluuuuuddlldruruulddrrddluulldrurdulllldrrrlllddrulurlddlrddlurdddlurrruldluuuuddddldllurrruuldrdlurrrdrrulllldrrllldllurrruuldrdluuruulddduuulldrurdulludllurldllurluurddldrrrrrlluldlddruulluurddrruldlurdddlddruuuuldduuuluurdddrruldlurrdrrullrruuldrddllulrdrruluuruuulldrurddddduuuuulllldrrrurddduuuurdurrdllldddlddruuuuddlddddrulllurldllurrlluurdldrdrddlurdddluuruurrrdrrddlurdddluuddllurdrururrdlurrrdllulluuuruurrdlurrrdllrrddlurululuurduluurdd"
+  },
+  {
+    "title": "sasquatch3 - level 018",
+    "definition": " #############\n##    #   #  ##\n# .##$$  $  . #\n#  ...#.#.#.# #\n## # $ $   .# #\n# $. # # #$.$ #\n#  #  $ $  #$##\n#  .$# @ #$.  #\n##$#  $ $  #  #\n# $.$# # # .$ #\n# #.   $ $ # ##\n# #.#.#.#...  #\n# .  $  $$##. #\n##  #   #    ##\n #############",
+    "solution": "rurruruuullrrdddldllldldlldldddrrlluuuruullulurddrrdrrururrrdrrrddluulluuruuurrdddlddlldllrrurrrddlddlluuullddrdrrrddllluurrruuruuluuruuullllddrddllddrrdduulluurruuluurrrrdddlddrddlddddllluurrluuullddrdddrrruullluluurrddldruuulluurrdddduuurrrddluruluuruuullllddrddddddldddrrruuuuddddllluuuluuulldlldldddrrdrrurldllulluuururrururrruuluurrrrdddlddrddlddddlllulldllurdrulllllluuurrluuddrdddrruulrddlllluuurrdduulldddrrrluuuluurrdrrururrruuluurrrrdddlddrddlddddlllullldlulluuuluurrdrrurrdddllllrrrruuulldllullddrdduulldddrrrrlluuuluurrddurrurrdddlllluldduulldddrruuururrduurrdddllllullldddrruurrrrruululddurrddlllluurrururrruuluurrrrdddlddrddlddddlllulldllulrdrrurrdrrruuuuruuluuruuullllddrddllldldllullddldddrdrulluuuruuluurdldruuuurrdddddrrururrruuluurrrrdddlluuddrruuullddlddllldldlluurruululddduuulluurrrddldddrruurrrlddddullulluurrddddlluuuurullrruullldddduurrrdrddddddlluuuuuurullrruulllddrrrdrdddrruuulllrddlluuruurlddrrrruuulldllulllddrrdrrrrddlllrddlluuuurrrrddrrurrddrddlddddlllulldllulllluuuruuluurudlddrddldddrrrrdrrurrdrrruuuuruuluulldlluuruuulldllullldldruurrrdrrurrdddrdrrruuulllrrrdddlluuddrruuullddlllddddrruuudlluurrdrrruuullddlddddddlluuuuudrruuruurrdddlluldrrddrddlddddlllulldllulllluuuruuluuruuuurrrdrrurrdrrddlllllrrrrdduuruulldurrddlddlluurrdrulllddddrruuudlluuruurrdullddlddrrurrruuullrrdddlluuddldlluuruullrrddlddrrurrruuululdllrrdullulldrrddlddrrurrruuulldduurrdddlddrddlddddlllulldllulllluuuruuluuruuuurrrdrrurrdllrrddlddrruruuullddrdrulluurrrrdddlruuullllddlllddlluurrrrrrluuulldrurdrrrrdddlddrddlddddlllulldllulllluuuruuluuruuuurrrdrrrrrrllllllulllddddlddruuuuddddddldddrrrrdrrullllrrrrrrdrrruuuuruuldddd"
+  },
+  {
+    "title": "sasquatch3 - level 019",
+    "definition": " #############\n##     *     ##\n#  ##.# ##.#  #\n# # $ $ $ $ # #\n# .$. ##  .$# #\n# #  # . #  . #\n# #$  $.$ #$# #\n#*  #..@..#  *#\n# #$# $.$  $# #\n# .  # . #  # #\n# #$.  ## .$. #\n# # $ $ $ $ # #\n#  #.## #.##  #\n##     *     ##\n #############",
+    "solution": "lldrdrruruulrddldlluurdrruululldlddrrulrrlullluuruuullldlddddduuurrurddullldddrrurrrlluuruldddluddlluuurrdrdrrddddlluluuudlluuurrurdllldddrruuddlluuurrurrdllddrulddddlldddrdrruuddrrruulrddllluulurulrdrldddrrruullruuudddrddllluulurdrruuurrrrddldllllrrddllluuluurddrrulrdrrrddrrruruulldlrurruuudddlldluurdrruuulldlllrrrdldlduruururrdddlldluruullluuuurrdrdddduurrdddlldllurruulduruuurruuulullddrdlluruulllddrrlddduurrdrullulluurrrddrdlrdddddddlllllllluuuuuuuurrrrrrlluurrrddlllllllddddlluuuuururrrrlllldldddddrrddddrrrrddllllluluuuuddddrdrrrrruurrrruuuurrdddddldllllrrrruruuuuulluuuuluurrdrdddduuuulullddrddluulldr"
+  },
+  {
+    "title": "sasquatch3 - level 020",
+    "definition": " ### ### ###\n##  # @ #  ##\n#  $#$ $#$  #\n# . . . . . #\n ##$#$ $#$##\n# . . . . . #\n#  $ $#$ $  #\n# . . . . . #\n ##$#$ $#$##\n# . . . . . #\n#  $#$ $#$  #\n##  #   #  ##\n ### ### ###",
+    "solution": "ddrdldrrluulldrdllruuruulddllluurdldrrrurdrrrruuldrdlllllllrrrrddlllddlluurrrlddrrrruuluulllldurruurrdldrrrurrdllllllrrddrddllllulrulrrrudllddrrrruuruulluldrrrruuldrdlllrrddldrldlllluurrrrdruudlluurrllulldrrddluruullddrdlrrrrddrruullllrrddrulullullddldrrrrrlllluurrlldllurrllddlluurrddlurrruurrddrdlllllrrrrurrrrdllllllrddruuuuddddrrudlluurrlllddddruluuurrrddlldlullllddrulurrrrrlddlurulllrrrruuuuudddddluruuuulldddrddllldllurrrrdrruulduululldddlddruluruuurrdrrlddllluuurrddrdluuuuuuurrdddddurrdddlruuulldllddddruuuluuuurrddrrdddlldlluurdrrrrddlurulllddlluurrrruuullddldrddlu"
+  },
+  {
+    "title": "sasquatch3 - level 021",
+    "definition": "   ###   ###\n   #  ###  #\n  #    #    #\n##  $$$.$$$  ##\n#  .# . . #.  #\n#  . # $ # .  #\n # .$ #.# $. #\n ##$ .$@$. $##\n # .$ #.# $. #\n#  . # $ # .  #\n#  .# . . #.  #\n##  $$$.$$$  ##\n  #    #    #\n   #  ###  #\n   ###   ###",
+    "solution": "rrdrlullddrdrdlrrdruruulluluurldllddldldlddruruldlludrrurrruuluulldlrurrrrdrdrrddlllrddluludrrurruulluluururuuullldurrrdddldlddrdrrulrdddlldllullldlluluurrururrrrururrdlddrdddlldllullldlluluurrururrrrurldlllldldllddrdrrurrrdrrurruuuluulurdddrdddlldlluluuddrdrrurruuuluuuuuullldlddrurururdddldldlllldldlluruuudddldddrdrrurrrdrrurruuuluulldlllldlruululluurduurrrdrddlulululdrrdrrrrurrddldldlllldldllururrdldllddruddrruldlurrrrrdrrullrrrruuuluulldlllrrrdrluurrdluruurrdluldurulululdldlddrurururddulldllurrrurdululdrdluldldllurlluurdldrurd"
+  },
+  {
+    "title": "sasquatch3 - level 022",
+    "definition": "   ###########\n  #           #\n ##$####.####$##\n# $. $ $.$ $ .$ #\n# # ...   ... # #\n# #$.$ $.$ $.$# #\n# # . *#.#* . # #\n# #$ $# $ #$ $# #\n# .. ..$@$.. .. #\n# #$ $# $ #$ $# #\n# # . *#.#* . # #\n# #$.$ $.$ $.$# #\n# # ...   ... # #\n# $. $ $.$ $ .$ #\n ##$####.####$##\n  #           #\n   ###########",
+    "solution": "rrrdruddrduluurdldddlllllllluuuuuuuurrrrrrrrddrduluurdullllluuurrrrrddldlluldlllllddddrrrrrldulllluuuurrrrdddrdlluruuurrrruruulllllddddurrrrullrrddruullldllllllddddddddrrrrrrrruuuuuruuddlddruudrruuuuulllddrdduuluurrrdddddlluldduuruulullllllllddddddddrrrrrrrruruuddlddruuldlllllllluuuuuuuurrrrrrrrdrddlddddrdluuuuuruuluurrrdddddlluuulullllllllddddddddrrrrdddrrrrruuluuruulddddruuddddllllluuulllluuuuuuuurrrrrrrrurrrddddddddddlruuuuuuuuuullldllllllllddddddddrrrrdddrrrrruuluuuuruuddldddllurdrdrrruuuuulldldduuldduurruuldlddrdrulluurdurrruuuuulllddduuurrrdddddllldduurrruuuuullldddddldddlddrluururrudlluurruluuuurrrddddddddddlluuuudlldlddrrlluuruuurduuulduruullllllllddddddddrrrrrldddrrrrruurruuuuuuuuuullldlldrurdulllldruluuurrrrrdullllldddrrulrdrruldlllllllddddddddrrrrdddrrrrruurruuuuuuuuuullrrddddddddddllddllllluuulllluuuuuuuurrdrullldrldddddlduruulduruuuurrrdllurrrrdllullddlddddddrrrrdddrrrrruurruuuuuuuuuulluulllllddrdrrullddllurrllllddlddddddrrrrdddrrrrruurruuuuuuuuuullllrruulllllddrdrrdrrudlluullddllullddlddddddrrrrdddrrrrruurruuuuuuuuuullllrdllldllurrrrurruulllllddrdrrullddllurrurrddllururrruulllllddrrrrrrrddddddddddllddllllluuulllluuuuuuruurrrrlllurdrrurrrruulllllddrdllurrrrrrrrddddddddddllddllllluuulllluuuuuuruulurrrdrrurrrruulllllddllldddldddddluruuuuruuurrdllurrrrdllulldddlddllluuuuurrrrrrdrurrrrruulllllllllldurrrrrrrrrrddlllllllldddlddllluuuuurrrrrrddlruulllllldddddrrruurudlldurrurruulllllldddddrrdruudrdlddluurdddrrrrdddrrrrruurruuuuuuuuuulllllldlldlldduurruulllllldddddrrdrdddrruldluddluuuurrdduulddrrdrrulllrrrddddrrrrruurruuuuuuuuuulllllldlldllddlddulrdrddrrrddddllllluuuuuuruuruurruullllllddddddddddrluuuuuuuuuurrrrrrddllddlddrddrrrddddllllluuddrrrrruuulldruurrlllluuluuruurruullllllddddddddddrrddrrrrruuluurrdllrdddllllluurrrrurduullluullddduuuruuluuudddrruurrurrurrrrrrddddddddddlllllluulllluuluuruurrurrdrrddrruuudddlddlddllrruurrddd"
+  },
+  {
+    "title": "sasquatch3 - level 023",
+    "definition": " #### ### ####\n#    #   #    #\n# #  #   #  # #\n#  **$***$**  #\n#  * .   . *  #\n ##$.## ##.$##\n#  * #   # *  #\n#  *   @   *  #\n#  * #   # *  #\n ##$.## ##.$##\n#  * .   . *  #\n#  **$***$**  #\n# #  #   #  # #\n#    #   #    #\n #### ### ####",
+    "solution": "uuurrrrurruulllddduuurdldrldlllddrdrruuuddrlddrluuuuruulddlllddrdrruruuudddlddddrduldulllllllrdulduruuuuuuludrudrrrrrruuurrrdddlllrddluuuddddlluluurrllddrdrruuruuldddddruudrrulldludllldddrrrruuluurrrddlullllrrdrullluluurrrrdullllddrdrrurldllulldrruluuludrrudrrrrruuulldduurrdddlllrddddddlllluuuuuururrdrullldllurrldddddddrrrruuullldluurdrruruulddrdluuurrruuullldddrddddddlllluuullluuurrurrrllldllullldrrrdddrrrdddrrrruuuuuululllllllrdddddlruulruullluuurrdduulldddrrurdurrrrrrrdddddddlllluuullluluuudddrddddldllddrrruuurrruuullldlddrdddllluurrurduluuruuluuurrrrddduuullldrrurdllllddrulurllluuurrdduulldddrrurdlddrddluuuuudddddddrrrdullldllurrrluuurrrdrddldlllrrrurrdurrrdrrulllruuuuuuulllllllldddrdrrdrddrdrrrlllulldlluuudddrruldlullldddrrruulurdrrurrdlllrrddlurdruluuuuruulddddrrdrrulrrrdddlluuuuudddddluruurrdluluuluurddduurrdluruldllllulldrrrruuruuldrrruuulldduuldrdlllrruurrrddlruulllddlldllurrrlluurdulldrddddrddluuuullulldrldddruluulluuurrrduldddllurdrddrddluuudddddlldddrruuuuuddlldruruuruulddduulldrulurdrrrrurrdllll"
+  },
+  {
+    "title": "sasquatch3 - level 024",
+    "definition": " ###############\n #.  $  .  $  .#\n # ##$# # #$## #\n #  .* .#. *.  #\n # #   *$*   # #\n##$$*   #   *$$##\n#  #. $. .$ .#  #\n#@   #* * *#    #\n#  #. $. .$ .#  #\n##$$*   #   *$$##\n # #   *$*   # #\n #  .* .#. *.  #\n # ##$# # #$## #\n #.  $  .  $  .#\n ###############",
+    "solution": "rrruruururdddrruruulddduurrrulldlddlluuuuurrdduurrddrdldlldlluulllurrdrddrrurruuuullllddllllluurrrrrddlludrruullllrrddrddrdrrurruuuurrllddddlldlluuddrrururuuullddrdrurrrddduuullldddruluurrrdddrdllruullrruullllluurrdullddrddluddlluurlllddlddrdrrurrdrrdrdrruuuruululludrrdrddldddlluluurudlddrdrrddllllluuruululldlluluuruuullldddldrrluuuurrrdddluruulllddrrdruruulldrrlddluudlluurrdrrdrdrrururrdrrdrddldddllulullulldlluluuuuddddrddluuuururrdllrrrrururrdrrdrddldddllulullulludrrdrrdrdrruuuruulullulldldlldddlllddlluuudddrrurrdrddllllrrrruuuuudlllddlluurrddrurrdddlluuluulluluururrdduulldlddrdrrddrrlluulluluururrdddddurdulllulurrluurrddduuuurrdrdllruulldllddrrdrddrruuudrrdrrdrdrruuuruulullulldldllddrrdrddrdullddrrrrlluuuullulluuullrrdddllrruurrururrdrrdrddldddllulullduulluuulldrurdddllddrruuudddlulurdrdrrurrdlllrrrrdrruuuruulullulldlddddrrdrdrruuuruluullulldrllddddrrururldlddruddrruuuruulullrrdrddldllrruulldurrddddllullulurddrrdrruuuulldddlluuluuururrdrrdrdlddlluuulluldduururrdluldrdlurrrrddddlluuudddrruuuullrrddlrddlluuulluurdrddrruulldddddlluurlddrruuudlldrururruulldduuulldrldr"
+  },
+  {
+    "title": "sasquatch3 - level 025",
+    "definition": "# ####  #  #### #\n #    #   #    #\n# *.   ###   .* #\n# $# $ $ $ $ #$ #\n#   # .* *. #   #\n#  . #  $  # .  #\n #  $ ##$## $  #\n  #.* # . # *.#\n# #  ..$@$..  # #\n  #.* # . # *.#\n #  $ ##$## $  #\n#  . #  $  # .  #\n#   # .* *. #   #\n# $# $ $ $ $ #$ #\n# *.   ###   .* #\n #    #   #    #\n# ####  #  #### #",
+    "solution": "rrruururdddddrddluuuuuulurdddddrdrdddluruululuuuullddllllllddldluuuuuluurddddddrdldllddrdrrurruuurruuruuldlllddlluuuuuulluururrrdrdddrrdulluuulullldlddrrddddddrruulruulrddddllddllurdrulldddruudddrruldlurrrruuldrdllurururrddlluldrrruldlllddlluluurrururuurrrrrrrlddrluuuurururrdluldldlddddrdrrrddludddllurdrulllluurdldrrulullrrdrddrruruullululuullllllddldldllddrdrruurrrrrrurdllllurdrrrrddrruruullululuuuurururruuldduuulldrurdllllddrulurrurrdrddlldldlddlllllluulululluurdduuurrdluldrrrrddlurullrrdddrruulldlurrrdlullluulldlddrrdrdrddrrrrrruurururruulullldlddlruururrrdrddlldldlddlllllluulululluururrddrrrrrrdrulllldrdddrdllrrrrddrdrdrrddldlluulllluuuulurrldddddrrrrddrruruuululrdrdddldlluulllluuuuuuuuuurrrruurrdrdddldlddlllldluuuuddrdrruurdrdllllrrddruluurrdlluurururruulullddlllllddrddrddlddddrrrrddrruruuulululldrdrluuuuruldddruldddruddrruldluruldluluurrdduuluurddllddruuruldddrrdrdddldlluulllluuuururrllulldrruluuluurdddduuuurrrruurrdrddllddldduuururrdluldrdluldldurururruulddrdluuuulldrurdlldllurrlldllddddrddluuuuulurrrdrulllllldrulluurdldrurdulullldlddrrdrdrddrrurdddduuulllddldldllururldldddrdrruurrruuruuullluulululldrdrdrluluurdrdrdululldrddrrrrlluuldldrrullurululluururrrdrdrrddddrddlddlddlllddlluluuururuuudddlddruuudldldddrdrruurrruuruuruuluuuullulullldlddrrdrdrddddluldurruuldulduruululldrdrluurdrddldruuulldrurdululluurddldrurdduuluuurrdluldddldruuurrrrdrrddlludrruulldlurullluldrrrrdddrurulldlurullrrdrrrrdllldlurrdddrddluuuuluurrdldlurdddddddlddruuuuuuuulurllluurdldrdrruulrddlluluurdrrddddddddlddllurldlddrulurdrullddllurrllluurdldrdrruurrrruuuuuuuuuullulullldrrlllddrulururrdlrdrrullrrdrrddddddddddlllldlrurrdllurrrruuuuuuuulludrruulldlurddrurulrrrdlurrruuldrdluldururrrdllrrrddlurululldrldllurrlddlulldddduuuurrddllurldddrddlddlldurrddlluldururdrdluuruuruuldddduuuuuuulldrurdddrddluuuulurllluluurdrdulldrdrluurdrrddddddddlddruuuuudddddrruulrddlluuudrrdllrrrdrddluruldlurulrdrddrrullrrruuldrdldllurlulldrrullllurullldrrllldlddrurudllururlddru"
+  },
+  {
+    "title": "sasquatch3 - level 026",
+    "definition": " ###############\n##      #      ##\n# *$ $*$$$*$ $* #\n# $...$...$...$ #\n#  .$.$.$.$.$.  #\n# $...$...$...$ #\n# *$$$*$$$*$$$* #\n# $...$...$...$ #\n##$.$.$.@.$.$.$##\n# $...$...$...$ #\n# *$$$*$$$*$$$* #\n# $...$...$...$ #\n#  .$.$.$.$.$.  #\n# $...$...$...$ #\n# *$ $*$$$*$ $* #\n##      #      ##\n ###############",
+    "solution": "rdrruurruulluurrddllllddlddrrruullrrddlulrrurrdlldlluuuurrrdduuldduurrululddurrrruldlluuurrdullddlddlluurrdruddddruluurrruuldrdlllurlddddlurulrurrrdddlluuddrruulrddlluluuulllddrrdrrdruruuuululdulduldullddururrrrdrddddllllulluururrullldduurrrrrdrddddlllluluulurdddlddddrruuudluuuudddrddddduulurdddllrrrruuuddddrruuuludrdddllulluuuuulddrdddrrdrruuulullrrdrdddllulluuuuluuuuluurrrrrdrddddlllldluudrdddddrruldluuurrrdrdllruulllluurrrrdddrdddlluuldluudrrddrruulluddlluurlddrurruuuullllddldruuurrrrdddrdddlulddlddruuurulrrdddlruuuuuluuullllddlururrrrdddrddllulldlluuddruudrrrdlrddlurrrddluurulruuldllllldddrrrrlddruulddllurrdrruruuuulllllldddrrrllluurdldrrlddluulluullrrddrruururrrruuuullllddddddldrllluullddlddrrrurrruuuuulddddldruuuuuruulddddrddlddruuuulddldruuuuurdduuuuuulddddddddruuurrrrrddddldlllluulldruuuuuuuurrrrrruuuulullllldddddddddddduuuruuldddddruuurrrrrddddldlllluulldruuuuuuuuuuullddllrrururdddddddduuuuuuulldrurdddduuulllluuluurrrdrdrrdlddrrrrrruuuulullllduldlddrddddruluuuluururrrrrdrddddllllldlurrrrrruuuulullllldlddrrddluruldluldlluuluurrrdrrrddlddddrulurluuruullldduuulllddrrldrulluurrdlddruluurrdlrrrurrrrrdrddddlddddllllluudlluulluuddddlluuudddrruuuururrlluldulldrrruurrrurrrrrdrddddlddddlllllulluulluuruullldllurdrrurruulllldurrdurrddddludddddlluuurldddrruuuudlluddrururuuuulllldlddddrluuuururrrrddddldldludddrruuudrrddrrdrrrrrrddddldlllllulldllluululluuurruuulldrrurrdrrddrruruuuuddddldlluullllrrddlurulrrrdlldlurrrdluululllluuuururrrrdddddlddrrulrddrrulrruuldlrrdlulurdddllluuurrdrudddlurddrrrrrrddddldlllllulldllluuruurrudrurrdluuurduuulllluuuurrrurrrrrdrddddlddddlllldluuuddlldllddlddrrrururruuddlddrrrrruruuuullllldluuruuulllluuuurrrrdddddddlddrddlddrrrrruruuuullllldludlrrddlddruuuuddlludrulddldllluururrrddluddllluurrrdrrrdrrulldlurrrdrruruuuuuluuuruuuululllldddddddddddduuurrrrrddddldlllllurllldludlluurrdrrrruuuuuuuullllldulldrurrdddddlddllurdrrdrrrruuuulllldldldddluruulllddrluurrurddddrrurrrruuuuuuuullllllddddddllluuurrdduulldddddrdrrrrurrrruuuulllllldlurrrdluluuddrrrrrrddddlllluuudddrrrruuuuuuuulllldddlruuurrrrddddllllulddurrrrrrrrruuuulllllllrrruuuullllddddddduuurrrrddddlllldlurdddddlllluluuuurrrrlldrullldrldddrdrrrruuuuuuuuullllldrdddlddddrdrruuudddrruldlurruuuuuuuurrrruuuullllddddddddddduuulllllddrulurrrrllllddddruuuddddrrulrrdrrurrruuuuuuuullllllllluurdldrrrrllluuluurddduuuurrdlrrurrdrrrdddddddddddddrruldluuuudddrrdrrulllrrrruuuuuluuuruuuululldluldddduuuurrrrdlllrrrrddluddrddlddrdddludd"
+  },
+  {
+    "title": "sasquatch3 - level 027",
+    "definition": "  #############\n ## .   .   . ##\n## $.$ $.$ $.$ ##\n# $ * $ * $ * $ #\n#..*.*.*.*.*.*..#\n# $ * $ * $ * $ #\n#  $.$.$.$.$.$  #\n# $ * $ * $ * $ #\n#..*.*.*@*.*.*..#\n# $ * $ * $ * $ #\n#  $.$.$.$.$.$  #\n# $ * $ * $ * $ #\n#..*.*.*.*.*.*..#\n# $ * $ * $ * $ #\n## $.$ $.$ $.$ ##\n ## .   .   . ##\n  #############",
+    "solution": "rldulrurddrddrdrrlddldllluuddrrruruululuullllddllddrrlluuuluuddrdrruurrrrddrdrruurrdddlruuullddrllddldllllllluurrddrrrrruruululuullllddruulddllurrllluurdldruulllddrlurldddrulddrrrddluruldlurrddrruulrdldlluulluuuuurrrdddllrruuullldddrrrrruurrrrddllllllrrrrrrrdrrullllrrrurrrdllrdddluudddllllllllrrrrrrurdruurruldllululluurddrdrdrruuullllrddruddrruuullddddldllluurdldrrrllllluurldrdrrrrurrdllllurrdrruululddldrullurruururrddlruulldlldduuuulllldddduuldduurrrrllluurrrrdddrdddlluururduuruldllllluurrrrddlllllluurrlddrrrrrurrrdduurrdldddluruuuruuldddlllllllluullullluurdlddddrrrrrrrrrrrrlllllllllllluurrurduulddllurdrruuldlluurdldrurrddrrddrrrruulluulllllrddrddlllluuuuurdrrrrddllururrrddrrdrrrruuruuldddrdllruuuuruuldrddldddlldlllluurrdlrdrrulldllllluullrrddrrrrrurrrruuuruulddddrdlldlllllllluuuurrrrurrurrlldlldllllddddrrrrrrrruruuuuruulddddulurrddddlldlllllllluuuurrrrurrurrdrruulddullldrrlldllllllllrrrrrrurrrrdldruuurrdddddlldlluluurlddrdrruuddlluluurdlddrrrurruuuuullllddulddduulllllddddluuddllluurrlluurrllddruldddrurlluurduluurdduuluurddldddddrrrruuuurrrrurrururldluldrddllurrlldllluururrrluuddlldlddlddddlllluuuuuuurrlldddddddrrrruuuuruururrdulldrrurdllllddlddddlllluuururdulluurdurdlldddddrrrruuuuruururruulddldrrrrluluululldrurddulduullldrurrrdrdddlllddlddddlllluuuuuuuurururrddrlurullldlddrurudllurldlddddddddrrrruuuuruurrruuulullddluurrrdrddrrlluulullddrrurddrdluuuruldllrrurrrdlllrdurdllddrrddrruurruululrdrddlluuludrruldddddlluulluurrlllluuldldrrrrurrdllddrrddllllluulllldludddruuudddruuurrrddlurulddddddlluuuddldluuurrdddrrrddluuuuudddrddrddlluuurulllrrddddruuluullulldrrrruuuurrrrrrrruurrdddddlldlllllllrrrrrrrurruuuuullddllllllllddddrrrrrrddlurullllllllrrrrrrruuddddlddrruuluullllluuuurrrruurrddrrrluurrdldluuddllllllllddddrrrrrrrrurruuuuullddllllllluurdldrrrrrllllllddddlluuuurrrruulldrdlddruulddddruuddrrrruulllrrrddrrruuuuddddllluurrllddrrruulllddddrddluuuurrruulllddllllllluluruululduurrddddllddrrrluuddrrrrrrruulllldlurrrrrrrrdrrullllllrrrrrruulldurrddlluruuulddrddlddllllllllrrrrruurrrdrullllddlllluurrrrrrrddllululldlurrrdlrrdrruulllluuddlluuddrruurruullddddllddlluurrrrrrlllluulluurrddddurldllddrruurrrruulddrddlludrruullllrrrrddrruullrrdrrullddllurrlldllurruuldlllddlluurrrrddrruullruuluurrddlddrddluurddrrullrrurrdllrrdll"
+  },
+  {
+    "title": "sasquatch3 - level 028",
+    "definition": "      #####\n   #### . ####\n   # ##$.$## #\n ####   .   ####\n # ## $$.$$ ## #\n ##  ## . ##  ##\n### $##$.$##$ ###\n# $ $ $...$ $ $ #\n#.......@.......#\n# $ $ $...$ $ $ #\n### $##$.$##$ ###\n ##  ## . ##  ##\n # ## $$.$$ ## #\n ####   .   ####\n   # ##$.$## #\n   #### . ####\n      #####",
+    "solution": "uuuldduuruuldduuruulddrddddrdrrulldluuuuuddrdldruuluurdduulluurrddlddluurddddluurddddluruuuuuldulldrrurdddduuuuruulldurrddluddllurdrudddlurddrddlluuruurduluurdllrdddlddruuuuuddddrrrdlluluurdldrdrrullullddrrluruululdrrddluuddllldrruruuldrdldllurrurrddllrrurrullrrdrrullrrdrrulldlllldllurrrrrrlldlurrrdlururrddlruulldrlllllldddluuurrrdlurrrdlurrrdlullllllddrulurrrrrrlldlurrrdlullluulldduurdrdrrullrrdrrulldlluullddrrrrrllllddluurrrdlullddruruuulldddrrurruldldllurrrlldddruulddddruulddddruuluuuuuluurddddddduuluuurdddddluuddllurrdrrddlludrruullrduluurdduuuulduuruulddrdrruldludddruldddrulllldrrurrdrrullllruurdldruuluurrdluldduuluurdldrddluulldrrulllldrrulllldrrurrrrddrrurulllllllrrrrruulddllurldllurdrrururrdulldldllurllddlluurrdrrdllddruuluullddrluurrdlrdrddluurruulddlluurlddrrulrrrruurrdrdlllllrruurdldllurrllddlluurlddrrulrrrrrddlludruruuulldldldrruddrruulllrrruulldurrddlduudluuuurrdddrrrddllldddlluuullluurrruuuulldrurddduurrurrdlldddrrrruuldrdlllrrddrddluulllddddrruldluuuddlldllurruuullllddrulurrrlluuluurdd"
+  },
+  {
+    "title": "sasquatch3 - level 029",
+    "definition": "#################\n#  .    .    .  #\n# ##$###$###$## #############\n#.##  ##  ## ##.#  .     .  #\n# $   *   *   $ # ##$###$## #\n# ##  #   #   # #.##  ## ##.#\n# ##*###*###*## # $   *   $ #\n# #   #   #  ## # ##  #   # #\n#.$   *   *   $.@ ##*###*## #\n# ##  #   #   # # #   #  ## #\n# ##*###*###*## # $   *   $ #\n# #   #   #  ## #.## ##  ##.#\n# $   *   *   $ # ##$###$## #\n#.## ##  ##  ##.#  .     .  #\n# ##$###$###$## #############\n#  .    .    .  #\n#################",
+    "solution": "rddrrurrdrruruuddlddrdulullulldlldddrrrrrrruuluurdrrlllllulldlluuuuuuurrrrrrrrrrdddddddllluuururldldddrrruuuulldlluruudddddldllulldlluuuuuuurrrrrrrdddddddrrruuuulldlddldllulldlluuuuuuurrrrrrrdddduuuulllllllddddddddddrrrrrrruulullldduurrrdrddlllluuuuuururrdrrurrddddllllrdddlllluuullruruururrruuullllllldddddddrrrdddrrrruuurrruuuulldllulluldllrrdddldlluuuurrruudrdrrdrruluuullllrrrrdddlrrrrddddllldddlllluuuuldlluulllldlddldllulldllulldlrurrdldduurrrurrdrruruururruuuuuuulllllllllllllldddddddddddrrurrdrrurrdrruruururrdddddddlllllllllllrrrrrrrrrrruuuuuuuuuuulldllulldllulluludrddlullrrrrrdrrurrdrrurruuullllllllllldduurrrrrrrrrrrdddddddlldlddldllulldllulldlluuuuuuuurrrruluurrrrrrrrrrrdddddddlldllullulldllulldlrurrdrrurrdrrdrddlddrdulullulldllulldrrldddrrrrrrrruuluurdrrlluuururrddddllllllulldllulldrdddrrrrrrrruuuudrrruuuulldllullulldllulldrruluuruuluurrrrrrrrrrrdddddddddddllldddlllllllluuuuuudddrldddrrrrrrrruuulllulldrrldduulllulldrrrrlluluuruuldduuuuruuldddduuuuuurrrrrrrrrrrdddlldllulldllullrrdrrurrdrrurrddddlldllurrrlldddlddruudrrruuuuuuuulldlluruuddllldllulluluurrrrrrrrdddllluludrdrrrdddlddrrurruuuulldlddlddruuldllulldrrrrdrrurruuuulldllulldllulldlddrdrrrrllllulldrruluuruulddurrrdrrullrrrrdrrullrrrrddddlldllurrrlldddlddruuddddlllluulullldddrrrllluuurrrurrdll"
+  },
+  {
+    "title": "sasquatch3 - level 030",
+    "definition": " ###############\n##             ##\n#  ##### #####  # ###########\n# # . . . . . # ###         ##\n# #$ $ $ $ $ $#     ### ###  #\n# # .#.#.#.#. # ## # . . . # #\n# #$ $ $ $ $ $# ## #$ $ $ $# #\n# # .#.#.#.#. # ## # .#.#. # #\n#  $ $ $@$ $ $  ##  $ $ $ $  #\n# # .#.#.#.#. # ## # .#.#. # #\n# #$ $ $ $ $ $# ## #$ $ $ $# #\n# # .#.#.#.#. # ## # . . . # #\n# #$ $ $ $ $ $#     ### ###  #\n# # . . . . . # ###         ##\n#  ##### #####  # ###########\n##             ##\n ###############",
+    "solution": "uuuuuuurrrrrrdrddrrrrurrrrddlldddluruurruurrrrdrddddlluldduuuullddddddrrruuddlllddrrrruruuuulldluurddddllluuuuuurrrdduullluurrrrdrddddlldlduruulduruuldullllldurrrdddlrdddlluuuuulurrrrluulllldlddddrrruuurruurrrrdrddddllddlldllluuuuuurrdddddrrruullrrrruuuululllldddddrrruulluldluruulllldlddddrrruulurrdrulllddurrrrrrddrruuuululllllllldlddddrrdruuulurrlddddddluuruuurrrrrddrruuuululllllllldlddddrrdruuluurrdrrrrddddllllrrrruullllrrrrddlllldlluurduluurduluurdrrrulldllddlluuuururrrrdulllldlllluulullllllddlllldddddluruuuurrdddddlruuuuurrdddddlruuuuurrdddddlruuuuurrdddddlruuuuulllluurrrrrrdrddddddllulddddruuluuuuuullllllllddddlddrddddrrrrrrrrruulduuuuuuuuulllluurrrrrrdrddddddlldlddruluurrruuuuuulullllllddrrrrdddddddruluuuuuulllluurrrrrrdrddddddlldluuuurdddrruuuuuulullllllddrrrrrdddlddddruluuuuruullllluurrrrrrdrddddddlldluudrrruuuuuulullllllddrrrrrdddduuuullllluurrrrrrdrddddddlluuulurdddlurdddlurddddluurdddlllurdruruuuurrddddddldlllllluurrrllllllluuuuluuruuuurrrrrrdddddddddrdlurrruullrruullldduurrruullrrddrruuuuuulullllllddrrddddduurrruullulddduuulldrurrdrrddllluurrrddddllluurrrddddllluurrrddddllluurrruurrddddddldlllllluuurldddrrrrrruruuuuuullddddlldlulldrurrrruuuuuuuullllldddduuuuullddddduuuuullddddduuuuurrrruulllllldlddddddrrrlllddddddrdrrrrrruulllluuuuuuuulddrddddddrrrrurrrrruuuuuuuullllulllllldduurrrdrruuulllllldlddddddrruruuulddduuurrrddddrrrrrrrddddllllldlllluuuuuuuluurrurrruulllllldlddddddrrurddddluuruuuluurrurrruulllllldlddddddrrllddddddrdrrrrrruullllluurdldruuluuuurddduullluuuuuururrrrrrddllldllddduuurrurrruulllllldlddddddrrdrulddddruuluullddddddrdrrrrrruullulrdrrddlllllluluuuuuurrdddddrurrdlulluuuuuuuurrrddddddddldrullluurrlluuuuuurrrddddddllluurrlluuuurrrddddllluurrlluurrrdduuurrdlulldllddrrruurrddddlluulllddddrrruulllddddrrruullluurrrrrrrrrrddddllllllrrrrrruuuullllllllllddddrrdrurrdlulllluuuurrrrrddddllllluurrrrllllddrrrrruuuurrrrrddllllrrrruullllldduullllluuuurrrrrddddrrrrruullllrrrrddllllluuuuuldllllddrrrrlllluurrrrrddrrrrruulllluldrrrrrddddrruuuuuululllllld"
+  },
+  {
+    "title": "sasquatch3 - level 031",
+    "definition": "   ##### #####\n ###    #  @ ####\n##    # $  #    ##\n#   #..*.#*...#  #\n# # . $# $ $# .  #\n#   .#    #  $.#  #\n#  #.$  #$   #*   #\n #. * #  $ #  .$# #\n# $ #$ $$#$$ $# $ #\n# #$.  # $  # * .#\n#   *#   $#  $.#  #\n#  #.$  #    #.   #\n #  . #$ $ #$ . # #\n #  #...*#.*..#   #\n ##    #  $ #    ##\n  ####    #    ###\n     ##### #####",
+    "solution": "lldldllrrddllullddrdduulullddrddrddrddrddrrurruuururruuddlldlddrrlluurrdrdurrddldlllullldlluururdllluuluuluuluurrdrddrddrddrdllruuuluuluulullddrddrddrrurddrdlurrurdllluururddrdllruullddrrurrurrurddullluludrddllulurrurddrruulrddlddrrurdululllullddrrurrrddllulurrurdululuulldduurrddldddlluurlddrrurruullddrddrrurrrddldluulurdddldllluludrdrrruruulllullruullldlddrrurrrdrrrddldludlluluuluulurrldddrddrdrrurruulllullrurruullddullldlddrrrurldddrdrrurruullluluuurrdrddrddrruulldddlldllulldlurruuururrlldldddrdrrurruuuruullrrddldddlldllullldllullluuluururdllluururddullddrruuuluurrdrddrdluullruuurrdrddrdlldlurruuulullddrrlldldddlddrddrrrdrrurruullluuluuruuddlddrrrurruruuululldlldddllulldluudrrrdrruulldllluluuurrdrddrdluuurrdrdllrurrrurrddldlldluudrrruruulldlldddlddrddrrrddlldllullluuluuruuluuluuurrdrrrdrdlrddlluluuddlruuluuururrrdrddrddrdlurrrddldlldllluuruuurldddllulurddrruuururrrddlldlrurruullldlddrdlldlurruullrrddlludrruuuruuulullldldddrduluullddrruuururrrdrdddlldlddrddrddrrrddrdrrurruuuruuluulldlldluullluuruuururrrdrrrdrddrdddldddldddlldlluluuururrudlluururrrdullldlddrrurrurduruuulullddrdddlldlluururrurddrdluullldldddldddrdrrurruuurudldddlldlluluuuruuulullluururrurrurrrddldlldluulurldlldlddrrrdrruudrruulldluullluururdlldddlddrrurrlddrruulurrlddrruudrddrruulldllldlldldluulurrlddrruulurrlddrruulurrldddlddrruulurlullludrruulldlurddrdddlddullddrrurd"
+  },
+  {
+    "title": "sasquatch3 - level 032",
+    "definition": "   ######  #####\n  ##    ####   #\n  #  ##  $   # #\n  # # .# $# $  #\n  # #$.$  #   #######\n  #  $. # ### #     #\n  ### .$. . # #.$.$ #\n   # $. ###$#$# ## ##\n####  #$        #   #\n#   # $ ###@###.    #\n# $     #  #..  #..##\n###### #    ..# .  #\n    #   $$ #..## ..#\n    #  $ $##     # #\n    # $$       #   #\n    #  #############\n    ####",
+    "solution": "urrrrddllldlllldlluuluuurrurruuluurrrddrrddduuulluulllddrddllddrrrrrrllllllulldddrddrrurrrrurrruuuuurrrdddddddulllullldlllldlluuluuurrdrrrrrrrlllllllulldddrddrrurrrrurrruudrruruuullldrrurddddduuuullldddrrddlddllluullldllurrrrdddllluulurrrrurddlddrrurruuludrruuuruulllddllllllllulldddrddrrurrrrdddllluulurrrrllldddluruurrrurrruullllllllulldddrddrrdrulurrrllldlldrrdrullllddrulururrddlulurlldddrulurruluuruldludllulldrrrrurdddldrdruluuuururrrrrruuuulluulllddrddllldlddrdlllulldrrrrurddddrdrruuddllurlllddruluruuuuluururdduurrrrdulluuluurrrddrrddddlluullllluurdlddlddrdddddrrrrrrrrurruuluuulllluulllluldrrrrrddrruuuulluullllullldldddrrddddrdlllulldrrrrurdddlddrrrrrrrrrurrurruuldldddrruulldlldllurrrllldllllllluurdldrrrrrrrlllllluuuuuluuurrdluldddrdlllulldrrrrurddduuuluuurrrrrrddrrrrdrruruullldddrrdruuudldlluuuurrrrdlddlddddruuldlluurrdrddddlluuruuullddrlullddldrrrlluuurrdrdrrddlluudllluuuldlluldldduurrrrrddldlllllruuurrdluldurrrrrddldllluulurrrrurrruulllluulllllldddrdddrrlllddrrlluurduuuuluuurruulddrdlulddduuurrrrrrddrrrrdrrdrddlldlllldllluulllldddrurudlluurrrllduuulllulldrrrrurdddrrurrlldlluuuluuuuruuldrdlrrdrrrrddrrrrdrrdrddlldlllldllluullluuuluuurrrruullruurdddullddrrlllldddrdruuuluruuruurrrddrrddddlllllrrrrruuuulluullllullldldddrrdrruuruurrrddrrulrruulldurrddldlludrruruullddldrurdddduuuulullldldlddllulluuururrrdrrrrlllddldddduuullddddrdruuuuulluurdrdddddldddrrrddrrrurrrrurruulullulllllllrrrrrrrdrrdrddlldlllldllluullluuuluurrduuuulddrddrrrrrruuuuullullddlldlluurddlddddrdruuuuudddrrrrrruuuuullulllddldlurruurrrdrrruullddldrurdddduuuulullllddldddddldddrrrddrrrurrrrurruulullulllllllrrrrruuuuulullllddllldddddrruuuudddrrrrrruuuuulullllddlruulullldldddrrddddrrurrrrrrrrdrrdduullddrrldddrruuulldrurdulllulldurrdrddlllludrrrruulullddldrrluuurrdrdddrrudlluuuruuurrdllddruldldddrruulullulldddrrlluuurrdrrdrddlludrruuluurduluurdlddlluurrlldlldddrrruruuullddrdrullullldrddldllluururrurddullldlddrrrurrluuurrurrdduuurrdluldllddrrrudllluurrduurrdluldllddrdddrruuuuddddlluuuluurruruuulllddduuurrrdlulldddlllllllldldddrrrrurrurrrdrdddrruuuuuuudddddddlluuurldddrruuuuuudddlllulldddrrlluuurrdrrrdddlluudlllluddllluururrurdduurrdrdddrruulrddllulldlluuuurrrdrruruuldddllulllddddrrurrdrruuudddlluuddrruuuuddddllulldlluuuurrrdrrldddrruuulllullldddrrrlluuurrdrrrdddllullluullldllurrrrurddullllldllldrlddruulurrrurrdlddllurdrudrrruuullllddrulurrrlldddrrruuruulddullldddlulllddrulurrrdlrruulurrrlllddlluuuururrrrrrrrdrrddllullddlururrdrrrdddllulldllllluuurrrrurrdrruuurrdluldrddlllulldlllldddrrrrrurrudlldlllllulllurrdrulurrrrdrullllldllldddruulurrrdrulurrrrllldddllullddruulurrrdrulurrrlldddrrrudruldllluullluuururrrrrrrruuurrdlurrrdlddd"
+  },
+  {
+    "title": "sasquatch3 - level 033",
+    "definition": "         ####\n   #######  ####\n   #         $ ##\n####$  ###.###  ##\n#   $ #  #.#  #  #\n# # $ #   .  @ # #\n# #   #..###   # #\n# # $#....  #  # #\n# #  #...#$  # # #\n# #$ # ## $$ $ # #\n# #  # .*    ##  #\n# #$$## #  ##   ##\n# #     ###   ###\n#  ####$    ###\n##      #####\n ########",
+    "solution": "llllllddldddrrrllluuurrrrrdduullllldddrrrururullrddldllluurruulurrrrrllllddrrddlddruuldllluuuruurrruuulllllddddlluulldddddddddrdrrrrruuudddllllluluuuuuuuuurrddrruuuurrrrrdddlllddldddrluuurrrrrdrddlruuldlurullluurrrrdrrdddllrruuulluurdllllllddrdlulduruurrrrrrrddlurullllllulddrdrrddlddruuruullluurruuulllllddddlluulldddddddddrdrrrrruuuurrurruullllrrrrddlldlldddrrrrurrurruruuuuuulululllulddduurrrrdrdrddddddldlldlldlllluuurrurruullluurrrrdrrulllllrrrrrddddllulullluluurddduurruuulllllddddlluurlddrruulllldddddddddrdrrrrruuuurrurruullluurruuulllllldurrrrrrdddllddrrrddlldllddddllllluluuuuuuuuurrddrruuulurrrrrllllddddlluulldddddddddrdrrrrrurrrrurrurruruuuuuulululllulddduurrrrdrdrddddddldlldlldlllluuurrurruullluurrrrdrrulllllrrrrrddddllulullluluurdrruuurrrrdrdrddddddldlldlldlllluuuludrrrururullrddlddruuurulddldllddddllllluluuuuuuuuurrrlddrruuulurrrrrlllllddllldddddddddrdrrrrrurrrrurrurruruuuuuulululllulddduurrrrdrdrddddddldlldlldlllluuurrururrdrruuuullllllulddduurrruuullllllddldrdruuulurrrrrlllllddllldddddddddrdrrrrrurrrrurrurruruuuuuulululllulddduurrrrdrdrddddddldlldlldlllluuurrururrdrruuuullllllulddurrrrrrrddddllulldldllddllluuluuruuulurdruulurrrrrlllllddddddlddrddrrrdrrrrurrurruruuuuuulululllulddduullllllddddddlddrddrrruurrururrdrruuuulllllluldrrruuullllllddddddluuudddddrddrrrddllllluluuuuuuuuurrrdruulurrrrrlllllddlddddddrddrrrdrrrrurrurruruuuuuulululllulddduullllllddlddddddruuuuulurdruulurrrrrlllllddddddddddrrrdrrrrurrurruruuuuuulululllulddullllllddddddddddluuuuuuurdddddddrrrddllllluluuuuuuuuurrrdruulurrrrrlllllddddddddddrrrdrrrrurrurruruuuuuululullluldllllllddddddddddrrruurrururrddllllrrrrululdrdll"
+  },
+  {
+    "title": "sasquatch3 - level 034",
+    "definition": "            ####\n    #####   #  #####\n   ##   #   #      #\n   #  # ##### # #  #\n   # # $ $ $ $ #  ##\n   # #       #  # #\n   #  ######$## # #\n####  # *  #  # # #\n#   $ # .. $  # # #\n# # # #*...# #  # #\n# .***#. ..#   ## ##\n##*....*.*  $ #    #\n ##* ##.##### # $  #\n  ##  #     $  # # #\n   ##@ #.#$ $ $ $# #\n    ##    $ $  #   #\n     ##  ###########\n      ####",
+    "solution": "uluuruuullrrdddlludrruuuluuuuururrddrdrrrrdddlluldllurdddlururrrruuulllluluulldldddddrdddlddrdrdrruuluulluuuluurdddduuuuluuururrddrdrrrrdddlllldddlddrddllululuurllulluurrrlllddrrdrrullrdddrdrdrruuluullrrddrddllululuuruuulldurrdddrrruuldrdllllrrrddrrrrddllrruulllluulllddrdrdrdrurrruulllluuurrrdrrlluuurrdduulldlurrruuullllulldrruluulldldddddrdddrrurruurrruuullullrrdrrullrrddddddrruruuuulullddddlllluldrrrulrdrruuuuruurrrrdddddddddlldrurrddddllulluluuluuuuuuurrdrddddldldluudrruruuuululldddrdlddrdddrddluuuuluuullrruuuurrdrddddldldlurruruuuulullddddlldldlldddrrrrrllllluuurrururruuuuruurrrrdddddddddrddddllullluuuddllddllludllululuurrrddrrrrlllluuurrururruuuuruurrrrdddddddddrddddllullldllllrruulllluulllddrdrdrdrurrrrruuuuluuddrddrdrrdrruuuuluuuuuuuuullllddldddrdldddrddddlluurlddludllllululuurrrddrrrrlllluuurrrdlluldlllddrdrdrrrrrrrurrrdrruuuuluuuuuuuuullllddldddddddlluuuuldlldurrrddlulrruuldrdlrddrruuulrdddlluuluurddurruuuurrdrddddldldluudrruruuuululldddrdllrdddllluuuurdrrddrdddrddllllllllululuurrrrrrrrllllllllddrdrdrrrrrrrruuluuluuuuuuurrdrddddldldluudrruruuuululldddrdlllulddurrrdddllllllluuuluuuuururrddrdrrrllluluulldldddddrdddrrrrrrrurruruuuululldddrdllluldrrruuullllulldrrrrrllluluulldldddddrdddrrrrrrrurruruuuululldddrdllllrrruuullullrrdrrddddddllllllluuuluuuuururrddldrrrrrlullluulldldddddrdddrrrrrrrurruruuuululldddrdlllrruuuullllrrrrdddddddllllllluuuluuuuururrddldrrrrurrddddddrdddrdrruulurddddrruuuluuuuuuuuurullllulddurrrrdddddddddrddddllulluluuururuuuulullllllrrrrdddddddllllllluuuluuuuururrddldrrurrrrddddddrdddrdrruulurdruuuuuuuuurullllulddurrrrdddddddddldddlluluuururuuuulullllllrrrrdddddddllllllluuuluurddduuuluuururrddrrrdrurddddddrdllllllllrrrrrrruuuuuuulllldrrrurddddddrdlllllllrrrrrruuuuuuulllllldrrrrrurddddddrdllllllrrrrrrddrddluuuuluuuuuuurrdrddddldlruruuuulullddddddrdlllllrrrrrddddllurdruuuuluuuuuuurrdrddddldlruruuuulullddddddrdllllrrrrdddllurdruuuluuuuuuurrdrddddldlruruuuulullddddddrdlll"
+  },
+  {
+    "title": "sasquatch3 - level 035",
+    "definition": "              ####\n ####       ###  #\n #  #########  ..#\n #  $ @ $   $ #..#\n # $# $   # # #..#\n #  ##*##$#$#$#..#\n # $ #..#.      ##\n #   #*. .##$## #\n##$ $#..#.      #\n#    ##$#########\n#   $$ $ #\n##       #\n #########",
+    "solution": "llldlddddduuuuuruulddddduuuurrrrrdrrullllllrrdrurrrdddrrrrrruuuullddduuurrddddddlllllluurrrrrlllllddrrrrrruuuuudddlluuuurrurdddlddlllllldlluluururrrrrllllldlddrdrrurrrrrruuuullddduulllllldlddrdrrurrrrrlllllddrrrrrruuuuudddlluuuurrurddullldlllllldllurrrrrrrlllllldddrdrrurrrrrruuuullddduullllllldddrdrrurrrrrlllllddrrrrrruuuuudddlluuuurrurdlllddddlllldlldluuuulurrrrrrrlllllldddrdrrurrrrrruuuulldlllllllllldldddrruldddruldddrudrrulrdrruluuluuuuurrrrrrrurrddddlllllldlldluuuuddrdddddllurdruuuddlldllurrlluurduluurddldddrrrruuuluuuulullddduuurrdrrurrrrrrdduuurrddddddlllllluurrrrrlllllddrrrrrruuuuudddlluuuurrlldlllllldllurrrrrrrlllllldddrdrrurrrrrruuuulldlllllllllldddrddldddrrrruuuluuuuurrrrrrrurrddddlllllldlldluuudrdddddllurdruuuddlldlluuuruuluuurrrrrrrrrrurrddddlllllldlldluurdrrurrrrrruuuullddduuurrddddddlllllluuuudddlldddlldlluuuruuluuurrrrrrrrrllldddddrrrrrruuuuuullddulllldddrrrrrlllllddrrrrrruuuuudddddllludllluurrrrrllddrrruuuuddlllllluuurrdduulldddrrrrrllddrrruuudlllluuurrdduulldddrrrllddrrruulllllldlldddlldllurrrdruuulurrldddlllluuruuluuurrrrrrrrdddrddllluudlldddlllluurdldrrrdruuulurrldddlllullldrrrrrdruuuddllluuuuluuurrrrrrrrdddlldlluldrdddllluuuuldddldrrrrdruuuddllluuuuluuurrrrrrrrdddlldlldddllluuullddldrrrrrdruuuudddllluuuululddddldrrrrrdruuuddllluuuuluuuuldddddddldrrrrrdruudllluuuuluuurrrrrrddduuulldrurdduulllldrduurrdluld"
+  },
+  {
+    "title": "sasquatch3 - level 036",
+    "definition": "           #####\n          ## . ##\n         ##.$ $.##\n         # $ * $ #\n         #. * * .#\n         # $ * $ #\n         ##.$ $.##\n #######  ## . ##  #######\n##     ##  ## ##  ##     ##\n# .$.$. #   # #   # $.$.$ #\n# $.$.$ ##### ##### .$.$. #\n# .$ $.             $.@.$ #\n# $.$.$ ########### .$.$. #\n# .$.$. #         # $.$.$ #\n##     ##  #####  ##     ##\n #######   #***#   #######\n           #####",
+    "solution": "rulddrulldurulddllurrlllllllllllllluululldrullldrurrddduuullldlddrrrrrrllllluldddrururrulrdrrulrdddldllulrdrrulrruulldurrddlullrrddlururuulddurrrrrrrrrrrrrdrrullllllllllllllrrrrrrrrrrrrrrurrdlluuurdurrdulllddddlluuururrrrdrddlrddldlludlluluurllllllluuuuuruulduuurllrdddluldurruuldrdldlluurlddrrulrrrdddlludrruulduuuurddrrullulldlddrlurrrllddruluuurrddlddrullluururrdrrddllurlddlluluururrd"
+  },
+  {
+    "title": "sasquatch3 - level 037",
+    "definition": "#########     #######\n#   #   #######  #  #\n# .$. $       # . . #\n## ### # # # $ $ #$ #\n# . #  #.$ $.## ##.##\n#  $ .$ .# #. #. #  #\n### ## #.$ $.  $  $ #\n##  #  ##$$ .## ##  #\n#  ## ##. $$##  #  ##\n# $  $  .$ $.# ## ###\n#  # .# .# #. $. $  #\n##.## ##.$ $.#  # . #\n# $# $ $ # # # ### ##\n# . . #   @   $ .$. #\n#  #  #######   #   #\n#######     #########",
+    "solution": "rrrdrruluurullrdddlllluurluurlddddrrrruuurrruururuuluuruuldllldlluldullddddrluuuulllulldrrrrrddlrddlruuuullllddldrrllllddldlddrddlddrurrrurrdrudrrrrrdrrurrdrruluurulllruururuuluuruuldllldllullllllulldrddldllddldlddrddlddrurrurrrrdrruuuurudlddddrrrdrrurrdrruluuuluururuuluuruuldllldllullllllulldrddldllddldlddrurrdrdduuudddrrrdrrrrrdrrurrdrruluuuluururuuldllulduuudddlluldrrruuulllduullddrluulllulldrddldllddldlddrurrrdddrrrdrrrrrdrruluuuuurudldddddrrrdrruluuuluururuuluuruuldlldlllulllddddrrrrrruluuruulddddduuullullllllulldrddldllddldlddrurrrdddrrrdrrrrrdrrulrrrdrruluuuluururuuluurullrdddrddluuuudddlluluullulllddddrrrrrrrluluullullllllulldrddldllddldlddrurrrdddrrrdrrrrrdrrurrdrruluuuluuruuudlluluullullllllulldrddldllddldlddrurrrdddrrrdrrrrrdrrurrdruudllldllurrrrlllllllllullluuurrrdddldrrrrrrrrluuuuuruullllluuuurrrdrrddduuullullllllulldllulldrddldrrrlddldlddrddlddrurrdruuudrrrdrruuuuruluurrrrruuullullllllulldllulldrddrdddldlddrddldrrluuuluurdddduuurrrrrrdddllluuddrrruuulllllrrrrrddddrruuuuuuurrrrruuullullllllulldllulldrddrdddldddurrrrrrddddrruuuuuuurrrrruuullullllllulldllulddurrrurrdllllrrrrrrrrrrdrrdddllllluuudddrrrrruuullullllllllrrrrrdddddddddddlluuuuurldddddrruuuuuuudddluldurruuldrdlrdddlruuuuurrrrruuullulllddddddrdllurrulurluuuulllldddddldduuruuuuurrrrdddddddddddrrrruuuuuruu"
+  },
+  {
+    "title": "sasquatch3 - level 038",
+    "definition": "#####       ###\n#  ###############\n# $   * @ *  #   #\n#  # * * * *     #\n## #  * . *  # ###\n # # * * * * # #\n # #  * . *  # #\n # # * * * * # #\n## #  * . *  # ##\n## ###########  #\n# $           $ #\n#   ##########  #\n#####       #####",
+    "solution": "rdrrrrrlldddluruulllldddddlluulluuuurrdrdrddrrurruullluldddddurrurrdlullrrruullllddrudrrruullluldllullddddrrrudlludrrulrrruulllddrdluuuulldrrrrurdrrrrrurrdllllllllllrrrrrrrrddddddrddluuuuuuuddddddllllllllllldllurrrrrrrrrrrrllllllllllluuuuuuuluurdddddddduuuuuuurrrrdrrrrrrrrurrdllllllllrrrrrrddddddrddluuuuuuuddddddllllllllllldllurrrrrrrrrrrrllllllllllluuuuuuuurrrrdddrrrdlurrrdlrrddluluullddrrldruuullllddrrldruuulduluurdurrlllurlllddddddrruuuuurrrulldldddrrurrrruullllurrdrrddlllldllddlluuuuuurrrrllddddrrddlluurrurrrruurrurrdllllrrddddddrddluuuuuuuddddddlllllllllllluuuuuuuurrrrddddrrurrrruurrllddlllldlluuuullddddddrruuuuuurrdrrrlullllddddddlluurluurluurlllddddddddrrrrrrrrrrrruuuuuuullddlllldddlruuurrdlrddlruuurrdlrddlruuullldrurruuulldldururrdddllululurddrdrrulruuldlrrdddluruuldurrrurrdllll"
+  },
+  {
+    "title": "sasquatch3 - level 039",
+    "definition": "   ####   ####\n   #  #####  ####\n#### $ $        ##\n#   $   ###  ##  ##\n#@### # ###.#..#  #\n#  $  # #      .# #\n# $ # # #   #  .  #\n## #  # ###########\n #   ## $ $ $ #\n ###### #.#.#.###\n    #     # #   #\n    # # #.#.#.# #\n    # # $ $ $ # #\n    #  #  # # # #\n    ##  ###   # #\n     ##    ###  #\n      ####     ##\n         #######",
+    "solution": "urrrrllllddrrlluurrrrddddldlluuluuurrruurddurrrrrrdddrrrrdrruulululllulddduurrrrdrdrddllulllluuulllldlrdddddddrruulrddlluuuuuuulurrrrrllllddddddddlldddrdrdrrrdrrrruruuuuullddddlluuuuuullrrddddddrruuuuuullddddrlddrruuuurrdddddldllllulllululuuurrrrddrrrlddrruulllluulluuuuuuuurrrrddddllurrrrdrrrruulululllulddduurrrrdrdrddllllulluuullllddddddddrruulrddlluuuuuuulurrrrrllllddddddrrddddrruuuullddllddrrrrddrruulrddlluuuuddlluulllldddrdrdrrrdrrrruruuuuullddlllluulluuuuuuuullldrrurdurrrrdddrrdrrrruulululllllllllrddddddddrruulrddlluurrddddlludrrrrrruurrdddddldllllulllululuuurruuuuuuulurldlluurdldrrurddddddrrddddrrddrruulllluuuurrddddlllluurlddrrrruuuulldddullddrruuuurrddddrrddlluuuuddlluulllldddrdrdrrrdrrrruruuuuullddlllluuuulldurrddddrrrruurrdddddldllllulllululuuurrrllldddrdrdrrrdrrrruruuuuullddlllluullddrrrrddrruulrddlluulluulllldddrdrdrrrdrrrruruuuuullddlllluulluuuuuuuurrrrdddrrdrrrruululullllllllldlluurdldrrurddddddddrrddlludrrrrrruurrdddddldllllulllululuuurruurrddduuullddddrrlluurlddrruulllldddrdrdrrrdrrrruruuuuullddllddrruulllluullddrdrulluuuuuuuuuurrrrdddrrurdllldllurrrrdrruldlulluuurrrrdrdrddllulllluuullllllldllldddrddrruruuuulurrrrrrrdddrrrrdrruulululllulddduurrrrdrdrddllulllldllurrrrdrullluuurrrrdrdrddllulllluuullllllldllldddrrurldlddrruruuuulurrrrrrrdddrrrrdrruulululllulddduurrrrdrdrddllulllluuullllllldlllddrrrlldddrruruuuulurrrrrrrdddrrrrdrruulululllulddurrrrdrdrddllulldrullldllurrrrr"
+  },
+  {
+    "title": "sasquatch3 - level 040",
+    "definition": "  ####### ## #######\n  #     ######     ##\n  #.###  ##  .  ##  ##\n  # .  #  $*# .#  #  #\n  # #.  ###.#  *$  # #######\n  # $ *    ###  .  #       ##\n ###$# * $$  ##$ .########  #\n##  $ # *  #  # # .   #   # #\n#  $$  $#. .# @ #. .#$  $$  #\n# #   #   . # #  #  * # $  ##\n#  ########. $##  $$ * #$###\n##       #  .  ###    * $ #\n ####### #  $*  #.###  .# #\n       #  #  #. #*$  #  . #\n       ##  ##  .  ##  ###.#\n        ##     ######     #\n         ####### ## #######",
+    "solution": "lddllulllludrrrrddddrurlluurrdrdrddrrudlluulululluululurllululldrdrdrrdrrddrruurruururuuldlrrddllululuulldurrddrdrdddllddlluullulluluuullluurrrrdrdrrllulullllddrrrdddrdrrdrrddrruurruurrdrrdddlrrdrdrrdrrddllllulullrrdrdrrrruullullululuuullullddllddlluulluurdlllurlluuulllddrluurrrdddrruldlurululllddrrrlurullrddlluurrrdddrrdrddllulluludrdrrdrruululluuulllddrrlddrdrrdrruululludrrulululllddrrurulrdrddlurulrdrddrddrrdrrdlulduulllluurrddrrdrrdrdrddlldlllululuulllllluluururldlddrdrrrrrrddrdrdrrrurruululullullllulldllurrrlllllddrdrrrrrrddrdrdrrrurruululullulllludrrrrdrdddlulurdruluulluurdldrurddduuululluulldrdrrruulddllurrdrddllludrrruuluurdddrdddrruuuululrdrddddllurdrulldldrdruurrdrddlldlllululuulllllluluurrrrrrdrrrurddduuululullulllddrddllurrlllurldlddrdrrrrrrddrdrdrrrurruulullluuululullullldduurrrdrrullrrddrddluuluurrddldrullururdldddlluuruulldrrdrdrdrddrrrdrddlldlllululuulllllluluururrrdrlulldrrllllddrdrrrrrrddrdrdrrrurruulullluulllluuruulldrurrddllddrrrrddrrrdrddlldlllululuulllllluluurrrrrluluurlddlldlddrdrrrrrrddrdrdrrrurruulullluulllluuddrrrrddrrrdduulldrurdullluullllullllllddrdrrrrrrddrdrdrrrurldlllululuulllllluluurrrrrrurrurrrdrddduuulullldllddrrrrddrdrrduuluuuulullldllddrrrrddldrrluuulllluurrurrrdrdddlruuulullddullldllllllddrdrrrrrrddrdrdrrrruldlllululuulllllluluurrrrrrurruuldrrrrdrdrruurrdrrdddrdrdrrulululldlurrrdldrurdldrdrrruulldldrrluurrdduullldluluuluulluuuldrddrrddluruldluuuddrrddrddrrululllddruuluurrrddduurrdrdulullddrdrddrruullruulullddllurrurrdrddldlluurdldrurruululldurrdrddlluluurrurddduulllddrdddrrruullluluuulllluullluluururrrrdrdrddrrrrrrdrddllulddduulllddrdddrrruullruuullldllddluurrruulllluullddddrdrrurrruullllululdrrdrrrrddllluluuurululddrdddrdrrruullldluuuddrddrudrruulllrrrdrrrrrruululllllluulululllldlddrdrrrddrddddruurrdlullddrurururrrdddrddllluluuddrdrrruullluludrddlulrrrruuurrdluldduurrruululllllluulululllldlddrdrrrddrdddrrdrrddrrruulldldrulluluurdrdulldrrldruullllurluurdldddrrulluurdlddrrurulrdrddluruldludlluruddrruldlluuuurrrddurrrdddlruuulllulllluullluuddrruldlurrdrddrdddlluluuuurrddrrrrdrrrrrruululllllluululullldlurrrrdrdrddrrrrrrdrddllllllulllluurululdrdddrddddrruldluuuddlluluuur"
+  },
+  {
+    "title": "sasquatch3 - level 041",
+    "definition": "##############################\n#        .........           #\n# $      ###### ##         @ #\n#######   # $    #############\n      ##  #   $  #\n       ##$## ###$#\n     ####    ..# ##### #####\n     #  ..*.**.# #   # #   ##\n     # ######.. $  # ###$  ##\n     # #    #*. # $        #\n     # # #  #  # $$ # ## ###\n     #  $ # ##    #####   #\n     ##  $   ###### #     #\n      # ### ###       $#  #\n      #   $   #$ $ ##  ####\n      #### $ $    ######\n         #  ####  #\n         ####  ####",
+    "solution": "ullllllllllllddlldlddllldlllddddrdddrrrrlddrurrrrruurrrrrurruruuruuldddduulllluulldldrrrrrrrddldlldlllllddllllllullluuuluuuurrrurrrrrddrrrllllurulrddrrrdrrrrrrrddldlldlllllddllllllullluuuluuuurrrurrdrrulrddrrrrdrrrrrrrddldlldlllllddllllllullluuuluuuurrrrllllddddrdddrrrdrrrrrruurrrrrurruruulllllllulllluuluururruulllllllddrdddrdrluluuuluurrrrrrrddlldllurrldddrddrrrrdrrrrrrrddldlldlllllddllllllullluuuluuuurrruuuuluurrrrrrrdddllurdruudlllldrddrddrrrrdrrrrrrrddldlldlllllddllllllullluuuluuuurrruuuuluurrrrrrrrrrrrrrrrrrlllllllllllddldlurruulllllllddrddddlllddddrdddrrrdrrrrrruurrrrrurruruulllllllulllluuluulurrrdruudllldddrddrrrrdrrrrrrrddldlldlllllddllllllullluuuluuuurrruuuuluurrrrrrrrrrrrrrrrllllllllllllllllddrdddrrdruuulurrrdruudllldddllluuuluurrrrrrrrrrrrrrlllllllddllldddrrdlulllldlllddddrdddrrrdrrrrrruurrrrrurruruulllllllulldldluuuruldddrrurrdrrrrrrrddldlldlllllddllllllullluuuluuuurrrurrdruuulurrrdruudllldddllluuuluurrrrrrrrrrrrlllllddllldddrrddluruldluuulurrrdruudllldddllluuuluurrrrrrrrrrdrrulllllllllllllllrrrddrdddrrrrddddruruldluuruldluuulurrrdruudllldddllluuuluurrrrrrrrrrdrrullllllllllllldllllulldrrrrrrllullrrdrrullrrddrrdddrrrrrdddddrrruurrruulldlllldluuruldluuulurrrdruudllldddllluuulluurrrrrrrrrrrdrrulllllllllllllddrrdddrrrrrddrrrrurrddldlruruullddulllldddrrruurulllldluuruldluuulurrrdruudrdddduuullllddrrdddddrruruullldlurulrdrrrrdrrrrrrurrdllllllllulllldddrrururullllrrrrdrrrrrrddrddluuuuruuldrdlllllllrrrrrrddldllddrulurrurrddluuuuruuldrdllllllrrrrrddldlldllldlulldurrdlddruulurrrrrdrulurrurrddluuuulllluulldlllluullllldlllddddrdddrrrdrrrrrrdruulurrrrrdrulurrlldlllllddllllluuulllrrrdddrrrrruurrrrrurruruulllluulldlllluullllldlllddddrdrruluurrrdddddldrrrrrrdruulurrrrrurruruulllluulldlllluullllldlllddddrdrrrruuulllddldrrrluluurrrdddddldrrrrrrdruuldlllllulllluurrrrdddrrrrrurrurrrurruruulllluulldlllluullllldlllddddrdrrrruuulllddldrrrluluurrrdddddldrrrrrrllllluuullullluuuurrruuuulluurrrrrrrrrrrlllddrdddddlldluurulrddrruuuuuluullllllllddrrdddrrdruudrrddrruuuuullllldrrrllddrrddluruldluudrrdddddrrurudldlluuuuullllldlllddddrrrdrrdddrrrrrurrurrrurruruulllluulldllldlluullllrrrrddrruldlurullllrrrrdrrrrurrddllulllldddrrururulllldlurulllrrrdrrrrdrdluulllldddrrruurullldlluurddurrrrdrrrrrrruuldrdllllllldlurulllldlurullrrdrrrrdrrrrrrddrddluuuuruuldrdllllllldlurulllldlurrrrddldlluluurrdlurrrrdrrrrrrddldllddrulurrurrddluuuuruuldrdllllllldlurulllruuuuulllldddrrdddurrrrdrrrrrrddldlldllldllurrrrrdrulurrurrddluuuuruuldrdllllllldlurullllrrrrdrrrrrrddldlldllllldddruulurrrrrdrulurrurrddluuuuruuldrdllllllldlurullldluudrrrrdrrrrrrddldlldlllllddllluldllullluurrrrddldrrrrrrdruulurrrrrdrulurrurrddluuuuruuldrdllllllldlurullldlurrrrdrrrrrrddldlldlllllldrdlllulldrrrrrdruulurrrrrdrulurrurrddluuuuruuldrdllllllldlurulllrrddldlludrruruuluuuullluldduurrruullllllllddrrdddrrrllluuululurrrrlllldllurrrrrllllldllurrrrrrlllllldllurrrrrrrddrdddrrruuurrruurrrdrrullllllrrrrrrdrrulllllllrrrrrrrdrrullllllllrrrrrrrrdrrulllllllllrrrrrrrrrdrrullllllllll"
+  },
+  {
+    "title": "sasquatch3 - level 042",
+    "definition": "#########################\n#   #   #   #   #   #   #\n# $ # # # # # # # # # $ #\n#  * * $ $ * * $ $ * *  #\n### # # # # # # # # # ###\n#  * *...... ......* *  #\n# # # ###### ###### # # #\n#  $ .#     $     #. $  #\n### #$ $$$$ @ $$$$ $# ###\n#  $ .#     $     #. $  #\n# # # ###### ###### # # #\n#  * *...... ......* *  #\n### # # # # # # # # # ###\n#  * * $ $ * * $ $ * *  #\n# $ # # # # # # # # # $ #\n#   #   #   #   #   #   #\n#########################",
+    "solution": "rdrudrrudllullldrddldduullllddlluulldduuuurruulluurruullrrrrddrruurrddrruurrddrruurrddrruuddddllddrrddllddrrlllluullddlluullddrruullllllddrrrruullllllllddrrrrrruulllllluurrdddullddrrrruulluuuulluurrdddddddullddrruuuuuuuuuurruulldddddddddduuuuuuuulluullddrrrruurrddlruulldddddddduuuuuullddrrrrrrrrrrrrrrllllllllllllddlluuudrruulluullddrrrrllllururdldrddrrrrrruurruulldddurrddlllluurrddrrrruurruulldddurrddlllluurrddrrrruurrddllllrruurruullddrrddlllluuuullddlluullddllddllddlluullddrrrluurrrruurruurrddddrddlddrddllllllllluurruuudddllddrrrrrrrrruuluuruuluuuullddllddllllrrrruurrddlllruurruurrddddllllrrrruurruurrddddlllllllrrrrrrrrrrruulldurrddllllllllllrrrrrrrrrrrruulrddlllluuuurrdddurrddlllllllllllrrrrrrruurrrrrruuldrdlllrddlllluuuurrdddurrddllllllllllrrrruurruurrddrrruuldrdlddddrruulllllllllllrrrrrrrrrddlludrruulllluullddlllddrdrdrrurrlldllurllullddrddrrrrrddrruurruulluuudrruulluuuullddddrrrrlllluullddlllddldrruluurrruurrddrrdddlldlluullrrddrrurruuulluullddlllddrrrdrrrlllullllddrddrrrrrddrruurruulluuudrruulldddllllulldrrulllldrrurrddrruullllrrrrdrruuuuuuullddllddlllddlldulldrurrruurrruurrddlllruurruurrddddllllrrrrdddllulldrrrlullllllddrddrrrrrddrruurruulluuudrruulllllrrrdddllulllldrrrrrlullllllddrddrrrrrddrruurruulluuudrruulllluulluullddlluullddlluullddlruurrddlrrruurrddrruurrddrruurrddrrlluullddrrlllluullddrrlllluullddrrrruurrddlllrrrrruurrddlllllrrrrrddrruulrurrdluldddllddrruuudlldddllulllllldrrrrrrrlllllldddrrrrrddrruurruulluuudrruulllrddddrrddlluuuuudrruullrrddrruulrddllllddrrddrruulllrddlluuuuudrrddrrddlludrruulllrddlluuudddddlluurlddrruuudddrrudddrruulllluulllllllllllllllluurrurrurrrrrddddrrrrrrrddrruuddrrdldluruluullddrluurrrruulldurrddllllllllllluuuullllldlldllddrrrrrrrrrrrrrrrrrlllddddrruuudddlluurluullllddddrruuudddlluuuurrrrddlruullllddddrruuudddlluuuurrrlllddrlddrruuudlluurrllllddrrrlddrruuudlluullllddddrruuudddlluuuurrrrluuurrdluulllllldlldllddrrrrrrrrruulurrrrullllllddrruulllldlldllddrrrrrrrrruulurrullllllddrrrrllllulldllddrrrrrrrrruuddlllddrrrluullllddrrrlddrruuudlluurrrlllllllllddrrrrrrrlllllllllddrrudlluurrrrrruulllluurruulldddddduurrdullddrruulluurrdduuuulllluurlddrrrrddddrrrrrrdduulllllluullllddrrrrrrrrlllluuurrurrdlllrrrdrrrddlddlluullllllddrruurrddlluurrrrddlluullddddrruuudddlluuuurrrllllluurrdullddrrrrlluulluurrdddullddrrrlllddllddrruuuuudrruullrrurrurrrrdlllllrrrrrdrddlddllllddlluuuuuulluurrddllddlluurrddrrddllddlluurlddrruuuulluurruurrddduuullddllddrrrrddddrruullllrrrrrrrruuruurulllllllrrrrrrdddlddlllllluulllluurruurrdddddullddrruuuuurrurrrrrrrrdlllllllllrrrrrrdddlddllllddlluuuulllluurruurrdddduuurrurrrrrrrrrrdlllllllllllrrrrrrdddlddllddrruuudllllddlluurrrrrllllllluurrduuuudddlllluurrrldullddrrrlddddllurdruuuddllur"
+  },
+  {
+    "title": "sasquatch3 - level 043",
+    "definition": "    ####\n   ##  ####\n   # $   .########\n   # $ # .   $ $ #\n#### ### .#### # #\n#  ....#$.#  # # #\n# #. $ # .#$ # # #\n#  ##  $$$@$ # # #\n##   ##  #   # # #\n ###   #  ## # # #\n   ### # ...     #\n     # #$* *$#  ##\n     # # ...$ ###\n     # $$ #   #\n     #   ######\n     #####",
+    "solution": "drrddrruuuuuuullllldddldduuruuuullldlruuldlddduuurrrrrdrrrrrdddddddlllllluudrdrddlludrruurrrruuuuuuulllllullllldddlllddrdrrdrrdddddrrudlluuuuullulluluurrrrrddlurullldrurrddlulurluuurrdlulddduuurrrrrddlurulllrrrddddluururrrrrdddddddllllluluuuruuuullldllddrdrdrlululldruuurrurrrdrrrrrdddddddlllllulululluluuurruuldrdlulddduuurrrrrdrrrrrdddddddlllllululululluuuurrrrrddlurullldlldddrrdrdrdrdrddldldlluuuuullulluluurlddrdrrdrrdddddrrururuurrrrrruuuuuuullllllldlurulrdrrrrrdddddddllllddrulurrrrllldddrruldluluurrdurruuuuuuullllldddluururrrrrdddddddllllluluuudddrdrrruullulrdrrulruulddrdddrruuuuuuulllllddddrrurddddlllululurrrrlluuulddduuuruulddduurrrrrrrrdddddddldluuuuuuuddddddrruuuuuuullllllrrrrdddddddlluuullluuuluurdlddrddrrrdddllddrulurrrrllldddrruldluluurrduuuuluurdddddlllululurrrrlluuldduuuurdduurrrrrrrdddddddldluuuuuuuddddddrruuuuuuullllllrrrrdddddddlluuulllluuuuurddldddrrrrdddllddrulurrrruuuuuuurrdddddddldluuuuuuuddddddrruuuuuuullllllrrrrdddddddlluuulllluuuuurdlddddrrrrdddldddrrululurrruuuuuuurrdddddddldluuuuuuuddddddrruuuuuuullllllrrrrdddddddlluuullllllulluuurrurrdddddrrrrdddlllululurddrdrddluluuuuddrdldrddluudddllurdruruuurrrdddluurulruuuluurddddddldlluuuluurrrlllllulluuurrurrdddduuuulldlldddrrdrrddrddluuuuddrddddluururdrdlrdrruldluluurrdldlururuuuluurddddddllluuluurrrlllllulluuurrurrdddduuuulldlldddrrdrrddrddlurdrruldlluurdrrdddrruldluuruuuuluurddddddlddrrulluruuuulldrurddddlddrrulullulldrrululuurrrdrddlldlluurduluullulluuurrurrdrrrrrrdddddddllllrruuluurddduullllllulluuurrurrdrrrrrrdddddddlllrrruuuuuuullllllddduuuulldlldddrrdrrrrrurddduulllluuuurrrrrrdddddddlluuulllluuuuulluldrdluldduurrrrdrrrrrrdddddddrruuuuuuullllll"
+  },
+  {
+    "title": "sasquatch3 - level 044",
+    "definition": "      #####\n     ##   ##\n     #  $  #\n    ## $.$ ##\n   ## $.*.$ ##\n ### $.*.*.$ ###\n##  $.*.$.*.$  ##\n#  $.*.$ $.*.$  #\n# $.*.$   $.*.$ #\n#  $.*.$ $.*.$  #\n##  $.*.$.*.$  ##\n ### $.*.*.$ ###\n   ## $.*.$ ##\n    ## $.$ ##\n     #  $  #\n     ## @ ##\n      #####",
+    "solution": "urururudldldllulululudrdrdrdrrururururruruululldldldldluluurdddurruldlluurdldrurdulullldrrurdldrrurrururrdrddldlldldldldllululululluluurdrrrrurrdrrruruululrdrddldllluudlldrllllluurdldrrrulrulrdrrddrrurruruululuululldlddldduuruururrdrddrdrddldlldllulrdrruluurdllldlluuururuururrdrddrdrddldllrrulllrrrruuldrdlulruulduuululldrdrluurdrdduullldurrrdlrdrddddllullrrddlulrrurdrururrdrddldlurruululldllldllurdrrurruululuullllddldldddrrrrrrllurlldllluuururuurrrrddrdrdrrdllrrrddlurullrddldldldldldllululululluluururrlldrldrrluurururuurrrrddrdrdrrdddldldldldldllulululullulurrlddru"
+  },
+  {
+    "title": "sasquatch3 - level 045",
+    "definition": "      #####\n      #   #\n     ## $ ##\n   ### $.$ ###\n   #  $.*.$  #\n  ## $.*.*.$ ##\n### $.*.$.*.$ ###\n#  $.*.$ $.*.$  #\n# $.*.$   $.*.$ #\n#  $.*.$ $.*.$  #\n### $.*.$.*.$ ###\n  ## $.*.*.$ ##\n   #  $.*.$  #\n   ### $.$ ###\n     ## $ ##\n      # @ #\n      #####",
+    "solution": "ruururruuludrrurruulluluulldlruuluullddldllddrdulldllddrrdrddrrurlddrluururldlddrddrruururruululudrdrrurruulluluulldldlruruuluullddldllddrdllrrrdrdrruullllulldrruluurdururuurrddduuulldrurddrdrrdlrdrdrrddlllrrruuldrdlldlddludldlddlluuudddrruldluulullurlululluurrrlllddrulurr"
+  },
+  {
+    "title": "sasquatch3 - level 046",
+    "definition": "           #####\n ########### @ ###########\n #   .   .   #     .     #\n # $$*$$$*$$ # .$ $$$.$. #\n #.....*.....#*$.$...*.$*#\n## $$*$$$*$$ # .$.$$$ $. ##\n#    .   .   #     .      #\n# ####################### #\n#   .  .  .  #  . . . .   #\n## $$* $$* $ # $.$.$.$.$ ##\n #.*.* * *.*.#*$$$ * $$$*#\n # $ *$$ *$$ # $.$.$.$.$ #\n #  .  .  .  #  . . . .  #\n ########### * ###########\n           #####",
+    "solution": "rdrrrdlddrdrrrrrrrrddlllllllddddlllluuddrrrruuurullldrrdddlluurlddrruulldrldllurdrruulduruulllddrulurdddrruuldllurdddlururrddrrruulrddllllruulldlurrrdluruurrrddllrruulllddrrurulddlllddrrrruuddrruldllllluurrrduuurrrddlurulddddllrrrudrruldlluuuurrrdlddrdluruluulldddrldruluuurrdldlddruuruullddrudddllluurrllddrrruullllllddrrruulldldruullldrldruuuuldrdrrrrrrrddlurullrrrrddlruluuurduruululuddllurluddlllluluuurrrrrrddlllulrdrrruulldldrullulldddrdrrrrruldlluruulldrulullddrrlddrullldrrrululuurdduullldrdrruldddrrulrrrdrrulllldlluuruuldullulldddlldurrddllruruuulldrurdullllllllllddrrrrrrudlllllluurrrrrrddlludrruullddllllddrrrrrruuddlludrruulluurrduldldddrruldludlllluurrdullddrruulluurrduldldddrruldludlddrddddrruldlurrdrruuddrrrrrruuuullllllllddduuulldrurdurrrrrrrrddddlllllluuudddrrrrrruuuulllllllrrrdduurrrrddddlluuudddrruuuullllddrluurrrrddddlllllluurrlluurrddluldddrrudlurdrrulldlluuurrddrdlrrrruuuullddduuurrdluldrrdddllurdrulllldruluullddrruuur"
+  },
+  {
+    "title": "sasquatch3 - level 047",
+    "definition": "           #####\n ########### @ ###########\n #  .     .  #    .$.    #\n # .$.$$$.$. #.$  $.$  $.#\n #.$$$.*.$$$.#$.*** ***.$#\n## .$.$$$.$. #.$  $.$  $.##\n#   .     .  #    .$.     #\n# ####################### #\n#   $.   .$  # $       .  #\n##  * .$. *  # .**   **$ ##\n #  $.$*$.$  # *  ***  * #\n #  * .$. *  # $**   **. #\n #  $.   .$  # .       $ #\n ########### * ###########\n           #####",
+    "solution": "rdrrrrrdddrdrrrrrddlddddllllulldlllluuuurrrrllllddddrrrruuddlllluurlddruuddrrruullrrdrruddrrrurulruulddrddlllluurrlldlldllluluuurrrrdurrdurrlllllllldddrdrrrurrdllllrrrrrrrruuuuruulllulurddrrulluuurrdduulldrldddllluuuullllldrddluddruuuurrrrdddlllluuurrdluldurrrrdllrrdddrrruuuulllddrrllddrrruullldlldrrulllldrrurrurrrddlullllrruuurrrdulldurrdlulldllurrrrdrrulldllddrrruulllddlldllurrrrrrdrullluuulldrurddurrullrrdrrulldllllulldrrrlulllulldldduulldrldrllururrrddddllllllllluluuurrrrrrrllllddrrlluurdrulllldduurrddlruulldrrllldddrruurulurrrdllrrdluullllddddrrrruuruldddrudrrulldllllluuuurrrrrrrdrdrlduulduulldrllddrdlllrruuuullllddddlddrrddddrrulrulrulrulrrrrrrlddrluurdllllrrrddluruulllllddrdrrlluluurrddllururrrrddddlllrrruuuulldlurrrrdrrddldlruulrrulrullllldldlluurrrrlllldrldddllurlurrllurlurrllluurrruulrudrlddrrurrdlll"
+  },
+  {
+    "title": "sasquatch3 - level 048",
+    "definition": " #########################\n #  #  #  #  #  #  #  #  #\n # $#$ # $#$ # $#$ # $#$ #\n #  #  #  #  #  #  #  #  #\n # $#$ # $#$ # $#$ # $#$ #\n #  #  #  #  #  #  #  #  #\n ## # ### # ### # ### # ##\n #  #  #  #  #  #  #  #  #\n #  $  #  $  #  $  #  $  #\n## ### # ### # ### # ### ##\n#   #  #  #  #  #  #  #   #\n#   #  $  #  $  #  $  #   #\n##  # ### # ### # ### #  ##\n #...........+...........#\n #########   #   #########\n         #  ###  #\n         #### ####",
+    "solution": "lllllllluurrrurddullllddrrrrrrrrrrrllllllllllllluuuluurrrurdddldrrrurddullllddrrrrrrrrrllluuuruullluldddrdddlllluurrrurddullllddrrrrrluuuluurrruuuruulddddrdllluldddrdlllulddurrrrddlllluurrruuurrruuuuuruulddddddrdllluldddrdlllulddurrrrddrdrrulllllrruuuluuuruuluurddddldddrdddrrrrrdrrullllllllruuuluurrrlllddrdddrrrrrruullluldddlddrulurrrrllluurrrrddlllllluuuluurrrurdddldddrrrruullluldddlluullluuullluuuluurddddldrrrurdddldrrrurdduuluurrrrddldddlluullluuullluuuuuluurddddddldrrrurdddldrrrurdduuluurrrrddldddlddrurulrrrrrddlurulllrrrrrrrruulllulddurrrrddlllllllruuuluurrrurdddldddrrrruulllulddurrrrddlllllluuuluurrruuuruulddddrdddldddlluuuluurrrurdddldddrrrruuuluurrrurdddldddlllllluurrrurdduuluurrrrddldddllllrruullluuullluuuluurddddldrrrurdddldrrrurdduuluurrrrddldddlllruullluuuuluuuuruulddddddrdllluldddrdllluldduuruullluuuuuluurddddddldrrrurdddldrrrurdduuluurrrrdddrruuurrrrddrdlulddrdllluuuluurrruuuruulddddrdddldddlluuuluurrrurdddrdlulddrdluuuruuuluuuuruulddddddrdllluldddrdlllulddurrruuuuruuluurddddldrrrurddddduuuullluuuuuluurddddddldrrrurdddrdluldduuruulllldddlluuullluuuuuluurddddddldrrrurdddldrrrurddullluuulllldddlluuulllldddlluuuuluuruulddddrdlllulddddduuuurrruuuuuruulddddddrdllluldddldrurdd"
+  },
+  {
+    "title": "sasquatch3 - level 049",
+    "definition": "  #########################\n  #           #           #\n###$$ $$ $$ $$.$$ $$ $$ $$###\n# $+.$..$..$..$..$..$..$..$ #\n# $..$..$..$..$..$..$..$..$ #\n#  $$.$$.$$.$$.$$.$$.$$.$$  #\n# $..$..$..$..$..$..$..$..$ #\n# $..$..$..$..$..$..$..$..$ #\n##.$$.$$.$$.$$ $$.$$.$$.$$.##\n# $..$..$..$..$..$..$..$..$ #\n# $..$..$..$..$..$..$..$..$ #\n#  $$.$$.$$.$$.$$.$$.$$.$$  #\n# $..$..$..$..$..$..$..$..$ #\n# $..$..$..$..$..$..$..$..$ #\n###$$ $$ $$ $$.$$ $$ $$ $$###\n  #           #           #\n  #########################",
+    "solution": "rrdrrrurrrdrrrurrrdrrrurrrduuulduldulldullddlllldlluuurrdulllldurdullldurrrrrrdllddrrrurrruulldllrrurrrrrrrrrrdllddrrduudlurdddluurdrrdlduullddrlurlldlluldlluldlluldlluldlluldllulduuuuddddlluullddrrrrrllluulluurrllddrrddrruuurrrddrdrrrrruuuuululllllllllldurrrrrrrrrrdrdddddllllluluulllddlruuldllluurdrlldrlddruulurdddrrruullrrddllluurrrurdurrdlllllrrddruurrdrdrrrrruuullllllrrruulrddlllddruddrruludrrdrruuullldlddrrulruddrruluruuururrdllurrrrdlluldrddrrrdddllulllrudllrrrrdrruuullldlddrruuddrruluddlulldlluurrdrrrrrdrruruuluuulllllldddduuuurrrrdllllrrrdddldllrrrrdrrulllldlluurrdrrrudrruuldrdlllluuuddrrdrruuldrdllurrrrrdlllluuuuurrddddrruulrddllulluuurrdddurrdllrddlulluuururdlldddllllllllllllllllllddlddlddrddrruurlddlddrrrrudrruluulurdddrdrruldllllllluuluuluuruuruurrrrrrrrrrrrrrrrrrddrddrddlddlluulrddrddlllludlluruuruldddldlluruullrrdddrrrrrrruuruuruuuulluurrrrddllllrrddddrruuluuuullllllddrrrrrdruudllluuuuuulldrrulllldrrurrddddddrrrurullllllrrddllluuuuddrrruuuulldldddrrrrrrruuldrdllllllrrddllluuuuddddlludrruulldluuuddrrrrrrrrrddddrddlllddlddllllluuuuuuuuluulllllllllllddrrrrrrrrrrrrrrrrrrrlluulllllllllllluuuulllddddllddrrulrdrudrruuuuuulllddddlddrrulrdrruldlluurrlluuuurrrddddlddrrulurrlddrrulurrrrddlullrrrdrrruurrruuuullllllddddrrrddllullrrdrrulllrrurrlldlluuuuurrrddddlddrrrruurrrrddldllullllluurrrrddllullrrdrrulllrrurrlddrdrrulllluurrrdllluruuuulllddddrrlluuuurrrddddrdlrddrurulrruuldrdlullllllddrrrrrdrullllllllluurrllddrrruuuuddlllddllluurrllddrrruuuuddllllllllllllddlllulurrrrrrrrrllddrrruuuuddrrrrrrrrrrrrddrrruuddddrddluuuuuddddluulurdrulddddluuddddruuuulddddlddrruuuuruuuullllllllllllllllllllllddluruldlurddddrddrruuruuludrddlddlluuluuuurruurrrddllllrrddrululuurrrddllluullllddrdrrrurrddlurdddlddlddrrrrruuuuuullullluuurrrrrrddlllddrudrudddddddrrurrrruuudddlllluuudddrrrruuurlddddrruuuulldddlllluuulrddddlluuuurrdddrrrruullullrrrrllluuludrudddrruuudruldddrddddrrrrrrruuluuluuudruldddrddrruuuurruuruulddddduuuuuruuldddddduullluurrllddrrruuddddrddluuuuddlludrururuulllllllddllddrululuurrrddlruurrrrrrrddldlldddddlddllllluuuuruuudddlddddrrrrruuluuluurrrurruruulllldddldrurrrdddldlurrrddluullddlddrruulurldllurrlluluurddldrrdddllllluuuururrdruddrdrrrruulllldlluuuurrdddlddrudrrrruulllldlludrurddddllllluuuuruurlurrrrlllldddlddddlluuuuluurrrlldurrurrddldludddddlluuuluurrrlllddrulurrulurrrrllllldddlluurrlldrdrurdddddrruuuulldlurrrdlrdddlluuuulluuluruuulllllldddrrdrrurrddldlurruuuuulllllldddrrrlddrrlldrurdrrrrdddlllluuullluruulldrulllllldddrddrruururuurrrddldlurrdrddddlluuuululldruuurrrdddldluluuuldullldrrllddrrudllurlldlluurrdrrdrddlluuddluuudllddrruurrrddlddlluuuurrrdlddldluudrrulrddrrrrruuulllluldrdlddruuddrruldlurudrdrrulldlurrurddrrulldlurrrulrulurrrdlrrrddlluluurrdlrrdllurrrrddlldluururrdllrrddrrullldluurrdrrdrrullllldluruurrrdldlurddrrulldlurrrrullrrruuldllrrrdluurrrdlllrdddrrulldluuruuuuuuuuuuuurrdluldddddddddddurrrrdlulllddldrdruuluuuuuuuuuuuulldrurddddddddddddldrdruluuuuuuuuuuuuullldulldrrrrurddddddddddddlddrruldlullllluuullllllllldduurrrdddllldlluluuurrlluuulllddldrrrlluuurrruuurrrrrrrrrrrrrrrrrrddddddlllllllllllrrrrrrrrrrrrrrruuldrdllllllllllllrrrrrrrrrrruuullrruruullllddddduurrrdddllllllllrruuuuuulllllllllllllllllllddrulurrrrrrrrrrrrrrrrrrrrrrrrlllllllllllllllllllllllddddlddddruuuuurrruuullldduurrrrrrrrrrrrrrrrrrdddddddddlllllllllllldllurrrrrrrrrdrrullrrrrruuurrruuullrruuulllddddduuuuulllllldddrrrrrrrrlluuurrrddddduurrruruulllldddlllllllllllllllllrrrrrrrrrrrrrrrrruuuuuuulllllldddddduurrrdddlllllllllllrruuurrrrrruuurrrddddduuuuurrrddddddlllllllllllrruuurrruuuulldrurdddddduurrrrrlluuurrrddddduurrrrddldlllllrruuurrrruuldrdlllluuullldddrrlluuurrrddddduurrrdduullllllllllllllllllllllllluurdldrrrrrrrrrrrrrrrrrrrrrlllllllllllllluuuurrrddduuulllddddrrrrrrrrrrrlllllllluuuulllllldrurrdrullldrulllldrrrurrrrrddddlllllluuddrrrrrruuuullllldlurrrddduuulllddddrrrrrrrrrrrllllluuuullllldrurddduullldddrrrrrrrrlluuuurrdlulddduullulddduuullllldrurddd"
+  },
+  {
+    "title": "sasquatch3 - level 050",
+    "definition": " ####                   ####\n #  #####################  #\n #    ....... @ .......    #\n #  # .###############. #  #\n###  #.    #  #   #   .#  ###\n #     #   $  #   $  #     #\n #     ##$##  ##$##  #     #\n ###   #  ##$##  #####   ###\n #  #  #  $   $  $   #  #  #\n #     #  #   #  #   #     #\n #  #  #####$######$##  #  #\n ##   ##   #  #   #  ##   ##\n #######   $  #   $  #######\n       ##$##  ##$##  #\n###### #  #####  ##$## ######\n#    # #  $   $  $   # #    #\n###### #  #   #  #   # ######\n       ###############",
+    "solution": "rrrrrrrrddllldllulldrdduurrrurrruullllllllllllllllddrrrdddlddruuuululluurrrrrrrrrrrrrrrrddllldlllddldlldllulrdrrurruruurrrurrruullllllllllllllllddrrdrrulllrrdddlddrurrdrrurruruurrrurrruulllllllllllllllllllddrdrruulurrrrrrrrrrrrrrrrrrrlldddrrururuulddddrdlluldddldrrluuuulullldlllddldlldllulluuurulllrrddddrrdrrulllrrrrruruurrrurrruulllllllllllllllllllddrdrruulurrrrrrrrrrrrrrrrrrrlldddrrururuulddddrdlluldddldruuuuluuullllllllllllllllddrrrdddlddruuuurulllrrddddrrrrrruruurrrurrruulllllllllllllllllllddrdrruulurrrrrrrrrrrrrrrrrrrlldddrrururuulddddrdlllulddduuuullldlllddldllluuruuldlluldddlddruuuurulllrrddddrrrrrruruurrrurrruulllllllllllllllllllddrdrruulurrrrrrrrrrrrrrrrrrrlldddrrururuulddddrdlllulduullldlllddldllluurulllrrdddllluuurulllrrrdrrdddrrruruurrrurrruulllllllllllllllldddlddruuuulurrrrrrrrrrrrrrrrrrrlldddrrururuuldddlddrrulldlluulllddrulurrlldlllddldllluuullulllluurrrrrrrrrrrrrrrrrrrddlddlluuurulllllllllllllllllllrrdddllululuurddddldrrurdddrdllruuuururrrrdrrdddrrrdruuudldllluuullulllluurrrrrrrrrrrrrrrrddllldllulldrrrrdrulurrlldlllddldllluuullulllluurrrrrrrrrrrrrrrrrrrddlddlluuurulllllllllllllllllllrrdddllululuurddddldrrurdddrdluuuururrrrdrrdddrrrrrrdrrullllllldllurrrrdruuudldllluuullulllluurrrrrrrrrrrrrrrrddllldllulldrrrrdrulurrlldlllddldllluuullulllluurrrrrrrrrrrrrrrrrrrddlddlluuurulllllllllllllllllllrrdddllululuurddddldrrrurddduuuurrrrdrrddddddrddluuuuuuurulllrrdddllluuurulllrrrdrrdddrrruruurrrurrruulllllllllllllllldddlddruuuulurrrrrrrrrrrrrrrrrrrllddddrruururuulddddldlluullldllldddrrrdddrddluuuurullllllldluuurulllrrdddllluuurulllrrrdrrdddrrruruurrrurrruulllllllllllllllldddlddruuuulurrrrrrrrrrrrrrrrrrrllddllldllldddrrrddddllulldrddlddrurrdrruluuuuuurullllllldluuurulllrrdddllluuurulllrrrdrrdddrrruruurrrurrruulllllllllllllllldddduurrrrdrrdddrrrrrrrddddllulldrddlddrurrdruuuuuuurullllllldllurrrrdruuudldllluuullulllluurrrrrrrrrrrrrrrrddllldllulldrrrrurrrddrrurrdluuuruulddddlldluuurulllllllllllllllllllrrdddllululuurddddldrurrrurrrrdrrdddrrruruurrrdrulurrlldlllddldllluuullulllluurrrrrrrrrrrrrrrrrrrddldlluurulllllllllllllllllllrrdddllululuurddddrrrurrrrdrrdddrrrrrrrddddllulldrddldrrrdruuuuuuurullllllldllurrrrdruuudldllluuullulllluurrrrrrrrrrrrrrrrddllldllulldrrrrdrulurrlldlllddldllluuullulllluurrrrrrrrrrrrrrrrrrrddldlluudllldlllddldllluuullulllluurrrrrrrrrrrrrrrrrrllddllldllldddrrrddddlluldddldrrrdruuuuuuurullllllldllurrrrdruuudldllluuullulllluurrrrrrrrrrrrrrrrddllldllulldrrrrlllddldlllddddllulldrddlddrurrdrrurrrrrdruuuuuuurullllllllllrruuulllddlddruuuurulllrrrdrrdddrrruruurrrurrruulllllllllllllllllllddrdrruudrrrrdrrdddrrruruurrrurrruullllllllllllllllllrrddrrrrdrrdddddddllulldrddlddrurrrrrrrrrdruuuuuuurullllllllllrruuulllddlddruuuululldllululurrrrrrrrrrrrrrrrrrrrrlddllldlllddldlllddddllulldrddldrrrrrrrrrrdruuuuuuurullllllllllrruuullulllrrrdrrdddrrruruurrrurrruulllllllllllllllllllddrdrruudrrrrdrrdddrrruruurrrurrruullllllllllllllllllrrdddldddruuuuudrrrdddlddruuuurulllrrrdrrdddrrruruurrrurrruulllllllllllllllllrddrrrrdrrdddddddlluldddldrrrrrrrrrrdruuuuuuurullllllllllrruuulllddlddruuuululldlddruuuulurrrrrrllllldddllululuurdrrrrrrrlllldddllululurrrrrrrllldddlddlururuuullldddrrdruuulurrrllllldddldrrrdruuuulurrldddldddddruuuuuuulurdddlddddddlluluurdrrdruuuuuuuddlddddddllulurrrdruuuuuurrdrrulllrrrdrrdddrrruruurrrurrrdrdddluuuuurullllllrrrrrdddrrururuuldlllllllrrrrdddrrururulllllllrrrdddrddrululuuurrrdddlldluuurulllrrrrrdddrdllldluuuurullrdddrdddddluuuuuuuruldddrddddddrruruuldlldluuuuuuuddrddddddrrurullldluuuuuulllddrulurr"
+  }
+]

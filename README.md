@@ -1,20 +1,28 @@
 # Sokoban
 
-This project is a Sokoban clone to just demonstrate the use of React and Hooks.  
-It features unlimited undo, and almost 500 sokoban puzzles.
+My computer optimized solutions for Sokoban Sasquatch levels.
 
-You can play it [here](http://ecyrbe.github.io/sokoban).
+I solved Sokoban levels and wrote a program to optimize the solutions.
 
+Optimization code is in `scripts/src/Level.ts`.
 
-## Screenshot
+Solutions can be replayed here: http://redcapital.pw/sokoban/
 
-![game screenshot](sokoban.png)
+Web player uses https://github.com/ecyrbe/sokoban by https://github.com/ecyrbe .
 
-## Licensing
-Copyright 2020 ecyrbe
+Some modifications were made to allow replays.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## To run locally
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+```
+bun install
+bun start
+```
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Scripts
+
+```
+cd scripts/
+bun generate-game-levels.ts # to generate game levels file for the sokoban web player
+bun generate-optimized-levels # to run optimization script
+```
